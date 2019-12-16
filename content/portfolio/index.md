@@ -2,6 +2,7 @@
 title: Portfolio
 author: Kevin Lloyd
 type: page
+menu: main
 date: 2009-05-21T17:17:05+00:00
 aktt_notify_twitter:
   - yes
