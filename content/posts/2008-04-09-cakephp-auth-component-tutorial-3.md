@@ -17,7 +17,7 @@ This is the third installment of my [Auth Component Tutorial][1]. This tutorial 
   
 
 
-<img src="https://i1.wp.com/webdevelopment2.com/wp-content/plugins/wp-downloadmanager/images/drive_go.gif" alt="Download: CakePHP Auth 1" title="Download: CakePHP Auth 1" style="vertical-align: middle;" data-recalc-dims="1" />&nbsp;&nbsp;**[CakePHP Auth 1][2]** (4.3 KiB, 18,444 hits)
+<img src="http://webdevelopment2.com/wp-content/plugins/wp-downloadmanager/images/drive_go.gif" alt="Download: CakePHP Auth 1" title="Download: CakePHP Auth 1" style="vertical-align: middle;" />&nbsp;&nbsp;**[CakePHP Auth 1][2]** (4.3 KiB, 18,444 hits)
 
 
   

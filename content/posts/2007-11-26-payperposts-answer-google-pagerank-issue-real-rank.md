@@ -8,7 +8,7 @@ categories:
   - General
 
 ---
-<a href="https://webdevelopment2.com/payperposts-answer-google-pagerank-issue-real-rank/array-2/" rel="attachment wp-att-271" title="Google TShirt - Image by: dullhunk"><img src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/google-tshirt.thumbnail.jpg?resize=204%2C300&#038;ssl=1" alt="Google TShirt - Image By:dullhunk" align="left" height="300" width="204" data-recalc-dims="1" /></a>By now you&#8217;ve all either heard or experienced first hand the blow dealt to the Page Rank of many websites by the mighty hand of Google. They are basically targeting any websites that serve links, which are not _natural_. This generally includes any links that have been sold on the website.
+<a href="https://webdevelopment2.com/payperposts-answer-google-pagerank-issue-real-rank/array-2/" rel="attachment wp-att-271" title="Google TShirt - Image by: dullhunk"><img src="https://webdevelopment2.com/wp-content/uploads/google-tshirt.thumbnail.jpg" alt="Google TShirt - Image By:dullhunk" align="left" height="300" width="204" /></a>By now you&#8217;ve all either heard or experienced first hand the blow dealt to the Page Rank of many websites by the mighty hand of Google. They are basically targeting any websites that serve links, which are not _natural_. This generally includes any links that have been sold on the website.
 
 [PayPerPost][1] is one of the largest companies out there that pay bloggers to post about different things. They are generally instructed to keep their reviews relevant to their content, but sometimes bloggers stray a bit. Of course Google has made these blogs a prime target for the Page Rank drop.
 

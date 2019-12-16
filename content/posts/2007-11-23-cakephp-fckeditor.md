@@ -13,7 +13,7 @@ tags:
   - PHP
 
 ---
-<img src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/xhtml.jpg?resize=450%2C191&#038;ssl=1" alt="XHTML" class="imageframe" height="191" width="450" data-recalc-dims="1" />
+<img src="https://webdevelopment2.com/wp-content/uploads/xhtml.jpg" alt="XHTML" class="imageframe" height="191" width="450" />
   
 Now i doubt it has crossed anyone&#8217;s mind to use CakePHP to create a custom content management system (CMS). Even though you&#8217;re not designing a full blown CMS, sometimes it&#8217;s nice to give novice users a way to create HTML content for a website or web application. The simplest way to do this is to integrate a WYSIWYG (What You See Is What You Get) editor.
 

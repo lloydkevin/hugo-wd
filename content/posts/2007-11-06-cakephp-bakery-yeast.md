@@ -11,7 +11,7 @@ tags:
   - CakePHP
 
 ---
-<a href="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/bakery-down.png?ssl=1" rel="lightbox[pics-1194355910]" title="CakePHP Bakery Down"><img src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/bakery-down.thumbnail.png?resize=450%2C166&#038;ssl=1" alt="CakePHP Bakery Down" class="imageframe" height="166" width="450" data-recalc-dims="1" /></a>
+<a href="https://webdevelopment2.com/wp-content/uploads/bakery-down.png" rel="lightbox[pics-1194355910]" title="CakePHP Bakery Down"><img src="https://webdevelopment2.com/wp-content/uploads/bakery-down.thumbnail.png" alt="CakePHP Bakery Down" class="imageframe" height="166" width="450" /></a>
   
 Today I popped onto the [CakePHP Bakery][1] looking for the [obAuth Component][2]. To my surprise, I got a blank page.
 

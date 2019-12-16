@@ -12,7 +12,7 @@ categories:
 ---
 [Weebly][1] has finally launched, well again. What is [Weebly][1]? It&#8217;s online website creation using the latest and greatest of web 2.0. It&#8217;s a WYSIWYG editor, but so much more. You can choose to host you website at Weebly, where you will get a sub-domain, or you can host at your own domain. For the latter option you will need to change the CNAME records of your domain name so that they point to _whaterver.weebly.com._
 
-[<img src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/weebly.jpg?ssl=1" title="Weebly" alt="Weebly" align="left" border="0" data-recalc-dims="1" />][1]
+[<img src="https://webdevelopment2.com/wp-content/uploads/weebly.jpg" title="Weebly" alt="Weebly" align="left" border="0" />][1]
 
 Everything is done in a drag and drop interface: pictures, text, headings, even page titles. It reminds me of Google&#8217;s website creator just a bit.
 

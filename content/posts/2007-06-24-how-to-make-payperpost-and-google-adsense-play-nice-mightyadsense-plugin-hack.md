@@ -20,13 +20,13 @@ The [MightyAdsense Plugin][1] has many useful options. You can store up to 10 di
 
 But here&#8217;s where the magic comes in. You can chose certain ads to be automatically inserted into posts and pages. One your homepage, category list, etc; where you list many different posts on one page, you can chose to insert specific ads into certain ads on the page. Namely the first, second, and third posts. This is the set up I have for my first post:
 
-<a rel="lightbox" href="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/2007/ads/ad_post_1.png?ssl=1"><img title="ad_post_1.png" src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/2007/ads/.thumbs/.ad_post_1.png?resize=400%2C376&#038;ssl=1" border="0" alt="ad_post_1.png" width="400" height="376" data-recalc-dims="1" /></a>
+<a rel="lightbox" href="https://webdevelopment2.com/wp-content/uploads/2007/ads/ad_post_1.png"><img title="ad_post_1.png" src="https://webdevelopment2.com/wp-content/uploads/2007/ads/.thumbs/.ad_post_1.png" border="0" alt="ad_post_1.png" width="400" height="376" /></a>
 
 The second post I leave blank, but have the following on the third:
   
 <a rel="lightbox" href="/wp-content/uploads/2007/ads/ad_post_3.png"><img title="ad_post_3.png" src="/wp-content/uploads/2007/ads/.thumbs/.ad_post_3.png" border="0" alt="ad_post_3.png" width="400" height="206" /></a>
 
-Now this is what I have on every page/post:<a rel="lightbox" href="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/2007/ads/ad_post.png?ssl=1"><img title="ad_post.png" src="https://i2.wp.com/webdevelopment2.com/wp-content/uploads/2007/ads/.thumbs/.ad_post.png?resize=400%2C382&#038;ssl=1" border="0" alt="ad_post.png" width="400" height="382" data-recalc-dims="1" /></a>
+Now this is what I have on every page/post:<a rel="lightbox" href="https://webdevelopment2.com/wp-content/uploads/2007/ads/ad_post.png"><img title="ad_post.png" src="https://webdevelopment2.com/wp-content/uploads/2007/ads/.thumbs/.ad_post.png" border="0" alt="ad_post.png" width="400" height="382" /></a>
 
 #### PayPerPost Says No Ads
 

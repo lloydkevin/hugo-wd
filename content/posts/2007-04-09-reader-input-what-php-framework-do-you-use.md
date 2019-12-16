@@ -47,11 +47,11 @@ What do you look for in a PHP Framework?
     </p>
   </div>
   
-  <input type="hidden" id="poll_3_nonce" name="wp-polls-nonce" value="79e4b59679" />
+  <input type="hidden" id="poll_3_nonce" name="wp-polls-nonce" value="0ad440e669" />
 </div>
 
 <div id="polls-3-loading" class="wp-polls-loading">
-  <img src="https://i0.wp.com/webdevelopment2.com/wp-content/plugins/wp-polls/images/loading.gif?resize=16%2C16&#038;ssl=1" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" data-recalc-dims="1" />&nbsp;Loading ...
+  <img src="https://webdevelopment2.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...
 </div>
 
  [1]: http://en.wikipedia.org/wiki/PHP_frameworks#PHP

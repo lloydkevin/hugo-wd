@@ -16,7 +16,7 @@ categories:
   
 [
   
-<img id="image123" src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/free-icons.gif?ssl=1" alt="Free Icons" data-recalc-dims="1" />][1]
+<img id="image123" src="https://webdevelopment2.com/wp-content/uploads/free-icons.gif" alt="Free Icons" />][1]
 
 [Sweetie | Free icon set][1]
 

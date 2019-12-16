@@ -13,7 +13,7 @@ tags:
   - Linux
 
 ---
-<img class="imageframe" src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/oven-knob2.jpg?resize=500%2C375&#038;ssl=1" alt="Oven Knob" width="500" height="375" data-recalc-dims="1" />
+<img class="imageframe" src="https://webdevelopment2.com/wp-content/uploads/oven-knob2.jpg" alt="Oven Knob" width="500" height="375" />
 
 ### Patty Cake, Patty Cake, Baker&#8217;s Man
 
@@ -29,7 +29,7 @@ Currently, we run the Bake routine from the command line. I&#8217;m hoping soone
 
 Although this is not necessary, one thing I like to do is add both _bake_ and the _PHP_ executable to my path. To do this, we go to the Windows _System Properties_ dialog, then the _Advanced_ tab, and click on _Environment Variables_.
   
-<img class="imageframe" src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/system-variables.png?resize=384%2C585&#038;ssl=1" alt="Setting PATH in Windows" width="384" height="585" align="left" data-recalc-dims="1" />
+<img class="imageframe" src="https://webdevelopment2.com/wp-content/uploads/system-variables.png" alt="Setting PATH in Windows" width="384" height="585" align="left" />
   
 You find the _Path_ system variable and add your PHP (D:\wamp\php;) and cake console (D:\wamp\www\cake\cake\console) paths, separated by semicolons.
 

@@ -12,7 +12,7 @@ categories:
 ---
 ### Introduction
 
-[<img src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/jquery_logo.gif?ssl=1" title="jQuery - Write Less, Do More" alt="jQuery - Write Less, Do More" align="left" data-recalc-dims="1" />][1]In the spirit of rapid web development, I&#8217;ve stumbled upon [jQuery][1]. Here&#8217;s a testimonial from a [jQuery][1] user:
+[<img src="https://webdevelopment2.com/wp-content/uploads/jquery_logo.gif" title="jQuery - Write Less, Do More" alt="jQuery - Write Less, Do More" align="left" />][1]In the spirit of rapid web development, I&#8217;ve stumbled upon [jQuery][1]. Here&#8217;s a testimonial from a [jQuery][1] user:
 
 > You start with 10 lines of jQuery that would have been 20 lines of tedious DOM JavaScript. By the time you are done it&#8217;s down to two or three lines and it couldn&#8217;t get any shorter unless it read your mind.&#8221;
 

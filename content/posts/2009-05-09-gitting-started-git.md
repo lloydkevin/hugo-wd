@@ -19,7 +19,7 @@ tags:
   - tutorial
 
 ---
-<img src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/git-trunk.jpg?resize=400%2C332&#038;ssl=1" alt="Git Trunk" title="git-trunk" width="400" height="332" class="size-full wp-image-481" srcset="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/git-trunk.jpg?w=400&ssl=1 400w, https://i0.wp.com/webdevelopment2.com/wp-content/uploads/git-trunk.jpg?resize=300%2C249&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" />
+<img src="https://webdevelopment2.com/wp-content/uploads/git-trunk.jpg" alt="Git Trunk" title="git-trunk" width="400" height="332" class="size-full wp-image-481" srcset="https://webdevelopment2.com/wp-content/uploads/git-trunk.jpg 400w, https://webdevelopment2.com/wp-content/uploads/git-trunk-300x249.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
   
 I&#8217;m sure you guys have heard about [Git][1]. It&#8217;s been making a lot of waves lately. It seems that I&#8217;m always the last to jump on the bandwagon when it comes to things like that, but I&#8217;m finally here.
 

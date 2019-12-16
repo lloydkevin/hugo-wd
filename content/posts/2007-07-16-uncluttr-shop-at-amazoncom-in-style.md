@@ -11,7 +11,7 @@ categories:
   - Money
 
 ---
-<a href="http://www.uncluttr.com/" target="_blank"><img src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/2007/07/uncluttr.gif?resize=268%2C76&#038;ssl=1" alt="uncluttr.gif" title="uncluttr.gif" border="0" height="76" width="268" data-recalc-dims="1" /></a>
+<a href="http://www.uncluttr.com/" target="_blank"><img src="https://webdevelopment2.com/wp-content/uploads/2007/07/uncluttr.gif" alt="uncluttr.gif" title="uncluttr.gif" border="0" height="76" width="268" /></a>
   
 OK, now this is really cool. If you ask me it&#8217;s a beautiful use of AJAX.
 
@@ -20,7 +20,7 @@ OK, now this is really cool. If you ask me it&#8217;s a beautiful use of AJAX.
   3. Click on an item and get a pop up with details
   4. Click and Drag items to the shopping cart on the right
 
-<a href="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/2007/07/uncluttr.png?ssl=1" rel="lightbox"><img src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/2007/07/.thumbs/.uncluttr.png?resize=400%2C156&#038;ssl=1" alt="uncluttr.png" title="uncluttr.png" border="0" height="156" width="400" data-recalc-dims="1" /></a>
+<a href="https://webdevelopment2.com/wp-content/uploads/2007/07/uncluttr.png" rel="lightbox"><img src="https://webdevelopment2.com/wp-content/uploads/2007/07/.thumbs/.uncluttr.png" alt="uncluttr.png" title="uncluttr.png" border="0" height="156" width="400" /></a>
 
 Yep, that&#8217;s it. The name fits great. There is absolutely none of the clutter that you get from <a href="http://www.amazon.com/" target="_blank">Amazon&#8217;s</a> main website.
 

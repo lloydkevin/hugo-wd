@@ -11,7 +11,7 @@ categories:
   - Work
 
 ---
-<img align="right" title="contract.jpg" alt="contract.jpg" src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/contract.jpg?ssl=1" data-recalc-dims="1" />In the world of web design you often come across people who don&#8217;t exactly know what they want. And that is usually a good thing for you because you can then charge them for the minimum and increase based on &#8220;added features&#8221;, which they should have seen up front, but they don&#8217;t always. This has the slight problem of having a contract with an indefinite time period.
+<img align="right" title="contract.jpg" alt="contract.jpg" src="https://webdevelopment2.com/wp-content/uploads/contract.jpg" />In the world of web design you often come across people who don&#8217;t exactly know what they want. And that is usually a good thing for you because you can then charge them for the minimum and increase based on &#8220;added features&#8221;, which they should have seen up front, but they don&#8217;t always. This has the slight problem of having a contract with an indefinite time period.
 
 <!--adsense-->A time period is usually scheduled for delivery of the product in the contract. This ensures the buyer that the product will be delivered in a reasonable time frame so that you don&#8217;t keep extending the job for not real reason. One thing I&#8217;ve learnt, however, is that you need to also specify a time frame that the user has to review the work and ensure that everything is to his liking. You absolutely need this if you&#8217;re not charging by the hour.
 

@@ -22,7 +22,7 @@ First of all, you can display anything in these blocks: HTML, JavaScript, even P
   * If the ad was viewed a certain number of times &#8211; You could set and expiration duration
   * And even custom PHP conditions &#8211; Here you can stick in WordPress functions such as _in_category()_;
 
-[<img src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/who-sees-ads.png?resize=556%2C172&#038;ssl=1" title="Who Sees Ads" alt="Who Sees Ads" class="imageframe imgalignleft" align="left" height="172" width="556" data-recalc-dims="1" />][1]You can insert these contexts into your template with PHP calls or into your posts, with comments.
+[<img src="https://webdevelopment2.com/wp-content/uploads/who-sees-ads.png" title="Who Sees Ads" alt="Who Sees Ads" class="imageframe imgalignleft" align="left" height="172" width="556" />][1]You can insert these contexts into your template with PHP calls or into your posts, with comments.
 
 With Who Sees Ads? you can completely revamp your ad structure. I&#8217;ve even begun to experiment with it on here. There&#8217;s just one slight problem with WP-Cache, but you can&#8217;t have caching with dynamic content, can you?
 

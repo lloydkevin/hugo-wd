@@ -12,7 +12,7 @@ tags:
   - PHP
 
 ---
-<img src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/list.jpg?resize=550%2C302&#038;ssl=1" alt="List" class="imageframe" height="302" width="550" data-recalc-dims="1" />
+<img src="https://webdevelopment2.com/wp-content/uploads/list.jpg" alt="List" class="imageframe" height="302" width="550" />
 
 With this post I&#8217;m introducing a new segment to this blog: _Cute CakePHP Trick of the Day._
 

@@ -12,9 +12,9 @@ categories:
 ---
 We all know that phpBB is prone to a number of security risks. People used to use Google (among other search engines) and search for &#8220;_phpbb_&#8221; to find a list of phpBB sites and try their exploits on them. The phpBB development team addressed this problem a couple versions before. They stopped displaying the version number in the footer of the forum.
   
-<img src="https://i1.wp.com/webdevelopment2.com/wp-images/phpbb-footer.gif?ssl=1" alt="phpBB Footer" data-recalc-dims="1" />
+![phpBB Footer][1]
 
-Right now, Google has out right blocked the entire search. Take a [look][1]:
+Right now, Google has out right blocked the entire search. Take a [look][2]:
 
 > We&#8217;re sorry&#8230;
 > 
@@ -24,4 +24,5 @@ Right now, Google has out right blocked the entire search. Take a [look][1]:
 > 
 > We apologize for the inconvenience, and hope we&#8217;ll see you again on Google.
 
- [1]: http://www.google.com/search?q=phpbb
+ [1]: https://webdevelopment2.com/wp-images/phpbb-footer.gif
+ [2]: http://www.google.com/search?q=phpbb

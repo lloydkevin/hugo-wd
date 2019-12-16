@@ -26,7 +26,7 @@ In addition to trying all of the above on my existing blogs, I&#8217;ve tried th
 
 I noticed that the stuff would always break when I copied over the _options_ table to my WordPress database. So after many, many hours and copying records (_almost_) one by one into the newly installed WordPress database, I&#8217;ve finally narrowed it down. The **_WordPress address (URL)_ needs to be all lowercase** or else the thing just doesn&#8217;t work. I don&#8217;t really have an explanation for it and frankly, after all this time, I don&#8217;t really care; I&#8217;m just happy it finally works.
 
-[<img class="alignnone size-medium wp-image-331" title="Wordpress General Settings" src="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/wordpress-general-settings.png?resize=300%2C113&#038;ssl=1" alt="" width="300" height="113" srcset="https://i1.wp.com/webdevelopment2.com/wp-content/uploads/wordpress-general-settings.png?resize=300%2C113&ssl=1 300w, https://i1.wp.com/webdevelopment2.com/wp-content/uploads/wordpress-general-settings.png?w=814&ssl=1 814w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][12]
+[<img class="alignnone size-medium wp-image-331" title="Wordpress General Settings" src="https://webdevelopment2.com/wp-content/uploads/wordpress-general-settings-300x113.png" alt="" width="300" height="113" srcset="https://webdevelopment2.com/wp-content/uploads/wordpress-general-settings-300x113.png 300w, https://webdevelopment2.com/wp-content/uploads/wordpress-general-settings.png 814w" sizes="(max-width: 300px) 100vw, 300px" />][12]
 
 Now, I suppose that it&#8217;s my fault for wanting _fancy_ looking URLs, so I take the blame.
 
@@ -43,4 +43,4 @@ Hope everyone else finds this helpful.
  [9]: http://www.davidtan.org/wordpress-25-media-manager-not-working-in-opera/
  [10]: http://www.colicinfant.com/blog/biz-stuff/how-to-insert-photos-to-wordpress-blog-25/
  [11]: http://joshhighland.com/blog/2008/03/30/wordpress-25-image-upload-problem-solved/
- [12]: https://i1.wp.com/webdevelopment2.com/wp-content/uploads/wordpress-general-settings.png?ssl=1
+ [12]: https://webdevelopment2.com/wp-content/uploads/wordpress-general-settings.png

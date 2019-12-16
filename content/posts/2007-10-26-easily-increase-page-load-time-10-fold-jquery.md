@@ -18,7 +18,7 @@ This is referred to as Lazy Loading. It&#8217;s exactly the opposite of preloadi
 
 ### Enter Lazy Load Plugin for jQuery
 
-<img src="https://i0.wp.com/www.appelsiini.net/images/jquery.gif" align="left" data-recalc-dims="1" />Lazyloader is inspired by [<span class="caps">YUI</span> ImageLoader][1] Utility by Matt Mlinac. It simply delays the loading of images on the web page until they are within view. This gives the page quicker initial load time.
+<img src="http://www.appelsiini.net/images/jquery.gif" align="left" />Lazyloader is inspired by [<span class="caps">YUI</span> ImageLoader][1] Utility by Matt Mlinac. It simply delays the loading of images on the web page until they are within view. This gives the page quicker initial load time.
 
 This works out great if you have a page with a lot of heavy images lower down and a lot of navigation links at the top. If the user is trying to get to a specific page using this plugin would be a great help.
 

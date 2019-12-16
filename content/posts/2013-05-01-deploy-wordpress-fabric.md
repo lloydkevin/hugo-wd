@@ -12,7 +12,7 @@ tags:
   - wordpress
 
 ---
-[<img class="size-medium wp-image-721 " src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/sewing-machine.jpg?resize=300%2C169&#038;ssl=1" alt="by RevAllyson" width="300" height="169" srcset="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/sewing-machine.jpg?resize=300%2C169&ssl=1 300w, https://i0.wp.com/webdevelopment2.com/wp-content/uploads/sewing-machine.jpg?resize=1024%2C577&ssl=1 1024w, https://i0.wp.com/webdevelopment2.com/wp-content/uploads/sewing-machine.jpg?w=2048&ssl=1 2048w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][1]
+[<img class="size-medium wp-image-721 " src="https://webdevelopment2.com/wp-content/uploads/sewing-machine-300x169.jpg" alt="by RevAllyson" width="300" height="169" srcset="https://webdevelopment2.com/wp-content/uploads/sewing-machine-300x169.jpg 300w, https://webdevelopment2.com/wp-content/uploads/sewing-machine-1024x577.jpg 1024w, https://webdevelopment2.com/wp-content/uploads/sewing-machine.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 After reading [this article][2], I started thinking more about my WordPress deployment process.
 
@@ -68,7 +68,7 @@ Fabric is very flexible that way. If you don&#8217;t like or need the rsync comm
 
 Hope the simplicity will help you guys.
 
- [1]: https://i0.wp.com/webdevelopment2.com/wp-content/uploads/sewing-machine.jpg?ssl=1
+ [1]: https://webdevelopment2.com/wp-content/uploads/sewing-machine.jpg
  [2]: http://wp.smashingmagazine.com/2013/04/15/wordpress-deployment-survey/
  [3]: https://webdevelopment2.com/gitting-started-git/ "Gitting Started with Git – Quick and Dirty"
  [4]: https://gist.github.com/rmanalan/735260 "Git Workflow"

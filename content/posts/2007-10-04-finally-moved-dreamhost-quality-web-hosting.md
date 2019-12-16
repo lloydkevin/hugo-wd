@@ -9,7 +9,7 @@ categories:
   - MySQL
 
 ---
-<img src="https://i0.wp.com/webdevelopment2.com/wp-content/uploads/moving.jpg?resize=200%2C171&#038;ssl=1" alt="Moving" class="imageframe imgalignleft" height="171" width="200" data-recalc-dims="1" />This has been a long time in the making, but I&#8217;ve finally decided to move this blog (and a few other things I&#8217;m hosting) to DreamHost. Why DreamHost? Because they offer a great package, what can I say? I&#8217;ve been hosting at 1and1 for over a year, but after a few [bad experiences][1], I&#8217;ve decided to move to something a bit more robust.
+<img src="https://webdevelopment2.com/wp-content/uploads/moving.jpg" alt="Moving" class="imageframe imgalignleft" height="171" width="200" />This has been a long time in the making, but I&#8217;ve finally decided to move this blog (and a few other things I&#8217;m hosting) to DreamHost. Why DreamHost? Because they offer a great package, what can I say? I&#8217;ve been hosting at 1and1 for over a year, but after a few [bad experiences][1], I&#8217;ve decided to move to something a bit more robust.
 
 Although it&#8217;s not really fair to compare DreamHost to 1and1 Hosting, let&#8217;s give it a shot:
 
