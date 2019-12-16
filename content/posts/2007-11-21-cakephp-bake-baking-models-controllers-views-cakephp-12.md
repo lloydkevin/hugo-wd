@@ -13,7 +13,7 @@ tags:
   - Linux
 
 ---
-<img class="imageframe" src="https://webdevelopment2.com/wp-content/uploads/oven-knob2.jpg" alt="Oven Knob" width="500" height="375" />
+<img class="imageframe" src="/wp-content/uploads/oven-knob2.jpg" alt="Oven Knob" width="500" height="375" />
 
 ### Patty Cake, Patty Cake, Baker&#8217;s Man
 
@@ -28,9 +28,9 @@ Currently, we run the Bake routine from the command line. I&#8217;m hoping soone
 ### Setting Up In Windows
 
 Although this is not necessary, one thing I like to do is add both _bake_ and the _PHP_ executable to my path. To do this, we go to the Windows _System Properties_ dialog, then the _Advanced_ tab, and click on _Environment Variables_.
-  
-<img class="imageframe" src="https://webdevelopment2.com/wp-content/uploads/system-variables.png" alt="Setting PATH in Windows" width="384" height="585" align="left" />
-  
+
+<img class="imageframe" src="/wp-content/uploads/system-variables.png" alt="Setting PATH in Windows" width="384" height="585" align="left" />
+
 You find the _Path_ system variable and add your PHP (D:\wamp\php;) and cake console (D:\wamp\www\cake\cake\console) paths, separated by semicolons.
 
 Linux users, you haven&#8217;t [Been forgotten][1].
@@ -42,7 +42,7 @@ When I bake, I like to bake from scratch, so to speak. Let&#8217;s assume we&#82
 > `cake bake baz`
 
 and follow the prompts.
-  
+
 This will generate a new application folder called _baz_ ready for use. After this, you would go to the application folder and set up your configurations; core.php, database.php, etc. One thing about baking an application from scratch is that it bakes the application with a new, random Security Salt variable. Pretty cool huh?
 
 You could even bake your database configuration for the database.php file, but let&#8217;s keep not get carried away here.

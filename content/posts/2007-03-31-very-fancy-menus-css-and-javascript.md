@@ -13,7 +13,7 @@ categories:
 ---
 Saw this and I was amazed:
 
-[<img src="https://webdevelopment2.com/wp-content/uploads/fancy_menu.gif" alt="fancy_menu.gif" title="fancy_menu.gif" border="0" height="59" width="451" />][1]
+[<img src="/wp-content/uploads/fancy_menu.gif" alt="fancy_menu.gif" title="fancy_menu.gif" border="0" height="59" width="451" />][1]
 
 All done with CSS And JavaScript. The implementation is also brilliantly simple. And it all fits in 1.5KB. What&#8217;s to lose?
 

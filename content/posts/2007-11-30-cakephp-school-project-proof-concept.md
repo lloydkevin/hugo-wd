@@ -13,7 +13,7 @@ tags:
 
 ---
 <p align="center">
-  <a href="http://www.flickr.com/photos/robdup/71726001/" title="Prototype - Image By: robdup"><img src="https://webdevelopment2.com/wp-content/uploads/prototype.jpg" alt="Prototype: Image by robdup" border="0" height="379" width="504" /></a>
+  <a href="http://www.flickr.com/photos/robdup/71726001/" title="Prototype - Image By: robdup"><img src="/wp-content/uploads/prototype.jpg" alt="Prototype: Image by robdup" border="0" height="379" width="504" /></a>
 </p>
 
 Before I start let me say that CakePHP is great. I love it to death. Currently, I&#8217;m coding a semester long class project for a friend. I&#8217;m trying to illustrate just how much faster it is to create a web application using CakePHP than anything else the other students are using.

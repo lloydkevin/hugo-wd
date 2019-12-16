@@ -10,7 +10,7 @@ categories:
   - Blog
 
 ---
-Now I know I&#8217;m late, very late. But I finally decided to find out what all the fuss was about. The great thing about [Widgets][1] is that you can drag them all over the place. Of course, they are made for the sidebar, but you can reorder them however you like or just remove them. And the great thing is removing doesn&#8217;t mean deleting. They are there to be reused at your whim and fancy. Here is an example of what [Widgets][1] can do for you:<a href="https://webdevelopment2.com/wp-content/uploads/2007/widgets_admin1.png" rel="lightbox"><img src="https://webdevelopment2.com/wp-content/uploads/2007/.thumbs/.widgets_admin1.png" alt="Wordpress Widgets" title="Wordpress Widgets" align="right" border="0" height="388" width="400" /></a>
+Now I know I&#8217;m late, very late. But I finally decided to find out what all the fuss was about. The great thing about [Widgets][1] is that you can drag them all over the place. Of course, they are made for the sidebar, but you can reorder them however you like or just remove them. And the great thing is removing doesn&#8217;t mean deleting. They are there to be reused at your whim and fancy. Here is an example of what [Widgets][1] can do for you:<a href="/wp-content/uploads/2007/widgets_admin1.png" rel="lightbox"><img src="/wp-content/uploads/2007/.thumbs/.widgets_admin1.png" alt="Wordpress Widgets" title="Wordpress Widgets" align="right" border="0" height="388" width="400" /></a>
 
 Widgets are, however, a bit awkward to design. A lot of plugins these days come with widgets built in, but there are those that don&#8217;t. For these, it&#8217;s a bit of a [pain to use][2].
 

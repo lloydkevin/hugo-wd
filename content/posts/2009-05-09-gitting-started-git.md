@@ -19,8 +19,8 @@ tags:
   - tutorial
 
 ---
-<img src="https://webdevelopment2.com/wp-content/uploads/git-trunk.jpg" alt="Git Trunk" title="git-trunk" width="400" height="332" class="size-full wp-image-481" srcset="https://webdevelopment2.com/wp-content/uploads/git-trunk.jpg 400w, https://webdevelopment2.com/wp-content/uploads/git-trunk-300x249.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
-  
+<img src="/wp-content/uploads/git-trunk.jpg" alt="Git Trunk" title="git-trunk" width="400" height="332" class="size-full wp-image-481" srcset="/wp-content/uploads/git-trunk.jpg 400w, /wp-content/uploads/git-trunk-300x249.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
+
 I&#8217;m sure you guys have heard about [Git][1]. It&#8217;s been making a lot of waves lately. It seems that I&#8217;m always the last to jump on the bandwagon when it comes to things like that, but I&#8217;m finally here.
 
 ## Introduction
@@ -59,7 +59,7 @@ Currently, I&#8217;m on HostMonster&#8217;s hosting service for $8/month. So tac
 
 Some time ago, I stumbled across this article on [web based work flow for Git][10].
 
-> The key idea in this system is that the web site exists on the server as a pair of repositories; a bare repository alongside a conventional repository containing the live site. Two simple Git hooks link the pair, automatically pushing and pulling changes between them. 
+> The key idea in this system is that the web site exists on the server as a pair of repositories; a bare repository alongside a conventional repository containing the live site. Two simple Git hooks link the pair, automatically pushing and pulling changes between them.
 
 It&#8217;s actually a great idea. You have one central repository or hub and one &#8220;live&#8221; site. The hub has is a _bare_ repository; it has no workspace and you can&#8217;t checkout any files. The prime, however, has it&#8217;s own work space, which hosts your live site.
 

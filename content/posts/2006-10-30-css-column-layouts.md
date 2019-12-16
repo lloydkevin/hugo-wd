@@ -12,8 +12,8 @@ categories:
 ---
 [Dynamic Drive][1] has done us all a huge favor. They have code for different CSS layouts: Fixed, Fluid, Two Column, Three Column and everything in between. Do enjoy.
 
-[<img id="image110" alt="CSS Layouts" src="https://webdevelopment2.com/wp-content/uploads/2006/10/css-layouts.PNG" />
-  
+[<img id="image110" alt="CSS Layouts" src="/wp-content/uploads/2006/10/css-layouts.PNG" />
+
 ][1]
 
  [1]: http://www.dynamicdrive.com/style/layouts/ "CSS Layouts"

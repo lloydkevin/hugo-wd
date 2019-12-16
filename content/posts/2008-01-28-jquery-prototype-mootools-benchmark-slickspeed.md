@@ -17,7 +17,7 @@ tags:
   - prototype
 
 ---
-### 
+###
 
 ### Introduction
 
@@ -27,7 +27,7 @@ Before I even start, let me state that I&#8217;m a JQuery fan. Ever since I&#821
 
 Now with every new version of a Framework that comes out, this argument comes up again and again. Finally, we have something to put the arguments to rest.
 
-<a href="http://mootools.net/slickspeed/" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="304" alt="slickspeed" src="https://webdevelopment2.com/wp-content/uploads/slickspeed.png" width="544" border="0" /></a>
+<a href="http://mootools.net/slickspeed/" target="_blank"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="304" alt="slickspeed" src="/wp-content/uploads/slickspeed.png" width="544" border="0" /></a>
 
 In my personal testing, I&#8217;ve found that JQuery 1.21 leads the pack, but only in Internet Explorer. In Firefox it comes in dead last. Does this discourage me? Maybe a lil&#8217; bit. Am I going to stop using JQuery and switch to Prototype? I think not.
 

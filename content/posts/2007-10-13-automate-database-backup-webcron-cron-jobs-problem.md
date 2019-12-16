@@ -19,7 +19,7 @@ tags:
   - PHP
 
 ---
-<img src="https://webdevelopment2.com/wp-content/uploads/clock.jpg" alt="Clock" class="imageframe" align="left" height="225" width="300" />
+<img src="/wp-content/uploads/clock.jpg" alt="Clock" class="imageframe" align="left" height="225" width="300" />
 
 ### What To Do When You Can&#8217;t Cron
 
@@ -37,9 +37,9 @@ We&#8217;ve already addressed the specific time thing. Yes, that sucks, but who 
 
 #### Eats Up Page Load Time
 
-<img src="https://webdevelopment2.com/wp-content/uploads/web-browser.jpg" alt="Web Broswer" class="imageframe" align="left" height="222" width="300" />There is one further problem, and this one I couldn&#8217;t live with. Since these are being embedded in your page, when a task is triggered, it actually runs at that time. There is no way of telling PHP _&#8220;Hey, would you mind running in the background for a while?&#8221;_. So what does this mean? This means that whatever tasks are running are going to be **executed as part of your page load** (or image if you used the _img_ tag). This isn&#8217;t too bad for smaller tasks. Who&#8217;s going to notice a one time (2) second delay? But remember our purpose for this: Database Backup. My backups are small right now are small, but still run an average of 25 seconds. Who&#8217;s going to be dedicated visitor that sits there for 25 seconds waiting for your page to load? One solution is to put this at the end of your page, so that it loads first. But still, the browser is going to be active. And if you&#8217;re visitors are anything like me, they&#8217;re thinking:
+<img src="/wp-content/uploads/web-browser.jpg" alt="Web Broswer" class="imageframe" align="left" height="222" width="300" />There is one further problem, and this one I couldn&#8217;t live with. Since these are being embedded in your page, when a task is triggered, it actually runs at that time. There is no way of telling PHP _&#8220;Hey, would you mind running in the background for a while?&#8221;_. So what does this mean? This means that whatever tasks are running are going to be **executed as part of your page load** (or image if you used the _img_ tag). This isn&#8217;t too bad for smaller tasks. Who&#8217;s going to notice a one time (2) second delay? But remember our purpose for this: Database Backup. My backups are small right now are small, but still run an average of 25 seconds. Who&#8217;s going to be dedicated visitor that sits there for 25 seconds waiting for your page to load? One solution is to put this at the end of your page, so that it loads first. But still, the browser is going to be active. And if you&#8217;re visitors are anything like me, they&#8217;re thinking:
 
-> _&#8220;Wait, I&#8217;m on a 5 MB connection, what&#8217;s taking so long? Are my torrents downloading now? No. Oh crap, Firefox crashed didn&#8217;t it? But no, it still scrolls. Let me try going to Google.com in another tab. There it is, it comes up fine. I&#8217;m just sitting on the stupid blog; I guess the guy&#8217;s server is having issues, because 25 seconds is way too long.&#8221;_ 
+> _&#8220;Wait, I&#8217;m on a 5 MB connection, what&#8217;s taking so long? Are my torrents downloading now? No. Oh crap, Firefox crashed didn&#8217;t it? But no, it still scrolls. Let me try going to Google.com in another tab. There it is, it comes up fine. I&#8217;m just sitting on the stupid blog; I guess the guy&#8217;s server is having issues, because 25 seconds is way too long.&#8221;_
 
 There&#8217;d better damn well be something worthwhile after those 25 seconds, because you&#8217;ve just slightly annoyed a visitor. A visitor who can find content very similar to yours somewhere with an eight (8) second wait. Even though this only happens once a day, I don&#8217;t feel that it&#8217;s fair to subject anyone to that sort of wait time. It may very well be one of your dedicated, loyal visitors that stumbles upon this and you just piss him off enough to make him unsubscribe to your feed.
 

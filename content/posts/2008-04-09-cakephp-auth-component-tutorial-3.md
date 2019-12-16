@@ -14,13 +14,13 @@ tags:
 
 ---
 This is the third installment of my [Auth Component Tutorial][1]. This tutorial builds on the [first installment][1], so make sure you grab the download file:
-  
 
 
-<img src="http://webdevelopment2.com/wp-content/plugins/wp-downloadmanager/images/drive_go.gif" alt="Download: CakePHP Auth 1" title="Download: CakePHP Auth 1" style="vertical-align: middle;" />&nbsp;&nbsp;**[CakePHP Auth 1][2]** (4.3 KiB, 18,444 hits)
+
+<img src="/wp-content/plugins/wp-downloadmanager/images/drive_go.gif" alt="Download: CakePHP Auth 1" title="Download: CakePHP Auth 1" style="vertical-align: middle;" />&nbsp;&nbsp;**[CakePHP Auth 1][2]** (4.3 KiB, 18,444 hits)
 
 
-  
+
 You&#8217;ll find it on almost every popular web site&#8217;s login page; a nice lil&#8217; **checkbox that says &#8220;Remember Me&#8221;.** It seems to have become a basic addition to any page with a login form. Generally, when a user logs into a web site, he&#8217;s logged in until his session expires. Which usually translates to when they close the browser window or when they allow the session to timeout.
 
 With a Remember Me cookie, you hit the lil&#8217; checkbox and it stores a lil&#8217; cookie on the user&#8217;s computer. This cookie can contain various information (we&#8217;ll get to that later) but it essentially enables the user to bypass the login process the next time he comes to the page requiring authentication.
@@ -102,7 +102,7 @@ In general (meaning, outside the realm of just CakePHP) there is the feeling tha
 Now here&#8217;s how this works. The function $this->Auth->login($cookie) checks the parameter we pass. **If we pass an array of username and password**, then it does a basic login, which translates to a **find() in the database for that username and password combination**. If we pass a numeric parameter (as in just a user id) it does a find for that user id in the database. So, here&#8217;s an example to illustrate:
 
 **Library Scenario**
-  
+
 User logs in at the library and hits remember me (he shouldn&#8217;t, but oh well, he did). That cookie is written to the browser. Then he goes home and finds out that someone has been fiddling with his account, **so he changes his password**. With the **first method, the library folk&#8217;s login attempt will fail**, then the Cookie would be deleted (even if it&#8217;s not deleted, subsequent attempts would just fail until the cookie expires).
 
 Now with the **second method**, all we login with is a user id. Whether or not the password is changed, **folks at the library will still have free reign over his account as long as his ID remains the same** (and we all know that IDs don&#8217;t change just like that) and the cookie is still active. Suddenly, storing a hashed password doesn&#8217;t seem so insecure now, does it?

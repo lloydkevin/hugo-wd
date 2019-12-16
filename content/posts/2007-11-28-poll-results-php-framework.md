@@ -16,7 +16,7 @@ tags:
 Poll results for [What Do You Look for in a PHP Framework][1] are in:
 
 <p style="text-align: center">
-  <img src="https://webdevelopment2.com/wp-content/uploads/what-do-you-look-for-in-a-php-framework-graph.png" alt="What Do You Look for in a PHP Framework" height="385" width="500" />
+  <img src="/wp-content/uploads/what-do-you-look-for-in-a-php-framework-graph.png" alt="What Do You Look for in a PHP Framework" height="385" width="500" />
 </p>
 
 Most of you prefer a framework that is **Quick and Easy**. Hey, I&#8217;m totally with you guys on that. When deciding on a web development framework, it has to be easy. It&#8217;s no fun if it takes hours to learn and saves you minutes. For me, CakePHP definitely fits this bill. The bake routines save me _so_ much time during initial development.

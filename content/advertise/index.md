@@ -10,8 +10,8 @@ views:
 ### Statistics &#8211; Traffic, RSS, etc
 
 Now it wouldn&#8217;t be fair to charge you without having a look at what you&#8217;re paying for now would it?
-  
-I get upwards of 9,000 visitors a month, with about 250 RSS visitors.[<img src="https://webdevelopment2.com/wp-content/uploads/analytics.gif" alt="Traffic Statistics - Google Analytics" title="Traffic Statistics - Google Analytics" width="615" height="306" class="aligncenter size-full wp-image-428" srcset="https://webdevelopment2.com/wp-content/uploads/analytics.gif 615w, https://webdevelopment2.com/wp-content/uploads/analytics-300x149.gif 300w" sizes="(max-width: 615px) 100vw, 615px" />][1]
+
+I get upwards of 9,000 visitors a month, with about 250 RSS visitors.[<img src="/wp-content/uploads/analytics.gif" alt="Traffic Statistics - Google Analytics" title="Traffic Statistics - Google Analytics" width="615" height="306" class="aligncenter size-full wp-image-428" srcset="/wp-content/uploads/analytics.gif 615w, /wp-content/uploads/analytics-300x149.gif 300w" sizes="(max-width: 615px) 100vw, 615px" />][1]
 
 ### Ad Solutions
 
@@ -28,6 +28,6 @@ Contact me personally if you have some request that doesn&#8217;t fit into this 
 
 <!--contact form-->
 
- [1]: https://webdevelopment2.com/wp-content/uploads/analytics.gif
- [2]: https://webdevelopment2.com/wp-content/plugins/oiopub-direct/purchase.php?do=banner&zone=1
- [3]: https://webdevelopment2.com/wp-content/plugins/oiopub-direct/purchase.php?do=link
+ [1]: /wp-content/uploads/analytics.gif
+ [2]: /wp-content/plugins/oiopub-direct/purchase.php?do=banner&zone=1
+ [3]: /wp-content/plugins/oiopub-direct/purchase.php?do=link

@@ -13,8 +13,8 @@ tags:
   - PHP
 
 ---
-<img src="https://webdevelopment2.com/wp-content/uploads/xhtml.jpg" alt="XHTML" class="imageframe" height="191" width="450" />
-  
+<img src="/wp-content/uploads/xhtml.jpg" alt="XHTML" class="imageframe" height="191" width="450" />
+
 Now i doubt it has crossed anyone&#8217;s mind to use CakePHP to create a custom content management system (CMS). Even though you&#8217;re not designing a full blown CMS, sometimes it&#8217;s nice to give novice users a way to create HTML content for a website or web application. The simplest way to do this is to integrate a WYSIWYG (What You See Is What You Get) editor.
 
 When it comes to WYSIWYG editors, they are a dime a dozen. There is of course the world famous [TinyMCE][1]. There is already an article in the bakery on how to use [TinyMCE with CakePHP][2]. There&#8217;s [htmlArea][3] and even [openWYSIWYG][4].

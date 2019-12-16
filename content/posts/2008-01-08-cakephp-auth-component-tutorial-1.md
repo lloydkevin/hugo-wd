@@ -89,7 +89,7 @@ For right now, the login() action can be left as is. The Auth Component handles 
 
 There you have it, I hope that helps. Now if you&#8217;re still having a hard time, I got a present for you:
 
-<img src="http://webdevelopment2.com/wp-content/plugins/wp-downloadmanager/images/drive_go.gif" alt="Download: CakePHP Auth 1" title="Download: CakePHP Auth 1" style="vertical-align: middle;" />&nbsp;&nbsp;**[CakePHP Auth 1][4]** (4.3 KiB, 18,444 hits)
+<img src="/wp-content/plugins/wp-downloadmanager/images/drive_go.gif" alt="Download: CakePHP Auth 1" title="Download: CakePHP Auth 1" style="vertical-align: middle;" />&nbsp;&nbsp;**[CakePHP Auth 1][4]** (4.3 KiB, 18,444 hits)
 
 There you&#8217;ll find some code, to get you up and running. It&#8217;s slightly different from what I got above (some extra stuff), but it&#8217;s heavily documented.
 

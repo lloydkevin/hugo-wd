@@ -10,13 +10,13 @@ categories:
   - General
 
 ---
-<!--adsense-->You never really know when you&#8217;ll need an icon do you? Here is a set of 
+<!--adsense-->You never really know when you&#8217;ll need an icon do you? Here is a set of
 
 **free** icons for use. They are licensed under Creative Commons license so you can use them for whatever.
-  
+
 [
-  
-<img id="image123" src="https://webdevelopment2.com/wp-content/uploads/free-icons.gif" alt="Free Icons" />][1]
+
+<img id="image123" src="/wp-content/uploads/free-icons.gif" alt="Free Icons" />][1]
 
 [Sweetie | Free icon set][1]
 

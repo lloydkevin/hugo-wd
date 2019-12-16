@@ -14,7 +14,7 @@ Google has upgraded their beautiful and free Google Analytics for tracking traff
 
 There are a lot of new features that I haven&#8217;t yet investigated, but what I do know, is that it&#8217;s pretty, lol.
 
-<a href="https://webdevelopment2.com/wp-content/uploads/google_analytic.jpg" rel="lightbox"><img src="https://webdevelopment2.com/wp-content/uploads/.thumbs/.google_analytic.jpg" alt="google_analytic.jpg" title="google_analytic.jpg" border="0" height="360" width="400" /></a>
+<a href="/wp-content/uploads/google_analytic.jpg" rel="lightbox"><img src="/wp-content/uploads/.thumbs/.google_analytic.jpg" alt="google_analytic.jpg" title="google_analytic.jpg" border="0" height="360" width="400" /></a>
 
 Just one thing to note however, I can&#8217;t seem to find the place where they have _average_ visits. You know, the average number of visits per day? In all the adding of new stuff tehy must have overlooked it guess.
 

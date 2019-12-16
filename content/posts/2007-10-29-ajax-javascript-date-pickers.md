@@ -15,7 +15,7 @@ tags:
   - time
 
 ---
-<img src="https://webdevelopment2.com/wp-content/uploads/calendar.jpg" alt="Calendar" class="imageframe" height="332" width="500" />
+<img src="/wp-content/uploads/calendar.jpg" alt="Calendar" class="imageframe" height="332" width="500" />
 
 One thing which I usually find quite annoying is using input boxes in forms for user entered dates. Having the user manually enter date, day, month, year seems so 1997 to me. However in the interest of time, this is what most programmers slap into the web applications simply because it&#8217;s easier to produce and easier to maintain.
 

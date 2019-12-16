@@ -16,7 +16,7 @@ categories:
 ---
 To develop PHP and MySQL on a Windows machine, I usually use [WAMP][1]. I had tried [XAMPP][2] before, but I found that it was a bit bloated, with the OpenSSL and FTP Server, etc. So WAMP it was. But lately, I decided to give XAMPP another try and I like what I&#8217;ve got so far.
 
-[<img src="https://webdevelopment2.com/wp-content/uploads/xampp-lite.gif" title="XAMPP is an easy to install Apache distribution containing MySQL, PHP and Perl. XAMPP is really very easy to install and to use - just download, extract and start." alt="XAMPP is an easy to install Apache distribution containing MySQL, PHP and Perl. XAMPP is really very easy to install and to use - just download, extract and start." align="left" border="0" />][3]For the past three weekends, I&#8217;ve been away from my personal computer. The only life line I&#8217;ve had is my stock of [Portable Apps][4] on my 512MB USB disk. So I&#8217;ve been neglecting a few projects lately. But all of this has changed as of Friday. I&#8217;ve discovered XAMPP Lite. It&#8217;s just what it says it is, a Lite version of XAMPP. The beauty of this is that it can also run from a USB disk. There&#8217;s no install required. So partnered with XAMPP Lite, [Mozilla Firefox, Portable Edition][5], [NotePad++ Portable][6], and, [FileZilla Portable][7] I can take my development on the road to anywhere I can stick in my USB disk.
+[<img src="/wp-content/uploads/xampp-lite.gif" title="XAMPP is an easy to install Apache distribution containing MySQL, PHP and Perl. XAMPP is really very easy to install and to use - just download, extract and start." alt="XAMPP is an easy to install Apache distribution containing MySQL, PHP and Perl. XAMPP is really very easy to install and to use - just download, extract and start." align="left" border="0" />][3]For the past three weekends, I&#8217;ve been away from my personal computer. The only life line I&#8217;ve had is my stock of [Portable Apps][4] on my 512MB USB disk. So I&#8217;ve been neglecting a few projects lately. But all of this has changed as of Friday. I&#8217;ve discovered XAMPP Lite. It&#8217;s just what it says it is, a Lite version of XAMPP. The beauty of this is that it can also run from a USB disk. There&#8217;s no install required. So partnered with XAMPP Lite, [Mozilla Firefox, Portable Edition][5], [NotePad++ Portable][6], and, [FileZilla Portable][7] I can take my development on the road to anywhere I can stick in my USB disk.
 
 ### Added Bonus
 
@@ -28,10 +28,10 @@ So why am I excited about stuff running so slowly? When you have a table with 20
 
 There&#8217;s not really much to it. You [download XAMMP Lite][8], dump it in a folder. That&#8217;s the first part. Now the configuration is where you have to be careful. There are two possible configurations:
 
-  1. Root Directory Installation 
+  1. Root Directory Installation
       * Drop the XAMPPlite folder to the root of the USB Disk.
       * Modify your Apache and PHP configuration files as you normally would.
-  2. Sub Directory Installation 
+  2. Sub Directory Installation
       * Drop the XAMPPlite folder in a folder of your choice.
       * Run _setup_xampp.bat_. This will go through every configuration file and set the path based on the drive letter and installation directory. The problem with this installation is that you&#8217;ll have to do this every time you move to a system with a different drive setup (eg. At home my USB is G:, at work it&#8217;s F:)
       * Modify your Apache and PHP configuration files as you normally would.

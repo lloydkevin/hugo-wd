@@ -18,40 +18,40 @@ What do you look for in a PHP Framework?
   <p style="text-align: center;">
     <strong>What Do You Look for in a PHP Framework?</strong>
   </p>
-  
+
   <div id="polls-3-ans" class="wp-polls-ans">
     <ul class="wp-polls-ul">
       <li>
         Quick and Easy <small>(56%, 14 Votes)</small><div class="pollbar" style="width: 56%;" title="Quick and Easy (56% | 14 Votes)">
         </div>
       </li>
-      
+
       <li>
         Less Code Needed <small>(16%, 4 Votes)</small><div class="pollbar" style="width: 16%;" title="Less Code Needed (16% | 4 Votes)">
         </div>
       </li>
-      
+
       <li>
         Small Learning Curve <small>(16%, 4 Votes)</small><div class="pollbar" style="width: 16%;" title="Small Learning Curve (16% | 4 Votes)">
         </div>
       </li>
-      
+
       <li>
         Small Footprint <small>(12%, 3 Votes)</small><div class="pollbar" style="width: 12%;" title="Small Footprint (12% | 3 Votes)">
         </div>
       </li>
     </ul>
-    
+
     <p style="text-align: center;">
       Total Voters: <strong>25</strong>
     </p>
   </div>
-  
+
   <input type="hidden" id="poll_3_nonce" name="wp-polls-nonce" value="0ad440e669" />
 </div>
 
 <div id="polls-3-loading" class="wp-polls-loading">
-  <img src="https://webdevelopment2.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...
+  <img src="/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...
 </div>
 
  [1]: http://en.wikipedia.org/wiki/PHP_frameworks#PHP
