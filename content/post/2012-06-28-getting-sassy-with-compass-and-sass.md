@@ -29,7 +29,8 @@ Right now,  this is going to be the feature I make the most use of. The obvious
 
 Imagine that your site follows some sort of color scheme (yes,  I know. A real stretch of the imagination). Your links, background images, borders, etc will all share common color definitions.
 
-<pre class="brush: css; title: ; notranslate" title="">$main-color: #ce4dd6;
+```scss
+$main-color: #ce4dd6;
 $style: solid;
 
 #navbar {
@@ -43,24 +44,24 @@ a {
   color: $main-color;
   &:hover { border-bottom: $style 1px; }
 }
-</pre>
+```
 
 It will generate the following code:
-
-<pre class="brush: css; title: ; notranslate" title="">a {
+```scss
+a {
   color: #ce4dd6; }
   a:hover {
     color: #ffb3ff; }
   a:visited {
-    color: #c458cb; }</pre>
-
+    color: #c458cb; }
+```
 This is a trivial example, but imaging you decide to keep your layout but alter your colors slightly. In the old days search and replace would be the only way to go. Now we have options.
 
 ### Nesting
 
 So you need to apply some styles to your #navbar, then to the menus within it? No problem:
-
-<pre class="brush: css; title: ; notranslate" title="">#navbar {
+```scss
+#navbar {
   width: 80%;
   height: 23px;
 
@@ -70,11 +71,11 @@ So you need to apply some styles to your #navbar, then to the menus within it? N
     a { font-weight: bold; }
   }
 }
-</pre>
+```
 
 This generates:
-
-<pre class="brush: css; title: ; notranslate" title="">#navbar {
+```scss
+#navbar {
   width: 80%;
   height: 23px; }
 #navbar ul {
@@ -83,15 +84,15 @@ This generates:
   float: left; }
 #navbar li a {
   font-weight: bold; }
-</pre>
+```
 
 The syntax just makes CSS a little better to work with, in my opinion.
 
 ### Mixins
 
 One way to think of _Mixings_ is as _multi-line variables_. You define a block of CSS that you can reuse with one statement. Consider the following:
-
-<pre class="brush: css; title: ; notranslate" title="">@mixin rounded-top {
+```scss
+@mixin rounded-top {
  $side: top;
  $radius: 10px;
 
@@ -102,11 +103,11 @@ border-#{$side}-radius: $radius;
 
 #navbar li { @include rounded-top; }
 #footer { @include rounded-top; }
-</pre>
+```
 
 Will generate:
-
-<pre class="brush: css; title: ; notranslate" title="">#navbar li {
+```scss
+#navbar li {
  border-top-radius: 10px;
  -moz-border-radius-top: 10px;
  -webkit-border-top-radius: 10px; }
@@ -115,7 +116,7 @@ Will generate:
  border-top-radius: 10px;
  -moz-border-radius-top: 10px;
  -webkit-border-top-radius: 10px; }
-</pre>
+```
 
 So similarly, if you decide **all **the borders on your website need to change, you simply change the mixin and it propagates. Really slick if you ask me.
 
@@ -126,8 +127,8 @@ There are a host of other features, but these are the ones I've exploited in my 
 Now down to the business of how you actually use this thing. Thus far, we've only mentioned Sass. You can accomplish a lot with just that.
 
 [Compass][2] is essentially a Sass wrapper. It comes with some built-in mixins and you can also add plug-ins. One that I found is [Compass 960 plugin][3]. As you can assume, it adds functionality for the [960 grid framework][4] (one of my personal favorites). The biggest benefit I see to this plugin is that it brings back semantics to your classes. No need for _countainer_16_ anymore. Just imagine:
-
-<pre class="brush: css; title: ; notranslate" title="">#wrap
+```scss
+#wrap
 	+grid-container
 	#header
 		+grid(16)
@@ -140,17 +141,17 @@ Now down to the business of how you actually use this thing. Thus far, we've onl
 			+grid-prefix(1)
 			+grid(10)
 			+omega
-</pre>
+```
 
 ### Setup
 
 First of all, these are all Ruby Gems, so installation is a snap (even on your host):
 
-<pre class="brush: bash; title: ; notranslate" title="">gem install compass</pre>
+`gem install compass`
 
 Now go to a folder with some CSS you want to make sassy:
-
-<pre class="brush: bash; title: ; notranslate" title=""># Copy your original files to sass files. The syntax is identical to CSS, so no extra work needed here.
+```bash
+# Copy your original files to sass files. The syntax is identical to CSS, so no extra work needed here.
 mv *.css *.scss
 
 # Initialize compass
@@ -164,8 +165,7 @@ compass compile
 
 # or continually watch the folder:
 compass watch
-
-</pre>
+```
 
 In watch mode, Compass will detect any changes to your *.scss files and dynamically generate the CSS file.
 

@@ -24,14 +24,16 @@ But guys, I think I fell in love:
 
 So much for the user end. You'd think this thing takes a lot of back-end code. Nope.
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;script type="text/javascript"&gt;
+```html
+<script type="text/javascript">;
 
 	mmSWFUpload.init({
 		upload_backend : "../../upload.php",
 		target : "SWFUpload",
 	});
 
-&lt;/script&gt;</pre>
+</script>
+```
 
 Yep, that's it. Have fun
 

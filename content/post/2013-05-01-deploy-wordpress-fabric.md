@@ -36,8 +36,8 @@ I've had conversations with a friend of mine who is doing some [Django][6] devel
 Fabric essentially gives you an easy way to run commands on a remote host. I like it because it doesn't require much on server the side. I am using their [rsync _plugin_][8] and that's practically everywhere. Rsync handles my issues of only pushing things that have changed; something I got to like with Git.
 
 So enough talk, here's my fabfile.py script:
-
-<pre class="brush: python; title: ; notranslate" title="">from __future__ import with_statement
+```python
+from __future__ import with_statement
 from fabric.api import *
 from fabric.contrib.project import *
 
@@ -53,7 +53,7 @@ local_dir = '/xampp/wordpress/site/wp-content/'
 def deploy():
 	local('compass compile -e production --force')
 	rsync_project(remote_dir = dir, local_dir = local_dir, exclude = exclude_sync, delete = False)
-</pre>
+```
 
 I run this by typing `fab deploy` on the command line. That's it. A quick summary of my script:
 
