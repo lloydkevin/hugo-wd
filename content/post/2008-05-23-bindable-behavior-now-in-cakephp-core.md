@@ -14,12 +14,12 @@ As of [Changeset 6918][2] this has now been integrated into the CakePHP core. So
 
 Most of the functionality is as we remember, with a few exceptions:
 
-  * $this->Article->restrict(&#8216;Comment') now becomes
+  * $this->Article->restrict('Comment') now becomes
 
-    $this->Article->contain(&#8216;Comment')
-  * $this->Article->find(&#8216;all', array(&#8216;restrict' => array(&#8216;User'))); turns into
+    $this->Article->contain('Comment')
+  * $this->Article->find('all', array('restrict' => array('User'))); turns into
 
-    $this->Article->find(&#8216;all', array(&#8216;contain' => array(&#8216;User')));
+    $this->Article->find('all', array('contain' => array('User')));
 
 For a _complete_ list of the differences and changes you can check out the
 

@@ -34,7 +34,7 @@ The idea was _stolen_ from [Lumad CMS][2]. They use the following in Rewrite in 
 
 `RewriteRule    ^~(.*) content_pages/displayurl/$1 [L]`
 
-They use a prefix of &#8216;~' instead of a suffix of &#8216;.htm', but you get the picture. I'm sorry to disappoint you, I'm not as creative as you thought.<!--more-->
+They use a prefix of '~' instead of a suffix of '.htm', but you get the picture. I'm sorry to disappoint you, I'm not as creative as you thought.<!--more-->
 
 ### How I Use Advanced Routing
 

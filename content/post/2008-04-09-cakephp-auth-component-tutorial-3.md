@@ -83,7 +83,7 @@ We **set up an array for storing the username and password**, pull that informat
   2. The Cookie is written with further hashing
   3. There's an alternative that we'll discuss a lil' bit later
 
-One thing you should be aware of: With this implementation the **$cookie array needs to have the association match those in $this->data[&#8216;User']**. What I mean is, if in $this->data you have &#8216;uname' and &#8216;passwd', then the cookie array, then the $coolie array must match these with it's associations or else the login function won't work.
+One thing you should be aware of: With this implementation the **$cookie array needs to have the association match those in $this->data['User']**. What I mean is, if in $this->data you have 'uname' and 'passwd', then the cookie array, then the $coolie array must match these with it's associations or else the login function won't work.
 
 So that's writing the cookie. We use this cookie in the next if block.
 
@@ -91,13 +91,13 @@ So that's writing the cookie. We use this cookie in the next if block.
 
 As I said before, Auth runs this login() function every time we try to access an authenticated page. If the user is NOT logged in ($this->Auth->user() is false), then we attempt to read the cookie from the user's browser. If the cookie was read successfully, we **force a login of that user using $this->Auth->login($cookie)**.
 
-If the login() is successful we need to do a lil' bit of cleanup. As far as the Auth component is concerned, the user isn't authorized to view the page and it has already populated the error in the Session, so we need to **manually delete this error message: $this->Session->del(&#8216;Message.auth');**
+If the login() is successful we need to do a lil' bit of cleanup. As far as the Auth component is concerned, the user isn't authorized to view the page and it has already populated the error in the Session, so we need to **manually delete this error message: $this->Session->del('Message.auth');**
 
 #### The Alternative I Spoke About
 
 In general (meaning, outside the realm of just CakePHP) there is the feeling that we **should not be storing any sensitive information in a cookie**. Let's stick a pin in that for now. So, if you really don't want to, there's an alternative: You can simply store the user ID in the cookie. The login() function would be modified as follows:
 
-  * Write UserID only: $cookie = $this->Auth->user(&#8216;id'); No usernames and passwords involved (happy now?)
+  * Write UserID only: $cookie = $this->Auth->user('id'); No usernames and passwords involved (happy now?)
 
 Now here's how this works. The function $this->Auth->login($cookie) checks the parameter we pass. **If we pass an array of username and password**, then it does a basic login, which translates to a **find() in the database for that username and password combination**. If we pass a numeric parameter (as in just a user id) it does a find for that user id in the database. So, here's an example to illustrate:
 
@@ -111,7 +111,7 @@ Of course, the point can be argued that even with the password hash, the user co
 
 ### No More Cookie - Don't Forget To Cleanup
 
-We need to ensure that cookies are cleaned up when the user logs out, so just add the line **$this->Cookie->del(&#8216;Auth.User'); to your logout()** function.
+We need to ensure that cookies are cleaned up when the user logs out, so just add the line **$this->Cookie->del('Auth.User'); to your logout()** function.
 
 ### Last but Not Least - beforeFilter()
 

@@ -26,10 +26,10 @@ Although I generally love TinyMCE, for my last project I needed to give the user
 Pretty simple. You download FCKeditor and dump it in the webroot/js folder. That's it. How easy is that? If you want to get file and image uploads working, there's a small configuration that you need to change.
 
   1. Find the following file: fckeditor\editor\filemanager\connectors\php\config.php
-  2. Set _$Config[&#8216;Enabled']_ to true.
-  3. Set _$Config[&#8216;UserFilesPath']_ to the path that you're browsing to, relative to the root folder. If you're going straight to the _images_ folder, and not allowing users to browse elsewhere, this needs to be &#8216;/images'. This is what it uses to create the _src_ and _href_ attributes of your tags, so make sure they match what they should.
-  4. Most importantly, _$Config[&#8216;UserFilesAbsolutePath']_ needs to point to the absolute path. You could get away with not entering it, but then your URLs come out all funky.
-  5. Check the configurations at the bottom of the file to make sure they match what you want. For example, I usually change _$Config\[&#8216;FileTypesPath'\]\[&#8216;Image'\]_ to map to _images_ instead of _image._
+  2. Set _$Config['Enabled']_ to true.
+  3. Set _$Config['UserFilesPath']_ to the path that you're browsing to, relative to the root folder. If you're going straight to the _images_ folder, and not allowing users to browse elsewhere, this needs to be '/images'. This is what it uses to create the _src_ and _href_ attributes of your tags, so make sure they match what they should.
+  4. Most importantly, _$Config['UserFilesAbsolutePath']_ needs to point to the absolute path. You could get away with not entering it, but then your URLs come out all funky.
+  5. Check the configurations at the bottom of the file to make sure they match what you want. For example, I usually change _$Config\['FileTypesPath'\]\['Image'\]_ to map to _images_ instead of _image._
 
 ### Set Up the Element
 

@@ -34,7 +34,7 @@ WordPress is **excellent at what it does**. It's also good at some of the things
 
 The idea is to find that balance and know the limitations.
 
-## Know When To Hold &#8216;Em, Know When To Fold &#8216;Em
+## Know When To Hold 'Em, Know When To Fold 'Em
 
 Bet you never figured Kenny Rogers would teach us about Web Design. If it's a simple site with a couple of pages, some articles or news (aka Posts) and couple of images here and there, then WordPress is a no-brainer.
 

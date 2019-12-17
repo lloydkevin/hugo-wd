@@ -18,7 +18,7 @@ So I guess the CakePHP development staff doesn't take any holidays. Bright and e
 
 There have been some nice changes which have gone through all through the Christmas season. Guys, I thank you for your dedication. The one major thing I'm excited about is the way that the Form Helper now processes dates and times; there's no longer a cleanUpFields() function, everything is automatic (or should I say automagic). You'll have modify your code since the result in $this->data is slightly different. There's been some stuff deprecated and some stuff added.
 
-The Model::generateList() function has also be deprecated, in favor of Model::find(&#8216;list'). It's not an exact duplicate of generateList() but it gets the job done. Check out the [cakebaker][1] for more essential tips for [upgrading from CakePHP 1.2 pre-beta to the fresh new CakePHP 1.2 beta][2].
+The Model::generateList() function has also be deprecated, in favor of Model::find('list'). It's not an exact duplicate of generateList() but it gets the job done. Check out the [cakebaker][1] for more essential tips for [upgrading from CakePHP 1.2 pre-beta to the fresh new CakePHP 1.2 beta][2].
 
 Enjoy and Happy Baking!
 

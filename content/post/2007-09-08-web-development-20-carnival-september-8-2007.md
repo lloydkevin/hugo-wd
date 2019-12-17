@@ -20,7 +20,7 @@ I am proud to present the first edition of **Carnival of Web Development 2.0**. 
 
 <!-- Carnival Submission -->
 
-  1. **Doug Boude** presents [DEMYSTIFYING JSON][1] posted at [Doug Boude (rhymes with &#8216;loud')][2]
+  1. **Doug Boude** presents [DEMYSTIFYING JSON][1] posted at [Doug Boude (rhymes with 'loud')][2]
   2. **sylv3rblade** presents [Stages of Software Development][3] posted at [Atma Xplorer][4], saying, "My take on the process of software development"
   3. **prakash** presents [A2Z Informative-Technology, Software, Internet, Tips, Ideas][5] posted at [A2Z Informative][6], saying, "Identifying the color code of an image on the screen is not an easy task. Usually it involves a multi step process and is time consuming. But this tool is able to find out HTML, RGB or HEX color of any pixel on the screen with just a single mouse click. This little tool is very useful for webmasters."
   4. **Thorsten Ott** presents [Sourcebench - freelancer sites reviews][7] posted at [Sourcebench - building a better web][8].
@@ -52,7 +52,7 @@ I am proud to present the first edition of **Carnival of Web Development 2.0**. 
 
 <!-- Carnival Submission -->
 
-  1. **Doug Boude** presents [Client-Side Interactivity without Ajax][19] posted at [Doug Boude (rhymes with &#8216;loud')][2], saying, "this post has a Coldfusion approach to an Ajax alternative..."
+  1. **Doug Boude** presents [Client-Side Interactivity without Ajax][19] posted at [Doug Boude (rhymes with 'loud')][2], saying, "this post has a Coldfusion approach to an Ajax alternative..."
 
 <!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of
 

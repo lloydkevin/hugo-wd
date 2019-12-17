@@ -65,23 +65,23 @@ function logout(){
 
 Honestly, it's magic; automagic to be precise. If you want to know how it works, you can read up in the [API][3]. But what I will do, is give you some of the magic words.
 
-#### $this->Auth->authorize = &#8216;controller'
+#### $this->Auth->authorize = 'controller'
 
 There are different types of authorization action (ugh - ACL stuff), CRUD (basically locks up all the editing stuff), and controller (gives you some need control). Hey, sorry I don't know too much of what it does, just what I need.
 
-#### $this->Auth->loginAction = array(&#8216;controller' => &#8216;users', &#8216;action' => &#8216;login')
+#### $this->Auth->loginAction = array('controller' => 'users', 'action' => 'login')
 
 This tells yo what the login page is. It also controls where the user is redirected to if he's not authorized to view a page.
 
-#### $this->Auth->loginRedirect = array(&#8216;controller' => &#8216;pages', &#8216;display' => &#8216;home')
+#### $this->Auth->loginRedirect = array('controller' => 'pages', 'display' => 'home')
 
 Self explanatory: default action to redirect the user to when logged in if they go straight to the login page. If, however, they tried to access a restricted page then this will be ignored and when they login they'll be redirected to where they wanted to go to.
 
-#### $this->Auth->allow(array(&#8216;display'))
+#### $this->Auth->allow(array('display'))
 
-This is one of the magic functions. By default, adding the authentication component locks down all actions, except the login and logout. This is your way of telling the component let me in to the &#8216;display' action for every controller. You at least want to see the homepage right?
+This is one of the magic functions. By default, adding the authentication component locks down all actions, except the login and logout. This is your way of telling the component let me in to the 'display' action for every controller. You at least want to see the homepage right?
 
-You can also add to this in the **beforeFilter()** of each controller you you need (don't forget the _parent::beforeFilter()_ to make sure the Auth stuff is still called). Likewise there's a **$this->Auth->deny()**, which does the reverse. One small tip: you can also use allow(array(&#8216;*')) to allow everything.
+You can also add to this in the **beforeFilter()** of each controller you you need (don't forget the _parent::beforeFilter()_ to make sure the Auth stuff is still called). Likewise there's a **$this->Auth->deny()**, which does the reverse. One small tip: you can also use allow(array('*')) to allow everything.
 
 #### User Controller
 
