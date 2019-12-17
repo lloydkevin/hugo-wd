@@ -5,7 +5,6 @@ theme = "mainroad"
 description = "Quick and Dirty Web Development for Web 2.0: ASP.NET MVC, CakePHP, JQuery, and lots more."
 
 [permalinks]
-  posts = "/:title/"
   post = "/:title/"
 
 [markup.goldmark.renderer]
