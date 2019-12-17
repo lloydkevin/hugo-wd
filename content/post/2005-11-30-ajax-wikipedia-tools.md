@@ -12,7 +12,7 @@ An interesting article from [ZDNet.com][1] introduces a couple new tools for Wik
 
 > The popularity of Wikipedia, an online encyclopedia to which anyone can contribute, is spawning a host of complementary tools and offshoots.
 >
-> One of them is called Gollum, a free Web application that creator Harald Hanek describes as a Wikipedia &#8220;browser.&#8221; The tool provides an alternate, streamlined user interface for Wikipedia that puts the search feature front and center and allows for some customization.
+> One of them is called Gollum, a free Web application that creator Harald Hanek describes as a Wikipedia "browser." The tool provides an alternate, streamlined user interface for Wikipedia that puts the search feature front and center and allows for some customization.
 
 The first, [Gollum][2], puts a nice interface on Wikipedia: basically a Wikipedia browser (although it still needs a full fledged browser to run).
 

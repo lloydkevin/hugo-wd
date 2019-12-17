@@ -21,13 +21,13 @@ Welcome to the December 26, 2008 edition of Web Development 2.0. (Yeah, I know I
 
 <!-- Carnival Submission -->
 
-**Marcus Hochstadt** presents [Using A CMS For A Content-Rich Website][3] posted at [Marcus Hochstadt][4], saying, &#8220;Marcus describes how he migrated one of his static HTML sites into a Content Management System. Which platform did he choose and why?&#8221;
+**Marcus Hochstadt** presents [Using A CMS For A Content-Rich Website][3] posted at [Marcus Hochstadt][4], saying, "Marcus describes how he migrated one of his static HTML sites into a Content Management System. Which platform did he choose and why?"
 
 ## javascript
 
 <!-- Carnival Submission -->
 
-**Jason Maletsky** presents [Show Partial Content, Slide Animate with jQuery][5] posted at [Website Builders Resource][6], saying, &#8220;This plugin will show a partial amount of content from a and allow the user to click a link from the title or a link at the bottom to view the rest of the content with a sliding action.&#8221;
+**Jason Maletsky** presents [Show Partial Content, Slide Animate with jQuery][5] posted at [Website Builders Resource][6], saying, "This plugin will show a partial amount of content from a and allow the user to click a link from the title or a link at the bottom to view the rest of the content with a sliding action."
 
 <!-- EDIT THIS: the conclusion begins with this paragraph: -->
 

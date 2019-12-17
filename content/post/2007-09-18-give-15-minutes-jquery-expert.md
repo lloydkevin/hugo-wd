@@ -14,7 +14,7 @@ categories:
 
 [<img src="/wp-content/uploads/jquery_logo.gif" title="jQuery - Write Less, Do More" alt="jQuery - Write Less, Do More" align="left" />][1]In the spirit of rapid web development, I've stumbled upon [jQuery][1]. Here's a testimonial from a [jQuery][1] user:
 
-> You start with 10 lines of jQuery that would have been 20 lines of tedious DOM JavaScript. By the time you are done it's down to two or three lines and it couldn't get any shorter unless it read your mind.&#8221;
+> You start with 10 lines of jQuery that would have been 20 lines of tedious DOM JavaScript. By the time you are done it's down to two or three lines and it couldn't get any shorter unless it read your mind."
 
 In my experience it's been more like five (5) lines of jQuery.
 

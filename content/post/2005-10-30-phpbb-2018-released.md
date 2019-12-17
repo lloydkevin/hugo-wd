@@ -68,7 +68,7 @@ A Halloween special edition of phpBB has been released today. The changelog incl
 >
 > [Fix] correctly display username in private message notification (Bug #278)
 >
-> [Fix] fixed &#8220;var-by-ref&#8221; errors (Bug #322)
+> [Fix] fixed "var-by-ref" errors (Bug #322)
 >
 > [Fix] changed redirection to installation (Bug #325)
 >

@@ -12,7 +12,7 @@ categories:
 ---
 After all the security issues with phpBB 2.0.18, version 2.0.19 is finally out.
 
-phpBB Group announces the release of phpBB 2.0.19, the &#8220;we wish you all a happy new year&#8221; release. This release addresses several bugfixes and some security issues only affecting Internet Explorer. Additionally we introduced a new feature to limit the number of logins. The admin is able to configure this feature on two ways, defining the number of maximum allowed logins and setting a time period after the user is allowed to login again. With this feature we hope to address the recent dictionary attacks happening on some forums to crack user passwords.
+phpBB Group announces the release of phpBB 2.0.19, the "we wish you all a happy new year" release. This release addresses several bugfixes and some security issues only affecting Internet Explorer. Additionally we introduced a new feature to limit the number of logins. The admin is able to configure this feature on two ways, defining the number of maximum allowed logins and setting a time period after the user is allowed to login again. With this feature we hope to address the recent dictionary attacks happening on some forums to crack user passwords.
 
 As with all new releases we urge you to update as soon as possible. You can of course find this download available on our [downloads page][1]. As per usual four packages are available to simplify your update.
 

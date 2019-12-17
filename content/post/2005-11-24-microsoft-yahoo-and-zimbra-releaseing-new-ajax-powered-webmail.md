@@ -13,7 +13,7 @@ categories:
 ---
 #### The Break Down
 
-All three of these companies have decided to give webmail a &#8220;fresh spin&#8221;:
+All three of these companies have decided to give webmail a "fresh spin":
 
 > Microsoft and Yahoo are poised to make Web-based e-mail more powerful than ever with updates that bring a desktop-style interface to their respective Web mail offerings.
 >
@@ -35,7 +35,7 @@ source: [PCWorld.com][1]
 
 Call my crazy, but didn't Google already do all these things with Gmail? I think that Google has done a superb job with the Ajax technology. Look at Google Maps, Google Suggest, Gmail. At first I was so blinded by the amount of space they gave that I didn't really even notice the Ajax in it. I just knew that something was different here. Gmail has been in beta for over a year now. I don't think that Google has simply forgotten about it and are sitting twiddling their thumbs.
 
-The competition is always tight, but Google always leads. When Gmail dropped at first, offering 1 GB of email storage Yahoo quickly upped theirs to 2 GB. Microsoft was a bit slower and cheaper: only offering 1 GB to MSN members and 250 MB for the free Hotmail. Google still had the last laugh when they upped to 2.5 GB &#8220;and counting&#8221;. But on thing to notice here is that while there was this back and forth for Email storage space, neither Microsoft or Yahoo noticed (or acted on) the Ajax qualities of Gmail. Look how long it has taken them to respond.
+The competition is always tight, but Google always leads. When Gmail dropped at first, offering 1 GB of email storage Yahoo quickly upped theirs to 2 GB. Microsoft was a bit slower and cheaper: only offering 1 GB to MSN members and 250 MB for the free Hotmail. Google still had the last laugh when they upped to 2.5 GB "and counting". But on thing to notice here is that while there was this back and forth for Email storage space, neither Microsoft or Yahoo noticed (or acted on) the Ajax qualities of Gmail. Look how long it has taken them to respond.
 
 I must say from the demos and screen shots I've seen, they do look impressive. And the drag and drop features are interesting. However, one thing I always pride Google for is the simplicity of their interfaces. I doubt that they will go to big with the interface, but dragging and dropping email is going to be nothing to add to Gmail. Trust me, they are going to answer Microsoft and Yahoo with their webmail services, quite possibly before these companies even release.
 

@@ -10,7 +10,7 @@ categories:
   - CSS
 
 ---
-<!--adsense-->I read this title and I was a bit confused. How, was my first question. Well, they did it. They did it a number of ways. Basically, they use a full background color and use CSS and a little bit of JavaScript to &#8220;eat&#8221; away at the corners. Very interesting idea.
+<!--adsense-->I read this title and I was a bit confused. How, was my first question. Well, they did it. They did it a number of ways. Basically, they use a full background color and use CSS and a little bit of JavaScript to "eat" away at the corners. Very interesting idea.
 
 [Alessandro Fulciniti][1] writes:
 

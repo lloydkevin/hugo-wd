@@ -22,7 +22,7 @@ We have a new exploit for phpBB. Just when you thought you were safe:
 >
 > Example:
 
->  <b C=">&#8221; onmouseover=&#8221;" X="</b><b ">H E L O </b>
+>  <b C=">" onmouseover="" X="</b><b ">H E L O </b>
 >
 > Successful exploitation requires that "Allow HTML" is enabled (not default setting).
 >

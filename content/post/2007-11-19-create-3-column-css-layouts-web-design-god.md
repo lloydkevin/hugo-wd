@@ -29,7 +29,7 @@ You could set all your styles based on these column ids. Whether it's background
 
 ### Wrap It Up Before Messing With CSS
 
-There's the easy way and there's the hard way, which a lot of people mistake for the _right_ way. If you're looking for the hard way, then you need to look somewhere else. Try Googling &#8220;3 column css hack ie ns, oh crap this doesn't look right, wtf&#8221;. That should lead to to the pain that you searching for.
+There's the easy way and there's the hard way, which a lot of people mistake for the _right_ way. If you're looking for the hard way, then you need to look somewhere else. Try Googling "3 column css hack ie ns, oh crap this doesn't look right, wtf". That should lead to to the pain that you searching for.
 
 On to the easy way: Wrappers, wrappers, wrappers. No, I'm not talking Biggie and 2Pac, I'm talking about wrapper divs (just as cool as Biggie). The good news is that all the HTML stays the same. You simple wrap the _left, middle,_ and _right_ in three wrapper divs: wrap-left, wrap-middle, wrap-right. Now here's the magic.
 

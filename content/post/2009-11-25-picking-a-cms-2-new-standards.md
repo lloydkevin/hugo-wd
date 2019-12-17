@@ -34,7 +34,7 @@ As you guys can see, I've had way too much on my hands to do a thorough job on t
 
 I know, I know, it isn't fair, but that's how life is. The **popular guys got the girls, they made the football team, and they drive better cars**. That's just how life is. If a CMS is popular enough, it's going to have certain things going for it.
 
-It's going to have **more contributors**. That means more eyes on the code (let's hope that this will be a good thing). The more people that know about it means, the **more people that write about it**. Now I will admit, there's a little &#8220;chicken vs. egg&#8221; thing going on there. Maybe it gets popular because people write about it. But for our purposes it doesn't matter. The fact is, there will be **more formal and informal documentation**.
+It's going to have **more contributors**. That means more eyes on the code (let's hope that this will be a good thing). The more people that know about it means, the **more people that write about it**. Now I will admit, there's a little "chicken vs. egg" thing going on there. Maybe it gets popular because people write about it. But for our purposes it doesn't matter. The fact is, there will be **more formal and informal documentation**.
 
 I'll be the first to admit that popular doesn't always mean better. Take WordPress for instance. Although _I've never looked_, I've been assured that the **code is quite mangled**. But notice what I said, **I've never looked, and neither will your clients**. No matter how elegant your code is and how fast it runs; none of that matters if your product doesn't get out there do serve it's purpose. With all it's flaws, I've seen WordPress run some of the largest blogs out there, so they must be doing something right. No one returns a BMW because they don't like the layout of the engine.
 
@@ -70,7 +70,7 @@ These words are what keep me away from Joomla. I left Joomla at version 1.5 over
 
 I did bite the bullet and installed [Drupal][9]. I mean, if it's good enough for the [President of the United States][10], I should at least give it a try, don't you think? There are some things that I like so far:
 
-  * Admin Templates/Themes  - The backend is extremely flexible. You can change the look, and even the menus that are listed.  With a few modules, you can fine tune the permissions and give clients access to only what you want them to have. So, the argument of &#8220;too complicated for clients&#8221; can be countered.
+  * Admin Templates/Themes  - The backend is extremely flexible. You can change the look, and even the menus that are listed.  With a few modules, you can fine tune the permissions and give clients access to only what you want them to have. So, the argument of "too complicated for clients" can be countered.
   * Template Caching - I'm not sure how it works, but I love it. Certain things in the template are cached. One of which being the CSS and JS files. You can even combine and minify these. I just love that.
   * Multisites - You can set up a nice little web farm that all runs on the same Drupal core code. They can even share custom modules. I'm guessing it's something like [WordPress MU][11], but I've never tried this myself.
 

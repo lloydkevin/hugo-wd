@@ -10,9 +10,9 @@ categories:
   - Ajax
 
 ---
-The &#8220;[Real-World AJAX One-Day Seminar][1]&#8221; is scheduled for Monday, March 13th 2006 in New York City. There are some huge names that are going to be speaking at this seminar:
+The "[Real-World AJAX One-Day Seminar][1]" is scheduled for Monday, March 13th 2006 in New York City. There are some huge names that are going to be speaking at this seminar:
 
-> This one-day AJAX seminar will feature 15 speakers in 11 sessions, including the world's most renowned AJAX experts: Jesse James Garrett, the Father of AJAX; David Heinemeier Hansson, the creator of Ruby on Rails (with his very first talk on &#8220;AJAX in Rails&#8221;); Satish Dharmaraj, the creator of server-side Java; Bill Scott, AJAX evangelist of Yahoo!; Scott Dietzen, the creator of WebLogic; Rob Gonda, the bestselling AJAX author and evangelist; and Ross Dargahi, well-known AJAX evangelist and architect.
+> This one-day AJAX seminar will feature 15 speakers in 11 sessions, including the world's most renowned AJAX experts: Jesse James Garrett, the Father of AJAX; David Heinemeier Hansson, the creator of Ruby on Rails (with his very first talk on "AJAX in Rails"); Satish Dharmaraj, the creator of server-side Java; Bill Scott, AJAX evangelist of Yahoo!; Scott Dietzen, the creator of WebLogic; Rob Gonda, the bestselling AJAX author and evangelist; and Ross Dargahi, well-known AJAX evangelist and architect.
 
 There are also going to be speakers from companies that have real world use of Ajax. Keep an eye out at [www.ajaxseminar.com][1] for registration information. If it wasn't for school and the fact that I'm almost a thousand miles away, I would definitely be there.
 

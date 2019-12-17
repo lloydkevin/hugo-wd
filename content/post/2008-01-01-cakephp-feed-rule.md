@@ -14,7 +14,7 @@ One problem that I've always had with finding CakePHP related information over t
 
 Sorry for the rant, back to my point. Sharan over on the CakePHP mailing list has made the process of finding the latest CakePHP information a lil' bit easier. Using Yahoo Pipes, he's taken feeds the **most popular CakePHP RSS feeds and consolidated them** into [**one giant feed** - http://feeds.feedburner.com/cakephp][1]. The great thing is that he's also taken some of the non-english blog feeds and slapped on some translation. What more could you want?
 
-I'm not sure how much the author values his privacy, so if you want to get in contact with him and/or view the Yahoo Pipes source for this feed, head over to the CakePHP mailing list and search for: &#8220;http://pipes.yahoo.com/sharanbrar/cakephp&#8221;. If you think that their's a blog missing, just leave a comment here and I'll route it to the author.
+I'm not sure how much the author values his privacy, so if you want to get in contact with him and/or view the Yahoo Pipes source for this feed, head over to the CakePHP mailing list and search for: "http://pipes.yahoo.com/sharanbrar/cakephp". If you think that their's a blog missing, just leave a comment here and I'll route it to the author.
 
 Happy Baking!
 

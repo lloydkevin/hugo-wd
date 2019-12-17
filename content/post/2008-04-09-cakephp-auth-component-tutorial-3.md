@@ -21,7 +21,7 @@ This is the third installment of my [Auth Component Tutorial][1]. This tutorial 
 
 
 
-You'll find it on almost every popular web site's login page; a nice lil' **checkbox that says &#8220;Remember Me&#8221;.** It seems to have become a basic addition to any page with a login form. Generally, when a user logs into a web site, he's logged in until his session expires. Which usually translates to when they close the browser window or when they allow the session to timeout.
+You'll find it on almost every popular web site's login page; a nice lil' **checkbox that says "Remember Me".** It seems to have become a basic addition to any page with a login form. Generally, when a user logs into a web site, he's logged in until his session expires. Which usually translates to when they close the browser window or when they allow the session to timeout.
 
 With a Remember Me cookie, you hit the lil' checkbox and it stores a lil' cookie on the user's computer. This cookie can contain various information (we'll get to that later) but it essentially enables the user to bypass the login process the next time he comes to the page requiring authentication.
 
@@ -40,7 +40,7 @@ echo $form-&gt;input('remember_me', array('label' =&gt; 'Remember Me', 'type' =&
 
 The top is my preference since it places the checkbox before the label. Just a personal choice.
 
-### Implementing the &#8220;Remember Me&#8221; Cookie - users_controller.php
+### Implementing the "Remember Me" Cookie - users_controller.php
 
 Here's where all the fun takes place. First off don't forget to **include the Cookie component in the $components array**. Now, remember that blank function login(), well this is where we dump all the magic:
 
@@ -87,7 +87,7 @@ One thing you should be aware of: With this implementation the **$cookie array n
 
 So that's writing the cookie. We use this cookie in the next if block.
 
-#### &#8220;Me Want Cookie&#8221; - Login The User from The Cookie
+#### "Me Want Cookie" - Login The User from The Cookie
 
 As I said before, Auth runs this login() function every time we try to access an authenticated page. If the user is NOT logged in ($this->Auth->user() is false), then we attempt to read the cookie from the user's browser. If the cookie was read successfully, we **force a login of that user using $this->Auth->login($cookie)**.
 

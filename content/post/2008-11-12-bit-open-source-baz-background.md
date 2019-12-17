@@ -35,7 +35,7 @@ Bit by bit, web development gave way to web programming. This is where PHP came 
 
 ### The Open Source Misconception
 
-One of the problems that people have with Open Source is that they think that it's unsupported. People seem to think that open source software is written by a bunch of kids in basements or something. This is not the case, by any means.  For example, a lot of the Linux distributions are totally free and totally supported.  Wake up people; free doesn't mean unsupported. The whole _&#8220;You get what you pay for&#8221;_ isn't always true.<!--more-->
+One of the problems that people have with Open Source is that they think that it's unsupported. People seem to think that open source software is written by a bunch of kids in basements or something. This is not the case, by any means.  For example, a lot of the Linux distributions are totally free and totally supported.  Wake up people; free doesn't mean unsupported. The whole _"You get what you pay for"_ isn't always true.<!--more-->
 
 #### Why I Use Open Source Software
 

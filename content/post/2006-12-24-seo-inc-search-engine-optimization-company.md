@@ -28,7 +28,7 @@ They seem to have an impressive [client list][9], including the Marriot Hotel an
 
 #### Judge a Book By Its Cover
 
-Now you know I need to touch on the design of this site. First off, it's pretty. It's real pretty. Nice layout, some basic Flash in the upper right, nice and simple. A simple fixed-width design with a shadow. Just one problem though (you know I always find one), to me (and a lot of other designers) good SEO = Tableless Designs. So I don't know exactly how much you should penalize these guys for the ugly mess of tables they have on their website. I feel that if you offer a service to webmasters your website should be a prime example of that service. After doing a Google Search for [seo &#8220;search engine optimization&#8221;][10] I got tired when I didn't find them after 300 sites. Is this a reflection of their service, who knows. I mean after all Microsoft did use them.
+Now you know I need to touch on the design of this site. First off, it's pretty. It's real pretty. Nice layout, some basic Flash in the upper right, nice and simple. A simple fixed-width design with a shadow. Just one problem though (you know I always find one), to me (and a lot of other designers) good SEO = Tableless Designs. So I don't know exactly how much you should penalize these guys for the ugly mess of tables they have on their website. I feel that if you offer a service to webmasters your website should be a prime example of that service. After doing a Google Search for [seo "search engine optimization"][10] I got tired when I didn't find them after 300 sites. Is this a reflection of their service, who knows. I mean after all Microsoft did use them.
 
 #### Last Thoughts
 

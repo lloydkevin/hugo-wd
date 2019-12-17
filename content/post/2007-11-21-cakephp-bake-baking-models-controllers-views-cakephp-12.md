@@ -57,7 +57,7 @@ You could also skip the first prompt and bake the model directly:
 
 > `cake bake model [model name]`
 
-Follow the prompts, bake a model, etc. At every step, you'll be prompted for various aspects of your model. It asks you what type of validation you want for each field for the model. If your database is set up correctly, the _bake_ routine can even detect your database associations and build them accordingly. For example, while baking the _Users_ model, if you have a table, _users_ that contains a field _group_id_, the routine will ask if the model &#8220;hasOne Group&#8221;. Say no, and it will ask if the model &#8220;hasMany Groups&#8221;. It doesn't get easier than this.
+Follow the prompts, bake a model, etc. At every step, you'll be prompted for various aspects of your model. It asks you what type of validation you want for each field for the model. If your database is set up correctly, the _bake_ routine can even detect your database associations and build them accordingly. For example, while baking the _Users_ model, if you have a table, _users_ that contains a field _group_id_, the routine will ask if the model "hasOne Group". Say no, and it will ask if the model "hasMany Groups". It doesn't get easier than this.
 
 ### Baking Controllers
 

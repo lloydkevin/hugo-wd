@@ -28,7 +28,7 @@ My initial thought about this. was that, it's about time! Internet Explorer has 
 
 Then it hit me: how would I get all of the cross browser functionality to work? Whether it's right or wrong, I've been relying on jQuery as my cross browser abstraction layer. And it's worked out very well so far. I mean, I get why we'd want to drop IE6/7, but IE8? There's still a huge market share there; something that can't be ignored.
 
-I remembered back to early 2007 what brought me to jQuery. I asked a work (not a web development company) to fix a &#8220;bug&#8221; with some JavaScript. I've never been a JavaScript developer. But hey, &#8220;It's just like C&#8221;, right? I finally got the bug working in my favorite browser at the time (Firefox). No surprise, it shipped and came back a couple of days later, because it didn't work in IE6. I didn't even have this thing installed.
+I remembered back to early 2007 what brought me to jQuery. I asked a work (not a web development company) to fix a "bug" with some JavaScript. I've never been a JavaScript developer. But hey, "It's just like C", right? I finally got the bug working in my favorite browser at the time (Firefox). No surprise, it shipped and came back a couple of days later, because it didn't work in IE6. I didn't even have this thing installed.
 
 Long story short, I slapped jQuery on there, bug was gone in all browsers. About a year later, Microsoft saw the light and even started shipping jQuery with Visual Studio. All was well with the world.
 
@@ -38,7 +38,7 @@ Now, jQuery is going to drop support. This means, for guys like myself, we're go
 
 Reading the blog post over gave light to the solution. Simply use jQuery 1.9 on IE browsers, duh!
 
-&#8220;But I won't get all the new awesome features of jQuery 2.0&#8221;.
+"But I won't get all the new awesome features of jQuery 2.0".
 
 That's true, but if you really think about it, who cares? It's pretty much the same for CSS3. Take rounded corners, for example. We've pretty much stopped doing [crazy things][2] to implement them in older browsers. The general consensus is that new browsers will get the benefits of newer features and old browser (\*cough\* IE) will have a gracefully degraded experience.
 

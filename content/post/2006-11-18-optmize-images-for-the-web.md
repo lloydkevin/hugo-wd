@@ -12,7 +12,7 @@ categories:
 ---
 <!--adsense-->Some more very basic information on
 
-[image optimization][1]. If you've had some experience with Photoshop or even just some basic image editor you can skip this. This is for the people who upload a 2.5 MB image and use HTML tags to &#8220;reduce the size&#8221;.
+[image optimization][1]. If you've had some experience with Photoshop or even just some basic image editor you can skip this. This is for the people who upload a 2.5 MB image and use HTML tags to "reduce the size".
 
 Topics Covered:
 

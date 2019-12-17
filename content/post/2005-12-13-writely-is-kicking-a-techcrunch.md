@@ -13,7 +13,7 @@ categories:
 ---
 Ok, by now I'm guess that we all know what [Writely][1]. It's a wonderful little Web (AJAX) based word processor. Does almost everything that [Microsoft Word][2] does and even some things it doesn't (PDF creation).
 
-The guys over at [TechCrunch][3] have done an [article on it][3]. There have been many blogs entries on Writely, but this one struck me because of the comments on it. Some people are downplaying what the Writely team has produced here. It really urks me when people sit back and do nothing but criticize what others have done. The idea of a word processor hosted on a server is an exceptional one. People are saying that the Writely project is simple and doesn't take more than &#8220;_a couple days_&#8221; to put together. If we look around, we'll find that the most of the technology that enters the spot light is that which has been redone in a simpler, more effective way.
+The guys over at [TechCrunch][3] have done an [article on it][3]. There have been many blogs entries on Writely, but this one struck me because of the comments on it. Some people are downplaying what the Writely team has produced here. It really urks me when people sit back and do nothing but criticize what others have done. The idea of a word processor hosted on a server is an exceptional one. People are saying that the Writely project is simple and doesn't take more than "_a couple days_" to put together. If we look around, we'll find that the most of the technology that enters the spot light is that which has been redone in a simpler, more effective way.
 
 This is the challenge I have to all the negative critics, if the project is so simple and easy, why didn't you think of it? Why aren't you part of the development team?
 

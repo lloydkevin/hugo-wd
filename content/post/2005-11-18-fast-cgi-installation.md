@@ -18,7 +18,7 @@ After days of configuring and reconfiguring, I have finally gotten the sequence 
     `yum -y install httpd-devel`
 
     You may also download the RPM, or if you're really adventurous, build it from the source. This installs the httpd-devel package, which is needed for this installation. Most systems may already have this installed, but a fresh default install of Fedora Core 4 does not.
-  2. Download the &#8220;mod_fastcgi&#8221; package from [FastCGI.com][1] and unzip it to some directory of your choice.
+  2. Download the "mod_fastcgi" package from [FastCGI.com][1] and unzip it to some directory of your choice.
   3. Perform the following commands:
 
     `cd <em>mod_fastcgi.</em>..<br />

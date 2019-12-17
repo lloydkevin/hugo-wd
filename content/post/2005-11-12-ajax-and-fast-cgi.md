@@ -14,7 +14,7 @@ categories:
 ---
 Here's a little intro what I've been working on at my Job for the past couple months.
 
-AJAX stands for Asynchronous JavaScript And XML for web development. Basically you use a some JavaScript to get down below the browser level and control HTTP &#8220;GET&#8221;s and &#8220;POST&#8221;s and stuff like that. It's used by stuff like Google Maps and Google Suggest and GMail. What it enables is basically background activity without the user's knowledge. This means that you don't have to do anything really for things to happen. No need for clicks or form submissions and most importantly, no need to reload the entire page when processing data. You can read more about it [here][1].
+AJAX stands for Asynchronous JavaScript And XML for web development. Basically you use a some JavaScript to get down below the browser level and control HTTP "GET"s and "POST"s and stuff like that. It's used by stuff like Google Maps and Google Suggest and GMail. What it enables is basically background activity without the user's knowledge. This means that you don't have to do anything really for things to happen. No need for clicks or form submissions and most importantly, no need to reload the entire page when processing data. You can read more about it [here][1].
 
 Now how does this tie in with my job? For the past couple months I've been working at a company which runs a legacy program written in ANSI C. The task I've been assigned is to enable web access to this program from a normal web browser. On the server end we're running FASTCGI. This enables a process (the program) to be constantly running while being accessed from the web. Normal CGI programs and PHP scripts are run only one time and then die. FASTCGI avoids that problem.
 

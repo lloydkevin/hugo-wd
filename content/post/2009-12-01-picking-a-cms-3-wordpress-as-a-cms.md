@@ -50,7 +50,7 @@ All of these have their limitations, but as with most things, it goes back to th
 
 ## What I Don't Like About WordPress
 
-The Administration section is part of my problem. For just a blog, I can set up a client as an &#8220;editor&#8221; and things work beautifully. However, with things like Custom Fields, etc. it gets complicated to explain to clients how to do certain things. Also, when you need a little bit more oomph, you give the user a higher role. But that tends to expose too much to the users.
+The Administration section is part of my problem. For just a blog, I can set up a client as an "editor" and things work beautifully. However, with things like Custom Fields, etc. it gets complicated to explain to clients how to do certain things. Also, when you need a little bit more oomph, you give the user a higher role. But that tends to expose too much to the users.
 
 I've played with a couple permission and role plugins, but none seemed to do what I needed. Either that or I didn't know how to use them properly.
 

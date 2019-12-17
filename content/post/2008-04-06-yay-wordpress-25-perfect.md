@@ -15,7 +15,7 @@ Now I don't have to tell you guys about all the [goodies that WordPress 2.5 brin
 
   * New fresh Admin theme
   * Nice Dashboard
-  * You can modify the link for &#8220;Incoming Links&#8221;. Technorati anyone?
+  * You can modify the link for "Incoming Links". Technorati anyone?
   * Finally included Tag Management
   * Concurrent Post Editing Protection
   * One Click Plugin upgrades. Oh yes. It's about time.

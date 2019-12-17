@@ -80,7 +80,7 @@ Everything you'll need is in the app/config folder. The file **_core.php_** hous
 
             This is going to route the homepage site.com/ to my _contents_ controller and run the _view_ action and pass to this the parameter _home._ This is the same as going to: site.com/contents/view/home/. We can also do some other marvelous things with routing, but I'll save those for later.
 
-            Depending on what your setup is and where you host, you might have to make modifications to the .htaccess file. I haven't narrowed down an explanation yet, but on various shared hosts, adding &#8220;_RewriteBase /_&#8221; solves a lot of problems, just keep that in mind.
+            Depending on what your setup is and where you host, you might have to make modifications to the .htaccess file. I haven't narrowed down an explanation yet, but on various shared hosts, adding "_RewriteBase /_" solves a lot of problems, just keep that in mind.
 
             Read more on the [CakePHP manual][6].
 

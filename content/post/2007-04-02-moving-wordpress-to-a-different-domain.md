@@ -19,7 +19,7 @@ tags:
 ---
 No, I'm not moving, not yet anyway. But [Lava][1] is. She scored a domain name which describes her blog so perfectly, that she couldn't help but nab it up: [**HowISaveMoney.net**][2]. Now what are the odds that this domain would still be lying around?
 
-[Lava][1] finally made the big step and &#8220;[moved into her own place][3]&#8220;. Moving domains is always such a hassle, but there are a few things that make the process a little bit easier. I was the Administrator during this move and I must say it was a little bit involved, but I think I got it done.
+[Lava][1] finally made the big step and "[moved into her own place][3]". Moving domains is always such a hassle, but there are a few things that make the process a little bit easier. I was the Administrator during this move and I must say it was a little bit involved, but I think I got it done.
 
 #### The Domain
 

@@ -21,12 +21,12 @@ I am proud to present the first edition of **Carnival of Web Development 2.0**. 
 <!-- Carnival Submission -->
 
   1. **Doug Boude** presents [DEMYSTIFYING JSON][1] posted at [Doug Boude (rhymes with &#8216;loud')][2]
-  2. **sylv3rblade** presents [Stages of Software Development][3] posted at [Atma Xplorer][4], saying, &#8220;My take on the process of software development&#8221;
-  3. **prakash** presents [A2Z Informative-Technology, Software, Internet, Tips, Ideas][5] posted at [A2Z Informative][6], saying, &#8220;Identifying the color code of an image on the screen is not an easy task. Usually it involves a multi step process and is time consuming. But this tool is able to find out HTML, RGB or HEX color of any pixel on the screen with just a single mouse click. This little tool is very useful for webmasters.&#8221;
+  2. **sylv3rblade** presents [Stages of Software Development][3] posted at [Atma Xplorer][4], saying, "My take on the process of software development"
+  3. **prakash** presents [A2Z Informative-Technology, Software, Internet, Tips, Ideas][5] posted at [A2Z Informative][6], saying, "Identifying the color code of an image on the screen is not an easy task. Usually it involves a multi step process and is time consuming. But this tool is able to find out HTML, RGB or HEX color of any pixel on the screen with just a single mouse click. This little tool is very useful for webmasters."
   4. **Thorsten Ott** presents [Sourcebench - freelancer sites reviews][7] posted at [Sourcebench - building a better web][8].
-  5. **Scott H** presents [15 Web Sites College Students CanÃ¢â‚¬â„¢t Live Without][9] posted at [College and Finance][10], saying, &#8220;Not specifically about design, but has a great list of web sites students love, including StumbleUpon which, in terms of developing a web site, can be quite useful.&#8221;
-  6. **Raj Sheelvant** presents [Attention HR: Young workers demand Web 2.0][11] posted at [IT Strategy][12], saying, &#8220;Why Web 2.0 infrastructure in corporations important to attract young talent&#8221;
-  7. **aquariphile** presents [Choosing Between YUI CSS & Blueprint Ã‚Â» By Don Albrecht Ã‚Â» article Ã‚Â» Ajax Bestiary][13] posted at [Ajax Bestiary][14], saying, &#8220;With all the recent hype surrounding the Blueprint CSS framework, The powerful YUI framework has been lost in the noise. Both frameworks are powerful, but, which framework is right for your project?&#8221;
+  5. **Scott H** presents [15 Web Sites College Students CanÃ¢â‚¬â„¢t Live Without][9] posted at [College and Finance][10], saying, "Not specifically about design, but has a great list of web sites students love, including StumbleUpon which, in terms of developing a web site, can be quite useful."
+  6. **Raj Sheelvant** presents [Attention HR: Young workers demand Web 2.0][11] posted at [IT Strategy][12], saying, "Why Web 2.0 infrastructure in corporations important to attract young talent"
+  7. **aquariphile** presents [Choosing Between YUI CSS & Blueprint Ã‚Â» By Don Albrecht Ã‚Â» article Ã‚Â» Ajax Bestiary][13] posted at [Ajax Bestiary][14], saying, "With all the recent hype surrounding the Blueprint CSS framework, The powerful YUI framework has been lost in the noise. Both frameworks are powerful, but, which framework is right for your project?"
   8. **edithyeung** presents [Want More Traffic? Find Out Here?][15] posted at [Edith Yeung.Com: Dream. Think. Act.][16].
   9. **Amanda Harris** presents [Creating A Website For Your Charity][17] posted at [iBakeSale Blog][18].
 
@@ -52,7 +52,7 @@ I am proud to present the first edition of **Carnival of Web Development 2.0**. 
 
 <!-- Carnival Submission -->
 
-  1. **Doug Boude** presents [Client-Side Interactivity without Ajax][19] posted at [Doug Boude (rhymes with &#8216;loud')][2], saying, &#8220;this post has a Coldfusion approach to an Ajax alternative&#8230;&#8221;
+  1. **Doug Boude** presents [Client-Side Interactivity without Ajax][19] posted at [Doug Boude (rhymes with &#8216;loud')][2], saying, "this post has a Coldfusion approach to an Ajax alternative&#8230;"
 
 <!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of
 

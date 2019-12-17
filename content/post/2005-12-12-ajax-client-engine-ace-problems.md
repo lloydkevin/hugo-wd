@@ -25,7 +25,7 @@ I found this link somewhere, I can't remember where. But Li Shen has packaged a 
   * Common callbacks.
   * Exception handling.
 
-There are some things I just love about this client. The tracing service: When this is enabled, a text area element in a new window (or in the same window if specified) is opened up and a debug is written. Basically, it tells you everything the AJAX client is doing. You can just insert the &#8220;trace&#8221; function call at various places where you need to debug information like when a request it made, when the AJAX states change, when a call is completed, etc. I must say, it is a very effective tool, one I should have come up with myself.
+There are some things I just love about this client. The tracing service: When this is enabled, a text area element in a new window (or in the same window if specified) is opened up and a debug is written. Basically, it tells you everything the AJAX client is doing. You can just insert the "trace" function call at various places where you need to debug information like when a request it made, when the AJAX states change, when a call is completed, etc. I must say, it is a very effective tool, one I should have come up with myself.
 
 The polling service is a nice one. He has a built in cancel event when polling is done.
 

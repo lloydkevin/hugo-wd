@@ -10,7 +10,7 @@ categories:
   - Forum
 
 ---
-We all know that phpBB is prone to a number of security risks. People used to use Google (among other search engines) and search for &#8220;_phpbb_&#8221; to find a list of phpBB sites and try their exploits on them. The phpBB development team addressed this problem a couple versions before. They stopped displaying the version number in the footer of the forum.
+We all know that phpBB is prone to a number of security risks. People used to use Google (among other search engines) and search for "_phpbb_" to find a list of phpBB sites and try their exploits on them. The phpBB development team addressed this problem a couple versions before. They stopped displaying the version number in the footer of the forum.
 
 ![phpBB Footer][1]
 

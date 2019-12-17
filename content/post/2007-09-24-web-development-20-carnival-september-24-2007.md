@@ -18,23 +18,23 @@ Welcome to the September 24, 2007 edition of web development 2.0.
 
 <!-- Carnival Submission -->
 
-**Paul** presents [Make Web Site Development Easy][3] posted at [BigTechnical][4], saying, &#8220;Great CSS tools and more.&#8221; Although I don't really dig the Blueprint CSS framework, the tips on Nifty Corners and gradients are good.
+**Paul** presents [Make Web Site Development Easy][3] posted at [BigTechnical][4], saying, "Great CSS tools and more." Although I don't really dig the Blueprint CSS framework, the tips on Nifty Corners and gradients are good.
 
 <!-- Carnival Submission -->
 
-**Don Albrecht** presents [Why Are CSS Frameworks Important to AJAX Development][5] posted at [Ajax Bestiary][6], saying, &#8220;It's way to easy to get burned in AJAX development when you don't start with a good foundation. Here's an exploration of why CSS Frameworks can give your entire development process a leg up. Even the javascript.&#8221; Again, I'm not a fan of CSS frameworks, but to each his own.
+**Don Albrecht** presents [Why Are CSS Frameworks Important to AJAX Development][5] posted at [Ajax Bestiary][6], saying, "It's way to easy to get burned in AJAX development when you don't start with a good foundation. Here's an exploration of why CSS Frameworks can give your entire development process a leg up. Even the javascript." Again, I'm not a fan of CSS frameworks, but to each his own.
 
 <!-- Carnival Submission -->
 
-**John W. Furst** presents [Use Safe Identifiers In Your Web Templates][7] posted at [E-Biz Booster Blog][8], saying, &#8220;I wrote this, because I was getting tired of looking up the specifics in different specs all the time. You might find it to be a helpful resource for your readers.&#8221;
+**John W. Furst** presents [Use Safe Identifiers In Your Web Templates][7] posted at [E-Biz Booster Blog][8], saying, "I wrote this, because I was getting tired of looking up the specifics in different specs all the time. You might find it to be a helpful resource for your readers."
 
 <!-- Carnival Submission -->
 
-**Danogo** presents [Forget Webcams and YouTube. How I Created My Own Music Video For Free Online in 1 Day.][9] posted at [Danogo.com - Discover. Inspiring . Media][10], saying, &#8220;Creating an original music video with social media mixing and user-generated content&#8221;
+**Danogo** presents [Forget Webcams and YouTube. How I Created My Own Music Video For Free Online in 1 Day.][9] posted at [Danogo.com - Discover. Inspiring . Media][10], saying, "Creating an original music video with social media mixing and user-generated content"
 
 <!-- Carnival Submission -->
 
-**Gabriel** presents [Get Brendon Sinclair to Answer Your Question Interview Contest !][11] posted at [SEO ROI Consulting][12], saying, &#8220;Brendon Sinclair is the author of Sitepoint's popular Web Design Business Kit. The first edition sold out, and the second edition has just been published!&#8221;
+**Gabriel** presents [Get Brendon Sinclair to Answer Your Question Interview Contest !][11] posted at [SEO ROI Consulting][12], saying, "Brendon Sinclair is the author of Sitepoint's popular Web Design Business Kit. The first edition sold out, and the second edition has just been published!"
 
 <!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of
 

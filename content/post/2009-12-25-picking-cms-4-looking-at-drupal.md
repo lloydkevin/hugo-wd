@@ -54,7 +54,7 @@ Generally, I try to find some built in modules or themes to do the things I need
 
 As the name suggests, CCK enables you to **add custom content types** to your CMS. So, something like _events_ would be quite easy to add. With these you get custom field types (text, image, date, time, etc) and a ton of other goodies.
 
-The Views module allows you to define a custom &#8220;view&#8221; outside of your regular Page/Post set up. A classic use of this would be to display a list of upcoming events in your sidebar.
+The Views module allows you to define a custom "view" outside of your regular Page/Post set up. A classic use of this would be to display a list of upcoming events in your sidebar.
 
 ## Ease of Theming
 
@@ -94,7 +94,7 @@ Personally, I just find dealing with PHP easier. I know what it does. I don't ne
 
 Now I know in Part 2, I promised you guys that I'd get into <a onclick="javascript:pageTracker._trackPageview('/outbound/article/silverstripe.org');" href="http://silverstripe.org/">Silverstripe</a> and <a onclick="javascript:pageTracker._trackPageview('/outbound/article/modxcms.com');" href="http://modxcms.com/">ModX</a>. Let me apologize for that. I installed them, tried them out, and quickly dismissed them. Although each had it's great selling points, they were just too new and unpopular to devote much time into. There were limited modules/plugins and the user communities were tiny in comparison to things like WordPress and Drupal.
 
-Also there was one (Silverstripe I believe) that forced me to edit the theme in the administration section. That's all well and good for clients who want to modify themes, but I need syntax highlighting, I'm sorry. And the idea of &#8220;copy and paste&#8221; into the theme edit box got really old really fast.
+Also there was one (Silverstripe I believe) that forced me to edit the theme in the administration section. That's all well and good for clients who want to modify themes, but I need syntax highlighting, I'm sorry. And the idea of "copy and paste" into the theme edit box got really old really fast.
 
 I know that WordPress allows you to do the same thing, however the theme is still ultimately stored as a file you can modify with a regular editor and not in the database.
 

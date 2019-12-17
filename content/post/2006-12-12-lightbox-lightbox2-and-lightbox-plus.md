@@ -32,12 +32,12 @@ In the HEAD section of your HTML code.
 	&lt;script type="text/javascript" src="lightbox.js"&gt;&lt;/script&gt;
 </pre>
 
-To use it, simple add rel=&#8221;lightbox&#8221; to any &#8220;a&#8221; tag linking to an image file:
+To use it, simple add rel="lightbox" to any "a" tag linking to an image file:
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;a href="images/image-1.jpg" rel="lightbox" title="my caption"&gt;image #1&lt;/a&gt;
 </pre>
 
-As you can see, you can have pure text in the link tag or a thumbnail image like most people do. Yep, that's it. Your website is covered with a grayish transparent background image and looks as if it's disabled. There is an animated GIF (can be any AJAX-like indicator you wish) that pops up while the image is loaded, then Voila. Very sweet lil' script. Of course it's backwards compatible with browsers with JavaScript disabled. It's just an &#8220;a&#8221; tag after all. There is also support for the transparent PNG file in IE 6. Do check out [LightBox JS][1].
+As you can see, you can have pure text in the link tag or a thumbnail image like most people do. Yep, that's it. Your website is covered with a grayish transparent background image and looks as if it's disabled. There is an animated GIF (can be any AJAX-like indicator you wish) that pops up while the image is loaded, then Voila. Very sweet lil' script. Of course it's backwards compatible with browsers with JavaScript disabled. It's just an "a" tag after all. There is also support for the transparent PNG file in IE 6. Do check out [LightBox JS][1].
 
 There are variations of this script. [Lightbox JS v2.0][2] has a more AJAX-y feel to it. The image box pops up and closes in a nice fluid motion. It includes one more JavaScript include for this though. They also added image grouping, where you can go from one image to the next while the pop up is still enabled.
 

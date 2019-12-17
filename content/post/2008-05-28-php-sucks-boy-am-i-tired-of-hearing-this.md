@@ -15,9 +15,9 @@ So here we have the timely battle that PHP faces. Frankly, I'm getting sick and 
 
 ### They Say PHP Sucks
 
-You'll hear the same claims every single time: &#8220;Google [PHP Sucks][1] you'll see how much PHP sucks&#8221;. Oh please! This is some of what the haters usually use for the argument:
+You'll hear the same claims every single time: "Google [PHP Sucks][1] you'll see how much PHP sucks". Oh please! This is some of what the haters usually use for the argument:
 
-  * &#8220;**There are too many functions**&#8220;
+  * "**There are too many functions**"
   * PHP Isn't OOP
   * **Everything is strung together** - This claim usually talks about the interaction between PHP and/or SQL
 
@@ -30,7 +30,7 @@ The number one claim is that everything in PHP feels like it's _clunky_ and may 
 
 #### Functions, Functions, Functions
 
-I, myself, have never really understood the &#8220;too many functions&#8221; argument. Maybe it does make the documentation a bit muggy to get through, but how many functions that are in there have very little to do with me. I don't care, I just use a handful of them.
+I, myself, have never really understood the "too many functions" argument. Maybe it does make the documentation a bit muggy to get through, but how many functions that are in there have very little to do with me. I don't care, I just use a handful of them.
 
 #### PHP is OPP - That's All There Is To It
 
@@ -40,7 +40,7 @@ I mean, I'd love to see a bit more OOP, but that's an implementation issue. And 
 
 #### PHP Is Not A Framework - Get Over It
 
-Now, I know what you're thinking: &#8220;Baz, you're a lazy bastard, that's isn't so hard to write&#8221;. And you're be totally right. But after the 25th time writing this or some simple variation of this, you can't help but feel that you're wasting your time. Now here's the kicker: This isn't a problem isolated to PHP. Most other programming languages (listen to me well: **Programming Languages**) suffer the same fate. You're going to see SQL strung out throughout code in any language, I don't see why people keep blaming PHP for this.
+Now, I know what you're thinking: "Baz, you're a lazy bastard, that's isn't so hard to write". And you're be totally right. But after the 25th time writing this or some simple variation of this, you can't help but feel that you're wasting your time. Now here's the kicker: This isn't a problem isolated to PHP. Most other programming languages (listen to me well: **Programming Languages**) suffer the same fate. You're going to see SQL strung out throughout code in any language, I don't see why people keep blaming PHP for this.
 
 This is a classic in the [PHP vs. Rails saga][2]. Haters often compare PHP, a simple programming (scripting even) language to a very complex web development framework. I don't care what you say, but that's **like comparing a factory stock model car to a car with 2 years of work and $20,000 of after market parts**. Luckily, the folks at [Rails Envy][3] have made an attempt at [clearing this up][4] with their mention of CakePHP:
 

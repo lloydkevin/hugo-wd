@@ -18,7 +18,7 @@ categories:
 
 > {
 
-> if (text1.value != &#8220;&#8221;)
+> if (text1.value != "")
 
 > {
 

@@ -24,7 +24,7 @@ A new HTML group is in the works:
 
 XHTML2 is the way of the future.
 
-> There is also a plan for a separate group to work on the XHTML2 work which the old &#8220;HTML working group&#8221; was working on. There will be no dependency of HTML work on the XHTML2 work.
+> There is also a plan for a separate group to work on the XHTML2 work which the old "HTML working group" was working on. There will be no dependency of HTML work on the XHTML2 work.
 
 What ever the development of HTML brings with it will be welcomed. The major aspect that needs to be looked at carefully is having everyone move together. Web designers are lazy, I know that because I'm one of them. Why learn a new standard if you're not being forced to? Browser makers need to force these changes upon web designers. Only then will the true potential of HTML, XHTML, XML, CSS, and all the other technologies be seen.
 

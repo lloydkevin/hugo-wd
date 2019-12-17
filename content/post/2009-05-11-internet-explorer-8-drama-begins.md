@@ -29,20 +29,20 @@ Am I saying that there are no problems with the other browsers? No I'm not. Try 
 
 For years, Microsoft has been getting flack about old versions of Internet Explorer. The irony is that, now they've finally done something about it, but [not everyone is happy][2].
 
-> The blogosphere is heating up over some some interesting options in the Internet Explorer 8 installation process. Eager to spread its shiny next-generation browser, IE 8, to the masses, Microsoft has included an option which resets the user's default browser in what some argue is too subtle a manner. The &#8220;Express&#8221; option during the IE 8 install is designed to make the install quicker and easier for novice users.
+> The blogosphere is heating up over some some interesting options in the Internet Explorer 8 installation process. Eager to spread its shiny next-generation browser, IE 8, to the masses, Microsoft has included an option which resets the user's default browser in what some argue is too subtle a manner. The "Express" option during the IE 8 install is designed to make the install quicker and easier for novice users.
 
 ## Seriously, What's The Big Deal?
 
-The funny thing is that, unlike **many** installations I've seen, the &#8220;Express&#8221; option isn't checked by default. Both choices are blank. You can't _accidentally_ perform the Express install by just hitting the _Next_ button (yes, that's how I perform most of my installs). You have to purposefully click the &#8220;Express&#8221; button.
+The funny thing is that, unlike **many** installations I've seen, the "Express" option isn't checked by default. Both choices are blank. You can't _accidentally_ perform the Express install by just hitting the _Next_ button (yes, that's how I perform most of my installs). You have to purposefully click the "Express" button.
 
 However, I don't see what the big deal is, honestly. I don't see how this is different from any other browser install. I can't be sure (I've never had a _clean_ install for a while) but, I don't think there's a way to stop the Firefox Automatic update, once it gets started. I open up my browser and magically there's a new version. At least Microsoft takes you through the installation process.
 
 My point is, who cares? If a user is savvy enough to install Firefox or Opera, this is the worst case scenario:
 
   * Install IE 8 and unknowingly set it to default.
-  * Hit the &#8220;Internet&#8221; button and be surprised when IE 8 loads up.
+  * Hit the "Internet" button and be surprised when IE 8 loads up.
   * Get's slightly annoyed
-  * Click the &#8220;Firefox&#8221;/&#8221;Opera&#8221; icon
+  * Click the "Firefox"/"Opera" icon
   * Get prompted to make that browser default again.
   * Go on with life.
 
@@ -56,7 +56,7 @@ Mozilla has nothing to fear from me, personally. I can't live without my Firefox
 
 ## Opera's Solution?
 
-> Opera wants the commission to make Microsoft offer alternate browsers using the same Windows Update service the latter relies on to upgrade IE. &#8220;That's one possible remedy,&#8221; said Lie, who called it a &#8220;must-carry&#8221; solution, meaning Windows would have to provide multiple browsers, not just IE.
+> Opera wants the commission to make Microsoft offer alternate browsers using the same Windows Update service the latter relies on to upgrade IE. "That's one possible remedy," said Lie, who called it a "must-carry" solution, meaning Windows would have to provide multiple browsers, not just IE.
 
 That is the most ridiculous thing I've ever heard. Does Ubuntu automatically install Opera/Safari (hell it might, I'm not really sure 🙂 but I know it does Firefox)? Does OS X have Firefox/Opera on the list when performing an update? The answer is no! So why would Microsoft do something that stupid? OS X comes with Safari and most _regular users_ don't question it; Ubuntu comes with Firefox installed and most _regular users_ don't question it. So what's the big deal with Microsoft doing the same?
 

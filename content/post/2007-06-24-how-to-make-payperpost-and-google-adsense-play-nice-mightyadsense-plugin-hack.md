@@ -72,7 +72,7 @@ $p=1000;
 $mai=1000;
 }</pre>
 
-    Now, I think you can follow me here. My Sponsored Post category id is 9. So we're saying &#8220;insert this ad everywhere except in posts with category ID 9&#8221;.</li> </ol>
+    Now, I think you can follow me here. My Sponsored Post category id is 9. So we're saying "insert this ad everywhere except in posts with category ID 9".</li> </ol>
 
     Now obviously, there are some disadvantages to this. You need to edit the code for each different blog you own. What would be ideal is if you could add some option to the plugin where you user could select the category they wish to exclude. But, I'm not a WordPress plugin creator and I did this on my lunch hour.
 

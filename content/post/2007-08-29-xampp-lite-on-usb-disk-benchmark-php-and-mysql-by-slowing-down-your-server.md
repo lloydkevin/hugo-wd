@@ -22,7 +22,7 @@ To develop PHP and MySQL on a Windows machine, I usually use [WAMP][1]. I had tr
 
 I don't have to tell you that running an Apache web server, PHP 5.0 and MySQL from a USB disk is not a great idea for a production environment. Disk access to the USB disk is much slower than a hard drive. This has an unexpected benefit that I've noticed with CakePHP. Queries that used to take 3 milliseconds and 4 milliseconds now take 300 milliseconds and 400 milliseconds.
 
-So why am I excited about stuff running so slowly? When you have a table with 20 fields, but only regularly use five (5), CakePHP makes it so easy write _$this->paginate()_ or _$this->findAll();_ to retrieve results that we sometimes forget the all 20 fields are being returned every single time. You see the debug say that &#8220;_3 queries took 10 ms_&#8220;_._ You don't really think much of it, but when the debug window says &#8220;_3 queries took 500 ms_&#8220;, you realize that you need to do some work. It makes you think about things that normalizing databases, and caching models, controllers, and views.
+So why am I excited about stuff running so slowly? When you have a table with 20 fields, but only regularly use five (5), CakePHP makes it so easy write _$this->paginate()_ or _$this->findAll();_ to retrieve results that we sometimes forget the all 20 fields are being returned every single time. You see the debug say that "_3 queries took 10 ms_"_._ You don't really think much of it, but when the debug window says "_3 queries took 500 ms_", you realize that you need to do some work. It makes you think about things that normalizing databases, and caching models, controllers, and views.
 
 ### Installing XAMPP
 

@@ -57,9 +57,9 @@ These arguments are not based on hard facts, since I haven't done much research 
 
                 There are steps you can take to speed up RoR. Running it **using Fast CGI** is one option. But again we get to the point of what is a available on shared hosts. Even on dedicated hosts performance is a problem. **The RoR community has taken the _Throw More Hardware At It_ defense**, but everyone doesn't have that options. They are quite vested in [Moore's Law][4], which basically states that hardware performance will continue to increase exponentially, due to increases in technology.
 
-                Even one of the developers of Twitter (huge RoR application) has expressed [concern about RoR's performance][5]. For the rest of us of us on shared hosts or who write small/medium sized applications for clients on shared hosts, **Fast CGI** (if not already installed) and **adding a faster CPU are luxuries that we simply do not have**. I would also remind you that even Mr. Moore himself stated that the law _&#8220;can't continue forever&#8221;_. There's going to be a point when things get down the atomic sizes, then what? But anyway, that's a whole other discussion.
+                Even one of the developers of Twitter (huge RoR application) has expressed [concern about RoR's performance][5]. For the rest of us of us on shared hosts or who write small/medium sized applications for clients on shared hosts, **Fast CGI** (if not already installed) and **adding a faster CPU are luxuries that we simply do not have**. I would also remind you that even Mr. Moore himself stated that the law _"can't continue forever"_. There's going to be a point when things get down the atomic sizes, then what? But anyway, that's a whole other discussion.
 
-                My point is, I write efficient code when I can. Other times I write &#8220;get it done&#8221; code. **I can't afford to my framework to slow me down** even more than I'm going slow down myself. With these memory and CPU issues, I even wonder how shared hosts are able to provide RoR services to all their customers.</li>
+                My point is, I write efficient code when I can. Other times I write "get it done" code. **I can't afford to my framework to slow me down** even more than I'm going slow down myself. With these memory and CPU issues, I even wonder how shared hosts are able to provide RoR services to all their customers.</li>
 
                   * ### Object Oriented Programming
 
@@ -77,7 +77,7 @@ These arguments are not based on hard facts, since I haven't done much research 
 
                         As development slows down a big, the documentation will evolve. I'm gonna go out on a limb here and predict that by CakePHP 1.5, we should have some solid documentation out there. By version 2.0 we should have a book.</li> </ol>
 
-                        It's important to note that when it comes to decisions like these, I am in no way loyal (Sorry guys). I usually vote for whatever is going to create less work for me. So far, CakePHP has been leading the forefront in &#8220;Making Less Work For Baz&#8221; so it's two thumbs up.
+                        It's important to note that when it comes to decisions like these, I am in no way loyal (Sorry guys). I usually vote for whatever is going to create less work for me. So far, CakePHP has been leading the forefront in "Making Less Work For Baz" so it's two thumbs up.
 
  [1]: http://blog.clickablebliss.com/
  [2]: http://blog.clickablebliss.com/2005/12/27/php-vs-ruby-on-rails-part-3/

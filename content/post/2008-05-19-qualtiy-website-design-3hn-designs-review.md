@@ -12,7 +12,7 @@ tags:
   - design
 
 ---
-So, you've been reading this blog for a while and you're (hopefully) picking up very valuable tips on website and web application design. But just like all other do-it-yourself (DIY) projects, no amount of tips or tutorials in isolation is going to make you an expert. So you throw your hands up in say &#8220;I'm done with this web design crap!&#8221; But, you still need a website. So what do you do?
+So, you've been reading this blog for a while and you're (hopefully) picking up very valuable tips on website and web application design. But just like all other do-it-yourself (DIY) projects, no amount of tips or tutorials in isolation is going to make you an expert. So you throw your hands up in say "I'm done with this web design crap!" But, you still need a website. So what do you do?
 
 [Shameless Plug]
 

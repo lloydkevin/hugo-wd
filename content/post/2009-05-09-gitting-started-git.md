@@ -61,7 +61,7 @@ Some time ago, I stumbled across this article on [web based work flow for Git][1
 
 > The key idea in this system is that the web site exists on the server as a pair of repositories; a bare repository alongside a conventional repository containing the live site. Two simple Git hooks link the pair, automatically pushing and pulling changes between them.
 
-It's actually a great idea. You have one central repository or hub and one &#8220;live&#8221; site. The hub has is a _bare_ repository; it has no workspace and you can't checkout any files. The prime, however, has it's own work space, which hosts your live site.
+It's actually a great idea. You have one central repository or hub and one "live" site. The hub has is a _bare_ repository; it has no workspace and you can't checkout any files. The prime, however, has it's own work space, which hosts your live site.
 
 When you push into the hub the hooks (set article for setup) automatically push those changes over to the prime or live repository. Likewise, the prime has hooks that function when a commit is done: they push changes back to the hub. So ideally, all your major development would be pushed to the hub which, in turn, pushes those changes to the live site. Now if you make a one off change to the live site (who says that never happens) you can hit commit and it will push those changes back to your hub.
 

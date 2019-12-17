@@ -14,9 +14,9 @@ Brian Goldfarb, a Microsoft Product Manager, had an [interview][1] some days ago
 
 > To some up:
 >
->   * &#8220;Ajax is hard&#8221;
->   * &#8220;Microsoft invented Ajax&#8221;
->   * &#8220;Microsoft will make it easier&#8221;
+>   * "Ajax is hard"
+>   * "Microsoft invented Ajax"
+>   * "Microsoft will make it easier"
 
 This was basically what Brian Goldfarb seemed to have been getting to.
 
