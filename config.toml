@@ -1,11 +1,11 @@
-baseURL = "https://webdevelopment2.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Web Development 2.0: Web Design, ASP.NET MVC, CakePHP, Javascript"
 theme = "mainroad"
 description = "Quick and Dirty Web Development for Web 2.0: ASP.NET MVC, CakePHP, JQuery, and lots more."
-disqusShortname = "webdevelopment2" # Enable Disqus comments by entering your Disqus shortname
 
-# googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+disqusShortname = "webdevelopment2" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "UA-100181-5" # Enable Google Analytics by entering your tracking id
 
 # [Author] # Used in authorbox
 #   name = "John Doe"
@@ -20,8 +20,8 @@ disqusShortname = "webdevelopment2" # Enable Disqus comments by entering your Di
 
 [Params]
   subtitle = "Quick and Dirty Web Development for Web 2.0: ASP.NET MVC, CakePHP, JQuery, and lots more." # Subtitle of your site. Used in site header
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+  description = "Quick and Dirty Web Development for Web 2.0: ASP.NET MVC, CakePHP, JQuery, and lots more." # Site description. Used in meta description
+  copyright = "Web Development 2.0" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
@@ -31,7 +31,7 @@ disqusShortname = "webdevelopment2" # Enable Disqus comments by entering your Di
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
-  mathjax = true # Enable MathJax
+  mathjax = false # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   highlightColor = "#e22d30" # Override highlight color
