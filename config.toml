@@ -1,4 +1,4 @@
-baseURL = "https://webdevelopment2.com/"
+baseURL = "https://webdevelopment2.netlify.com/"
 languageCode = "en-us"
 title = "Web Development 2.0: Web Design, ASP.NET MVC, CakePHP, Javascript"
 theme = "mainroad"
