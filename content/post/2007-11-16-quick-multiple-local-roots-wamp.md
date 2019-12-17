@@ -33,45 +33,38 @@ If we keep everything to relative paths and stress using CakePHP&#8217;s $html->
 It&#8217;s so easy a caveman could do it. I wonder why it took me months, hmmph.
 
   1. Edit the file: C:\WINDOWS\system32\drivers\etc\hosts
-  
+
     Add the lines: 127.0.0.1 app1.local
-  
+
     Each of these lines corresponds to the virtual host that you wish to add, so go wild and add as many as you need.
   2. Edit your Apache httd.conf file.
   3. Add or uncomment the following line:
-  
+
     NameVirtualHost *:80
   4. Add the following for each virtual host:
-  
-    [CODE]
-  
+
+```apache
     <VirtualHost *:80>
-	  
+
     ServerName app1.local
-	  
+
     DocumentRoot D:/wamp/www/cake/app1/webroot
-  
+
     </VirtualHost>
-  
-    [/CODE]
+```
 
 I only needed two lines in step 4. because all my directories are sub directories of the main root folder so they inherit the settings. If not, I would have had to add something like this:
-  
-[CODE]
-  
-<Directory Ã¢â‚¬Å“D:\wamp\www\cake\app1\webroot\Ã¢â‚¬Â>
-	  
-Options Indexes FollowSymLinks MultiViews
-	  
-AllowOverride all
-		  
-Order allow,deny
-	  
-Allow from all
-  
+
+
+```apache
+<Directory D:\wamp\www\cake\app1\webroot\>
+  Options Indexes FollowSymLinks MultiViews
+  AllowOverride all
+  Order allow,deny
+  Allow from all
 </Directory>
-  
-[/CODE]
+```
+
 
 Rinse and repeat for as many Virtual Hosts as you need and access them in your browser using root by:
 
