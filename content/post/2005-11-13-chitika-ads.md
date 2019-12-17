@@ -22,7 +22,7 @@ If you have a website/blog, don't miss out on this. Check out [Chitika ads][1].
 
 
 
-<a href="https://chitika.com/mm_overview.php?refid=bazil749" style="text-decoration: none;"><br /> <img src="http://scripts.chitika.net/eminimalls/logos/110x32.png" border="0" height="32" width="110" alt="Get Chitika eMiniMalls" title="Get Chitika eMiniMalls" /><br /> </a>
+<a href="https://chitika.com/mm_overview.php?refid=bazil749" style="text-decoration: none;"><br /> <img src="https://scripts.chitika.net/eminimalls/logos/110x32.png" border="0" height="32" width="110" alt="Get Chitika eMiniMalls" title="Get Chitika eMiniMalls" /><br /> </a>
 
  [1]: https://chitika.com/mm_overview.php?refid=bazil749
  [2]: http://www.problogger.net/archives/2005/10/05/chitika-eminimalls-how-much-do-they-earn-me/
