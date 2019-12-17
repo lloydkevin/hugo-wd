@@ -10,7 +10,7 @@ categories:
 ---
 With the way that Ajax applications have been developing, the questions of whether these applications can [completely replace PC software][1] comes to mind. Take [Writely][2] (online word processor) for instance:
 
-> "People are e-mailing document attachments in order to collaborate or else, in the enterprise world, they are attempting to use wildly expensive and complicated systems &#8212; the equivalent of trying to pound in a nail with a sledgehammer," says Jen Mazzon, Writely's vice president of marketing.
+> "People are e-mailing document attachments in order to collaborate or else, in the enterprise world, they are attempting to use wildly expensive and complicated systems - the equivalent of trying to pound in a nail with a sledgehammer," says Jen Mazzon, Writely's vice president of marketing.
 >
 > Her company's service simplifies this "by keeping track of a full revision history that includes who made what changes when, as well as by signaling to you who is co-editing with you at any given moment," she says. "Lastly, you can keep track of key changes made to the doc without even being in the doc, via an RSS feed that we enable."
 

@@ -54,7 +54,7 @@ Granted, PHP makes it a bit easier to be lazy, but do we blame the language for 
 
 Bottom Line:
 
-> Some of the largest sites on the internet &#8212; sites you probably interact with on a daily basis &#8212; are written in PHP. If PHP sucks so profoundly, why is it powering so much of the internet?
+> Some of the largest sites on the internet - sites you probably interact with on a daily basis - are written in PHP. If PHP sucks so profoundly, why is it powering so much of the internet?
 >
 > The only conclusion I can draw is that building a compelling application is far more important than choice of language. While PHP wouldn't be my choice, and if pressed, I might argue that it should never be the choice for any rational human being sitting in front of a computer, I can't argue with the results.
 
