@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.webdevelopment2.com/"
 languageCode = "en-us"
 title = "Web Development 2.0: Web Design, ASP.NET MVC, CakePHP, Javascript"
 theme = "mainroad"
