@@ -15,5 +15,5 @@ categories:
 
 Happy Reading.
 
- [1]: http://images.amazon.com/images/P/1932394613.01._SCTHUMBZZZ_.jpg
+ [1]: https://images.amazon.com/images/P/1932394613.01._SCTHUMBZZZ_.jpg
  [2]: http://www.amazon.com/exec/obidos/redirect?tag=bazwebdevelop-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=1932394613%2526tag=bazwebdevelop-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/1932394613%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82 "View product details at Amazon"
