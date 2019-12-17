@@ -10,14 +10,14 @@ categories:
   - Ajax
 
 ---
-[Weebly][1] has finally launched, well again. What is [Weebly][1]? It&#8217;s online website creation using the latest and greatest of web 2.0. It&#8217;s a WYSIWYG editor, but so much more. You can choose to host you website at Weebly, where you will get a sub-domain, or you can host at your own domain. For the latter option you will need to change the CNAME records of your domain name so that they point to _whaterver.weebly.com._
+[Weebly][1] has finally launched, well again. What is [Weebly][1]? It's online website creation using the latest and greatest of web 2.0. It's a WYSIWYG editor, but so much more. You can choose to host you website at Weebly, where you will get a sub-domain, or you can host at your own domain. For the latter option you will need to change the CNAME records of your domain name so that they point to _whaterver.weebly.com._
 
 [<img src="/wp-content/uploads/weebly.jpg" title="Weebly" alt="Weebly" align="left" border="0" />][1]
 
-Everything is done in a drag and drop interface: pictures, text, headings, even page titles. It reminds me of Google&#8217;s website creator just a bit.
+Everything is done in a drag and drop interface: pictures, text, headings, even page titles. It reminds me of Google's website creator just a bit.
 
-One interesting thing that I&#8217;ve seen is the way you can preview different designs or themes. As soon as you hover over the theme the entire page changes to show you how it would look.
+One interesting thing that I've seen is the way you can preview different designs or themes. As soon as you hover over the theme the entire page changes to show you how it would look.
 
-Check out [Weebly][1] if you&#8217;re not into all this nitty gritty web stuff.
+Check out [Weebly][1] if you're not into all this nitty gritty web stuff.
 
  [1]: http://www.weebly.com/

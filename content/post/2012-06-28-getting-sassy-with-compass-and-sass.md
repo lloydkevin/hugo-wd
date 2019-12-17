@@ -12,14 +12,14 @@ categories:
 <div>
   <div>
     <div>
-      Well last night I finally took the plunge and now I don&#8217;t know what it is I was waiting for all these years.
+      Well last night I finally took the plunge and now I don't know what it is I was waiting for all these years.
     </div>
   </div>
 </div>
 
 [Sass][1] enables you to create CSS with much less effort than before. It brings CSS closer to the programming language that we all wish it was.
 
-Let&#8217;s get down to some of the features.
+Let's get down to some of the features.
 
 ## Sass Features
 
@@ -119,11 +119,11 @@ Will generate:
 
 So similarly, if you decide **all **the borders on your website need to change, you simply change the mixin and it propagates. Really slick if you ask me.
 
-There are a host of other features, but these are the ones I&#8217;ve exploited in my 3 hours of plaining with this thing.
+There are a host of other features, but these are the ones I've exploited in my 3 hours of plaining with this thing.
 
 ## Compass
 
-Now down to the business of how you actually use this thing. Thus far, we&#8217;ve only mentioned Sass. You can accomplish a lot with just that.
+Now down to the business of how you actually use this thing. Thus far, we've only mentioned Sass. You can accomplish a lot with just that.
 
 [Compass][2] is essentially a Sass wrapper. It comes with some built-in mixins and you can also add plug-ins. One that I found is [Compass 960 plugin][3]. As you can assume, it adds functionality for the [960 grid framework][4] (one of my personal favorites). The biggest benefit I see to this plugin is that it brings back semantics to your classes. No need for _countainer_16_ anymore. Just imagine:
 

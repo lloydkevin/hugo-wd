@@ -9,12 +9,12 @@ categories:
   - General
 
 ---
-Welcome to the December 26, 2008 edition of Web Development 2.0. (Yeah, I know I&#8217;m a bit late, but it was Christmas 🙂 )
+Welcome to the December 26, 2008 edition of Web Development 2.0. (Yeah, I know I'm a bit late, but it was Christmas 🙂 )
 
 <!-- Carnival Submission -->
 
 
-  
+
 **Fiona King** presents [10 Best Ruby/RoR Web Hosts Compared ? 2009][1] posted at [WHDb][2].
 
 ## general

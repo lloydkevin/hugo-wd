@@ -10,8 +10,8 @@ categories:
   - SEO
 
 ---
-I like how they put it, &#8220;SEO isn&#8217;t rocket science it&#8217;s more like magic&#8221;. I&#8217;m not saying that these steps should replace major SEO from experts. Well, maybe I am. If you&#8217;re started out from zero SEO I would suggest these tips to you. This way you would understand what SEO and why it is important. That way when you do get into the position (money-wise) where you do need an expert you&#8217;ll know what you&#8217;re paying for.
-  
+I like how they put it, &#8220;SEO isn't rocket science it's more like magic&#8221;. I'm not saying that these steps should replace major SEO from experts. Well, maybe I am. If you're started out from zero SEO I would suggest these tips to you. This way you would understand what SEO and why it is important. That way when you do get into the position (money-wise) where you do need an expert you'll know what you're paying for.
+
 [Search Engine Optimization Made Simple][1] from WebDesign at [About.com][2]
 
   1. Pick a Target Phrase

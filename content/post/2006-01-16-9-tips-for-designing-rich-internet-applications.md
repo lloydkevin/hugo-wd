@@ -12,7 +12,7 @@ categories:
 ---
 Bill Scoot over at [Looks Good Works Well][1] wrote a very interesting article: [Nine Tips for Designing Rich Internet Applications][2].
 
-Here&#8217;s a synopsis:
+Here's a synopsis:
 
   1. Make it directly interactive
   2. Make it inviting
@@ -24,7 +24,7 @@ Here&#8217;s a synopsis:
   8. Communicate transitions
   9. Think in objects
 
-Most of this we&#8217;ve heard before, but I like lists 🙂
+Most of this we've heard before, but I like lists 🙂
 
  [1]: http://looksgoodworkswell.blogspot.com
  [2]: http://looksgoodworkswell.blogspot.com/2006/01/nine-tips-for-designing-rich-internet.html

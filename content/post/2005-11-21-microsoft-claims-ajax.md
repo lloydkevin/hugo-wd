@@ -10,10 +10,10 @@ categories:
   - Ajax
 
 ---
-Brian Goldfarb, a Microsoft Product Manager, had an [interview][1] some days ago where he answered questions about the company&#8217;s plans with Ajax development tools. This is quite an interesting article. However, I love the way that Dion at Ajaxian.com [summarized things][2] summarizes things: 
+Brian Goldfarb, a Microsoft Product Manager, had an [interview][1] some days ago where he answered questions about the company's plans with Ajax development tools. This is quite an interesting article. However, I love the way that Dion at Ajaxian.com [summarized things][2] summarizes things:
 
 > To some up:
-> 
+>
 >   * &#8220;Ajax is hard&#8221;
 >   * &#8220;Microsoft invented Ajax&#8221;
 >   * &#8220;Microsoft will make it easier&#8221;

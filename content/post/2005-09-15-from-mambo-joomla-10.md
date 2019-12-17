@@ -10,7 +10,7 @@ categories:
   - Joomla
 
 ---
-Ok, we&#8217;ve all heard of [Mambo][1] CMS (Content Management System). It&#8217;s a PHP package which many use to set up and manage websites. I&#8217;ve been using Mambo on a couple of my sites in the past and frequently on sites done for customers who wish to perform their own updates to their sites but have little web development skills. Although Mambo has a bit of a learning curve, once you do the workings down, anyone can update the site in a nice WYSIWYG editor straight from the website itself.
+Ok, we've all heard of [Mambo][1] CMS (Content Management System). It's a PHP package which many use to set up and manage websites. I've been using Mambo on a couple of my sites in the past and frequently on sites done for customers who wish to perform their own updates to their sites but have little web development skills. Although Mambo has a bit of a learning curve, once you do the workings down, anyone can update the site in a nice WYSIWYG editor straight from the website itself.
 
 From Mambo spawn Joomla!!! In a nutshell, there were some differences between the management team and the development team on the Mambo project, so the development guys decided to leave and create their own product, [Joomla][2]
 

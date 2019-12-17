@@ -19,40 +19,40 @@ categories:
   * [Part 3][3]
   * [Part 4][4]
 
-I made some promises in [Part 1][1] that I was reminded about in [Part 2][2] (Thanks [Ian][5]). I didn&#8217;t give WordPress enough attention. So, here I go.
+I made some promises in [Part 1][1] that I was reminded about in [Part 2][2] (Thanks [Ian][5]). I didn't give WordPress enough attention. So, here I go.
 
-_[**WordPress**][6] ****[**As A**][7] ****[**CMS**][7]_ has pretty much become a household phrase these days. So, let&#8217;s just right in.
+_[**WordPress**][6] ****[**As A**][7] ****[**CMS**][7]_ has pretty much become a household phrase these days. So, let's just right in.
 
 ## Why I Love WordPress
 
-  * **Popularity** &#8211; It&#8217;s arguably the most popular blogging platform out there. Popularity means a huge community, active development and lots of community contribution (plugins and themes anyone?)
-  * **Posts and Pages** &#8211; WordPress does this extremely well. That&#8217;s what it&#8217;s made for.
+  * **Popularity** &#8211; It's arguably the most popular blogging platform out there. Popularity means a huge community, active development and lots of community contribution (plugins and themes anyone?)
+  * **Posts and Pages** &#8211; WordPress does this extremely well. That's what it's made for.
   * **Plugins** &#8211; There are thousands of plugins that extend this tool and makes life a breeze for a lot of us.
-  * **Themes** &#8211; Again, another benefit of popularity is that there are tons of themes out there to pick from and build upon. Every project doesn&#8217;t have to start from a blank slate.
+  * **Themes** &#8211; Again, another benefit of popularity is that there are tons of themes out there to pick from and build upon. Every project doesn't have to start from a blank slate.
 
-WordPress is **excellent at what it does**. It&#8217;s also good at some of the things it wasn&#8217;t designed to do. You have a lot of things to work with in WordPress: Posts, pages, categories, tags, widgets, and even the [dreaded custom fields][8].
+WordPress is **excellent at what it does**. It's also good at some of the things it wasn't designed to do. You have a lot of things to work with in WordPress: Posts, pages, categories, tags, widgets, and even the [dreaded custom fields][8].
 
 The idea is to find that balance and know the limitations.
 
 ## Know When To Hold &#8216;Em, Know When To Fold &#8216;Em
 
-Bet you never figured Kenny Rogers would teach us about Web Design. If it&#8217;s a simple site with a couple of pages, some articles or news (aka Posts) and couple of images here and there, then WordPress is a no-brainer.
+Bet you never figured Kenny Rogers would teach us about Web Design. If it's a simple site with a couple of pages, some articles or news (aka Posts) and couple of images here and there, then WordPress is a no-brainer.
 
-Now before I continue I need to clarify something in terms of my goal. WordPress can be used as a CMS for just about any site. yes, I said it. It does a lot and you can bend it to it&#8217;s limits. However, my **ultimate goal is to provide a nontechnical client** with something **easy to use**. This becomes very difficult when your content takes different forms in terms of **custom content**. When I need a list of _Events_ (which each have a title, time, description, poster, etc) things get hairy. Custom fields only bring us so far.
+Now before I continue I need to clarify something in terms of my goal. WordPress can be used as a CMS for just about any site. yes, I said it. It does a lot and you can bend it to it's limits. However, my **ultimate goal is to provide a nontechnical client** with something **easy to use**. This becomes very difficult when your content takes different forms in terms of **custom content**. When I need a list of _Events_ (which each have a title, time, description, poster, etc) things get hairy. Custom fields only bring us so far.
 
-This is where I have a problem. When things get too complicated and you need custom things, we run into a bit of a problem. Just because you _can_ do something doesn&#8217;t mean you _should_. Custom fields extend WordPress tremendously, however I&#8217;ve found that they can get a bit difficult for a nontechnical person to use. Now there are a few things that have been done to make this thing more pleasant.
+This is where I have a problem. When things get too complicated and you need custom things, we run into a bit of a problem. Just because you _can_ do something doesn't mean you _should_. Custom fields extend WordPress tremendously, however I've found that they can get a bit difficult for a nontechnical person to use. Now there are a few things that have been done to make this thing more pleasant.
 
 ## Easing WordPress Stress
 
-As a benefit of the huge community and its popularity people have contributed things to WordPress to make using it as a CMS more pleasurable. There&#8217;s [Flutter][9], [PODs][10] (just found out about this), [Magic Fields][11] (fork of Flutter), [Custom Write Panels][12], and more. From what I&#8217;ve seen, Flutter, Magic Fields and PODs are the most powerful among these.
+As a benefit of the huge community and its popularity people have contributed things to WordPress to make using it as a CMS more pleasurable. There's [Flutter][9], [PODs][10] (just found out about this), [Magic Fields][11] (fork of Flutter), [Custom Write Panels][12], and more. From what I've seen, Flutter, Magic Fields and PODs are the most powerful among these.
 
 All of these have their limitations, but as with most things, it goes back to the 80-20 rule: These plugins will work wonderfully for 80% of your applications. There other 20% is going to be a problem.
 
-## What I Don&#8217;t Like About WordPress
+## What I Don't Like About WordPress
 
 The Administration section is part of my problem. For just a blog, I can set up a client as an &#8220;editor&#8221; and things work beautifully. However, with things like Custom Fields, etc. it gets complicated to explain to clients how to do certain things. Also, when you need a little bit more oomph, you give the user a higher role. But that tends to expose too much to the users.
 
-I&#8217;ve played with a couple permission and role plugins, but none seemed to do what I needed. Either that or I didn&#8217;t know how to use them properly.
+I've played with a couple permission and role plugins, but none seemed to do what I needed. Either that or I didn't know how to use them properly.
 
 ## What Did I Miss?
 

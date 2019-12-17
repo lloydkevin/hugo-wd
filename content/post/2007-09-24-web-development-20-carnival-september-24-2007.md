@@ -12,17 +12,17 @@ Welcome to the September 24, 2007 edition of web development 2.0.
 
 <!-- Carnival Submission -->
 
-**Madeleine Begun Kane** presents [Ode To The Mobile Web (Cell Phone Browsing Humor)][1] posted at [Mad Kane&#8217;s Humor Blog][2].
+**Madeleine Begun Kane** presents [Ode To The Mobile Web (Cell Phone Browsing Humor)][1] posted at [Mad Kane's Humor Blog][2].
 
 ## General
 
 <!-- Carnival Submission -->
 
-**Paul** presents [Make Web Site Development Easy][3] posted at [BigTechnical][4], saying, &#8220;Great CSS tools and more.&#8221; Although I don&#8217;t really dig the Blueprint CSS framework, the tips on Nifty Corners and gradients are good.
+**Paul** presents [Make Web Site Development Easy][3] posted at [BigTechnical][4], saying, &#8220;Great CSS tools and more.&#8221; Although I don't really dig the Blueprint CSS framework, the tips on Nifty Corners and gradients are good.
 
 <!-- Carnival Submission -->
 
-**Don Albrecht** presents [Why Are CSS Frameworks Important to AJAX Development][5] posted at [Ajax Bestiary][6], saying, &#8220;It&#8217;s way to easy to get burned in AJAX development when you don&#8217;t start with a good foundation. Here&#8217;s an exploration of why CSS Frameworks can give your entire development process a leg up. Even the javascript.&#8221; Again, I&#8217;m not a fan of CSS frameworks, but to each his own.
+**Don Albrecht** presents [Why Are CSS Frameworks Important to AJAX Development][5] posted at [Ajax Bestiary][6], saying, &#8220;It's way to easy to get burned in AJAX development when you don't start with a good foundation. Here's an exploration of why CSS Frameworks can give your entire development process a leg up. Even the javascript.&#8221; Again, I'm not a fan of CSS frameworks, but to each his own.
 
 <!-- Carnival Submission -->
 
@@ -34,9 +34,9 @@ Welcome to the September 24, 2007 edition of web development 2.0.
 
 <!-- Carnival Submission -->
 
-**Gabriel** presents [Get Brendon Sinclair to Answer Your Question Interview Contest !][11] posted at [SEO ROI Consulting][12], saying, &#8220;Brendon Sinclair is the author of Sitepoint&#8217;s popular Web Design Business Kit. The first edition sold out, and the second edition has just been published!&#8221;
+**Gabriel** presents [Get Brendon Sinclair to Answer Your Question Interview Contest !][11] posted at [SEO ROI Consulting][12], saying, &#8220;Brendon Sinclair is the author of Sitepoint's popular Web Design Business Kit. The first edition sold out, and the second edition has just been published!&#8221;
 
-<!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of 
+<!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of
 
 **web development 2.0** using our <a href="http://blogcarnival.com/bc/submit_2377.html" target="_blank" title="Submit an entry to Ã¢â‚¬Å“web development 2.0Ã¢â‚¬Â">carnival submission form</a>. Past posts and future hosts can be found on our  <a href="http://blogcarnival.com/bc/cprof_2377.html" target="_blank" title="Blog Carnival index for Ã¢â‚¬Å“web development 2.0Ã¢â‚¬Â">blog carnival index page</a>.
 

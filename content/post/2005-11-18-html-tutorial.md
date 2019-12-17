@@ -10,9 +10,9 @@ categories:
   - General
 
 ---
-Since this blog does (claim to) encompass all sorts of Web Development. I&#8217;ve decided to insert a couple basic links. I&#8217;m not much for HTML my self. Honestly speaking, I don&#8217;t know much HTML and I refuse to learn it. Yes, I am a Web Developer and have designed 20+ websites in the past 4 years, but HTML is something I&#8217;m not too good at. If you ask me, it&#8217;s all in the tools you use.
+Since this blog does (claim to) encompass all sorts of Web Development. I've decided to insert a couple basic links. I'm not much for HTML my self. Honestly speaking, I don't know much HTML and I refuse to learn it. Yes, I am a Web Developer and have designed 20+ websites in the past 4 years, but HTML is something I'm not too good at. If you ask me, it's all in the tools you use.
 
-Since my personal knowledge is limited in this field I&#8217;ve provided you with a series of links to site which have helped me:
+Since my personal knowledge is limited in this field I've provided you with a series of links to site which have helped me:
 
   * [W3Schools][1]
   * [Davesite][2]

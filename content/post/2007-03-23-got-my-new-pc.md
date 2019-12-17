@@ -21,8 +21,8 @@ Today is one of the happiest days of my life. I finally got my new computer. Her
   * [250 GB SATA Hard Drive + Plus one of my old 120 GB IDE Hard Drives][1]
   * [Some cheap Creative Labs Speakers (In a noise free apartment complex)][1]
 
-Now I would love to tell you guys to look forward to a lot of new posts, but honestly I&#8217;m going to be wrapped up in this for a while. I got a lot of new games to play and a lot of movies to watch on my wide screen monitor :). So, I&#8217;ll be with you guys in a couple days, lol.
+Now I would love to tell you guys to look forward to a lot of new posts, but honestly I'm going to be wrapped up in this for a while. I got a lot of new games to play and a lot of movies to watch on my wide screen monitor :). So, I'll be with you guys in a couple days, lol.
 
-Just kidding. I haven&#8217;t been able to post lately because I sold my old computer and I didn&#8217;t want to risk blogging at work. But it&#8217;s all good now. I&#8217;m back.
+Just kidding. I haven't been able to post lately because I sold my old computer and I didn't want to risk blogging at work. But it's all good now. I'm back.
 
  [1]: http://www.lifeofbaz.com/2007/03/22/got-my-new-computer-im-too-happy-for-words/

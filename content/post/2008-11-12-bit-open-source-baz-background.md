@@ -18,11 +18,11 @@ tags:
 ---
 This has always been a touchy subject, especially in larger computer firms. But first, let me tell you how I got into [Open Source][1]. I started coding in Turbo Pascal 7.0, in about 1996 when I was in Grammar School. I took Turbo Pascal more as an introduction to Programming, instead of a product to do something constructive in.
 
-After Pascal, I was looking into something visual. Hence, I fell into Visual Basic 5.0. Yeah, I know, I&#8217;m sorry.
+After Pascal, I was looking into something visual. Hence, I fell into Visual Basic 5.0. Yeah, I know, I'm sorry.
 
 ### Legal Issues
 
-Now this was my first step towards the open source community. I must admit, that I downloaded a pirated copy and ran with it for a while. Now, that was all well and good when I was sitting home playing around with stuff. But when it came to actually, to producing something for a market, you can&#8217;t (or should I say, shouldn&#8217;t) do that with pirated software.
+Now this was my first step towards the open source community. I must admit, that I downloaded a pirated copy and ran with it for a while. Now, that was all well and good when I was sitting home playing around with stuff. But when it came to actually, to producing something for a market, you can't (or should I say, shouldn't) do that with pirated software.
 
 After that, I got into web development. For this, there was a plethora of free tools available, for use. So I did that for a while. When I got back to college, I got into C++ (using Visual Studio, but still essentially free). That was a step in the right direction. However, as the semesters went on, we got more into using the .NET library. However, for my web development I never got into ASP.
 
@@ -35,17 +35,17 @@ Bit by bit, web development gave way to web programming. This is where PHP came 
 
 ### The Open Source Misconception
 
-One of the problems that people have with Open Source is that they think that it&#8217;s unsupported. People seem to think that open source software is written by a bunch of kids in basements or something. This is not the case, by any means.  For example, a lot of the Linux distributions are totally free and totally supported.  Wake up people; free doesn&#8217;t mean unsupported. The whole _&#8220;You get what you pay for&#8221;_ isn&#8217;t always true.<!--more-->
+One of the problems that people have with Open Source is that they think that it's unsupported. People seem to think that open source software is written by a bunch of kids in basements or something. This is not the case, by any means.  For example, a lot of the Linux distributions are totally free and totally supported.  Wake up people; free doesn't mean unsupported. The whole _&#8220;You get what you pay for&#8221;_ isn't always true.<!--more-->
 
 #### Why I Use Open Source Software
 
 For my personal web development, I run a very small team and we do work part time. This is no time to shell out $6,000 for a standard license of SQL Server 2005. MySQL server 5.0 is a very robust database server. It should be able to handle itself in a lot of the situations that people think they need to throw SQL Server at. Where, MySQL fails to deliver, PostgreSQL should be more than sufficient.
 
-Open source software and products just make life easier. Take examples like, [jQuery][2] and [CakePHP][3]. Would it be possible for an in-house team to come up with the same thing? Yes, sure? But why? Especially when a team (not just one guy) has put years into one special product. The price of the software does not dictate it&#8217;s quality.
+Open source software and products just make life easier. Take examples like, [jQuery][2] and [CakePHP][3]. Would it be possible for an in-house team to come up with the same thing? Yes, sure? But why? Especially when a team (not just one guy) has put years into one special product. The price of the software does not dictate it's quality.
 
 ### What Not To Do
 
-Now, one word of wisdom: All open source software isn&#8217;t the same. You need to do your research before diving into open source. Look up research about the product&#8217;s history, community support, and most importantly the support. If you run a very small shop, then almost anything will work for you; especially since you&#8217;re main goal would be to keep costs down.
+Now, one word of wisdom: All open source software isn't the same. You need to do your research before diving into open source. Look up research about the product's history, community support, and most importantly the support. If you run a very small shop, then almost anything will work for you; especially since you're main goal would be to keep costs down.
 
 However, a large company should not thumb their nose at open source software either. Unless you have a team dedicated to doing one task, and doing it well, why not utilise a tried and true method? Why do we always feel the need to reinvent the wheel? Seriously, your team may be extremely skilled, but can you guys really crank out a better Javascript Framework than jQuery? I doubt it.
 

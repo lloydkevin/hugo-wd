@@ -10,13 +10,13 @@ categories:
   - General
 
 ---
-<!--adsense-->I&#8217;ve stumbled upon a disturbing poll at 
+<!--adsense-->I've stumbled upon a disturbing poll at
 
 [About.com][1].
 
 > How much is **too much** to pay for Web hosting?
 
->   * [If it&#8217;s not free, don&#8217;t do it][2]
+>   * [If it's not free, don't do it][2]
 >   * [$2.01 per month][3]
 >   * [$5.01 per month][4]
 >   * [$10.01 per month][5]
@@ -29,9 +29,9 @@ categories:
 
 The [results][12] of this poll were somewhat alarming to me. 33% of voters said that a business should pick a free host. OK, have these people ever seen what a free host offers?
 
-I&#8217;m not usually an advocate of &#8220;you get what you pay for&#8221; but there is some truth to it. Honestly, I have had very little experience with free hosts. First of all, do they even offer MySQL and PHP? Just asking.
+I'm not usually an advocate of &#8220;you get what you pay for&#8221; but there is some truth to it. Honestly, I have had very little experience with free hosts. First of all, do they even offer MySQL and PHP? Just asking.
 
-I have had experience with &#8220;cheap&#8221; hosts though. If it&#8217;s not one thing it&#8217;s the other. Either their PHP service goes down frequently or the entire host goes down. My last host was very surprising. I decided to pick them because they advertised in a very popular magazine that I subscribe to. Here&#8217;s the problem: They do offer MySQL and PHP, but they username&#8217;s and database names that they give are auto-generated for you. So this makes maintenance extremely difficult. Even logging into the server via FTP is difficult just because the username is so critique.
+I have had experience with &#8220;cheap&#8221; hosts though. If it's not one thing it's the other. Either their PHP service goes down frequently or the entire host goes down. My last host was very surprising. I decided to pick them because they advertised in a very popular magazine that I subscribe to. Here's the problem: They do offer MySQL and PHP, but they username's and database names that they give are auto-generated for you. So this makes maintenance extremely difficult. Even logging into the server via FTP is difficult just because the username is so critique.
 
 These are things that any one should consider when picking a host. I would seriously discourage any &#8220;business&#8221; from picking a free or even cheap host.
 

@@ -10,7 +10,7 @@ categories:
   - Forum
 
 ---
-Guess who&#8217;s doing phpBB templates now. Yep, our friends over at [TemplateMonster.com][1] are now doing [phpBB 2 templates][1]. These templates include the actual templates files, PSD files with the graphics, fonts and icons.
+Guess who's doing phpBB templates now. Yep, our friends over at [TemplateMonster.com][1] are now doing [phpBB 2 templates][1]. These templates include the actual templates files, PSD files with the graphics, fonts and icons.
 
 From [Web Hosting News][2]:
 

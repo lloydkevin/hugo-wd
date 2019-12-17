@@ -12,18 +12,18 @@ tags:
   - form
 
 ---
-I must say, this was a major hurdle for me when I first started out with CakePHP. If you&#8217;re working with some data from a database, then it&#8217;s all Model-View-Controller magic. Your forms are automatic: $form->input() is pretty much all you need. Why is this? That&#8217;s because all the information about the fields (names, sizes, types, etc.) come straight from the database.
+I must say, this was a major hurdle for me when I first started out with CakePHP. If you're working with some data from a database, then it's all Model-View-Controller magic. Your forms are automatic: $form->input() is pretty much all you need. Why is this? That's because all the information about the fields (names, sizes, types, etc.) come straight from the database.
 
-### You&#8217;re Out On Your Own
+### You're Out On Your Own
 
-The problem right now is that, you&#8217;re all on your own. You need to describe your data on your own. So, on with it:
+The problem right now is that, you're all on your own. You need to describe your data on your own. So, on with it:
 
-Here&#8217;s your model code:
+Here's your model code:
 
 <pre class="brush: php; title: ; notranslate" title="">class Contact extends AppModel {
 	var $name = 'Contact';
 	var $useTable = false;  // Not using the database, of course.
-	
+
 	// All the fancy validation you could ever want.
 	var $validate = array(
 	    'name' =&gt; array(
@@ -41,7 +41,7 @@ Here&#8217;s your model code:
 	    ),
 	);
 
-	// This is where the magic happens		   
+	// This is where the magic happens
 	function schema() {
 		return array (
 			'name' =&gt; array('type' =&gt; 'string', 'length' =&gt; 60),
@@ -55,7 +55,7 @@ Here&#8217;s your model code:
 
 ### What The User Sees
 
-I think the model&#8217;s the hardest part. The view is ridiculous:
+I think the model's the hardest part. The view is ridiculous:
 
 <pre class="brush: php; title: ; notranslate" title="">echo $form-&gt;create(null, array('action' =&gt; 'index'));
 	echo $form-&gt;input('name');
@@ -63,14 +63,14 @@ I think the model&#8217;s the hardest part. The view is ridiculous:
 	echo $form-&gt;input('subject');
 	echo $form-&gt;input('message');
 	echo $form-&gt;submit();
-	echo $form-&gt;end(); 
+	echo $form-&gt;end();
 </pre>
 
-I know; you&#8217;re disappointed right? Sorry.
+I know; you're disappointed right? Sorry.
 
 ### How Do We Control All This?
 
-So, here&#8217;s your controller. I was going to leave that up to you, but it&#8217;s so simple that I can&#8217;t help it:
+So, here's your controller. I was going to leave that up to you, but it's so simple that I can't help it:
 
 <pre class="brush: php; title: ; notranslate" title="">class ContactController extends AppController
 {
@@ -106,9 +106,9 @@ So, here&#8217;s your controller. I was going to leave that up to you, but it&#8
 
 After I got halfway through this, I remembered that [Snook][1] had written [something very similar][2], sorry J.
 
-There&#8217;s one subtle difference that I&#8217;ve noticed, that I need to point out.
-  
-_var $_schema_ as apposed to _function schema()_. In the original CakePHP code, one of the major actions of _Model::function()_ is to return _var Model::$_shema_. So, Tom-ay-to/Tom-a-to; it really doesn&#8217;t matter.
+There's one subtle difference that I've noticed, that I need to point out.
+
+_var $_schema_ as apposed to _function schema()_. In the original CakePHP code, one of the major actions of _Model::function()_ is to return _var Model::$_shema_. So, Tom-ay-to/Tom-a-to; it really doesn't matter.
 
  [1]: http://snook.ca/
  [2]: http://snook.ca/archives/cakephp/contact_form_cakephp/

@@ -21,15 +21,15 @@ I just think that some of the stuff in there warrants some explanation.
 
 ### isAuthorized()
 
-This function is needed when **$this-Auth->authorize = &#8216;controller&#8217;**. Theory has it, you can do something similar in app_model if **$this-Auth->authorize = &#8216;model&#8217;**, but I haven&#8217;t looked into this.
+This function is needed when **$this-Auth->authorize = &#8216;controller'**. Theory has it, you can do something similar in app_model if **$this-Auth->authorize = &#8216;model'**, but I haven't looked into this.
 
-The thing that confused me about this is that I thought you were required to perform your own validation. But oh no, this is _additional_ authorization. Sort of like what beforeSave() does, where you can **cancel the save after the validation**. isAuthorized() is performed _after_ the user has been logged in. If after that, you need some additional stuff, then you can put it in there. I&#8217;m not sure why it doesn&#8217;t default to return true like beforeSave() (if everything goes well), but if it&#8217;s not present, it errors out.
+The thing that confused me about this is that I thought you were required to perform your own validation. But oh no, this is _additional_ authorization. Sort of like what beforeSave() does, where you can **cancel the save after the validation**. isAuthorized() is performed _after_ the user has been logged in. If after that, you need some additional stuff, then you can put it in there. I'm not sure why it doesn't default to return true like beforeSave() (if everything goes well), but if it's not present, it errors out.
 
-### $this->Auth->user(&#8216;group_id&#8217;)
+### $this->Auth->user(&#8216;group_id')
 
-In my User Model I have a field called _group_id._ So you guessed it, this just returns the _group_id_ of the user that&#8217;s logged in. Things couldn&#8217;t be simpler.
+In my User Model I have a field called _group_id._ So you guessed it, this just returns the _group_id_ of the user that's logged in. Things couldn't be simpler.
 
-### $this->Auth->userScope = array(&#8216;User.active&#8217; => 1)
+### $this->Auth->userScope = array(&#8216;User.active' => 1)
 
 userScope is simply used as an added set of conditions and it behaves exactly the same way that _$conditions_ works with the Model::find() function. So what I got about says that the user must be _active_ to login.
 

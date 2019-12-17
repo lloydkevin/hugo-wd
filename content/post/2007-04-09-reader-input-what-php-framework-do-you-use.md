@@ -10,7 +10,7 @@ categories:
   - PHP
 
 ---
-There are a bunch of [PHP frameworks][1], too many if you ask me. I&#8217;ve tinkered around with [CakePHP][2], [Zend Framework][3], and [Code Igniter][4]. I&#8217;m curious to know what you guys have been using and what you find quick and easy.
+There are a bunch of [PHP frameworks][1], too many if you ask me. I've tinkered around with [CakePHP][2], [Zend Framework][3], and [Code Igniter][4]. I'm curious to know what you guys have been using and what you find quick and easy.
 
 What do you look for in a PHP Framework?
 

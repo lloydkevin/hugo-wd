@@ -11,7 +11,7 @@ sharing_disabled:
   - 1
 
 ---
-Don&#8217;t hesitate to drop me a line.
+Don't hesitate to drop me a line.
 
 <div role="form" class="wpcf7" id="wpcf7-f567-o1" dir="ltr">
   <div class="screen-reader-response">

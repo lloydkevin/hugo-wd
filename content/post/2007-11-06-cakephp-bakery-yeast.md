@@ -15,7 +15,7 @@ tags:
 
 Today I popped onto the [CakePHP Bakery][1] looking for the [obAuth Component][2]. To my surprise, I got a blank page.
 
-Seems like there&#8217;s a database issue. Here&#8217;s hoping that it&#8217;s not down for too long.
+Seems like there's a database issue. Here's hoping that it's not down for too long.
 
 _Update (11/20/07):_
 

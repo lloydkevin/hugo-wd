@@ -11,12 +11,12 @@ categories:
 
 ---
 > In what can only be described as very embarrassing Mamboserver has been hacked.
-  
-> The open source content management system that lost it&#8217;s entire development team and the vast majority of the community not so long ago has today had it&#8217;s web site defaced.
+
+> The open source content management system that lost it's entire development team and the vast majority of the community not so long ago has today had it's web site defaced.
 
 [read more][1].
 
-I really think this is it for Mambo. But my one problem is that people seemed to be getting the wrong idea. Joomla and Mambo had the same core as of a couple days ago. It&#8217;s not that Joomla is so much better than Mambo. Joomla has had some minor updates since the split, but there were essentially the same. So people saying that Mambo is vulnerable and not Joomla is not a viable statement.
+I really think this is it for Mambo. But my one problem is that people seemed to be getting the wrong idea. Joomla and Mambo had the same core as of a couple days ago. It's not that Joomla is so much better than Mambo. Joomla has had some minor updates since the split, but there were essentially the same. So people saying that Mambo is vulnerable and not Joomla is not a viable statement.
 
 The Joomla team, however, did take this as an opportunity to release [Joomla! 1.0.4 [ _Sundial_ ]][2].
 

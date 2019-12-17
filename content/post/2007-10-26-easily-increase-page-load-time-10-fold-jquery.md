@@ -10,11 +10,11 @@ categories:
 ---
 ### Introduction
 
-It&#8217;s no new news to us that images hurt a page&#8217;s load time worst then anything out there. There are a lot of things you can do to try and alleviate some of the problem. You can use smaler images, you can reduce the quality on images, etc.
+It's no new news to us that images hurt a page's load time worst then anything out there. There are a lot of things you can do to try and alleviate some of the problem. You can use smaler images, you can reduce the quality on images, etc.
 
-But consider this. You know that your website is going to a long one. Meaning that the user is going to have to scroll. This means that they don&#8217;t see the entire page when they first load. Wouldn&#8217;t it be nice to only load what they need? You could load only the images that are in view. This will give the user time to read the content about the fold on your page, then as he scrolls down, you can gradually load the rest of the images.
+But consider this. You know that your website is going to a long one. Meaning that the user is going to have to scroll. This means that they don't see the entire page when they first load. Wouldn't it be nice to only load what they need? You could load only the images that are in view. This will give the user time to read the content about the fold on your page, then as he scrolls down, you can gradually load the rest of the images.
 
-This is referred to as Lazy Loading. It&#8217;s exactly the opposite of preloading images. We preload images for a lot of reasons. The classic example is in those old school JavaScript (and even CSS) rollovers, where we preload the rollover image so that there is no delay when they are needed.
+This is referred to as Lazy Loading. It's exactly the opposite of preloading images. We preload images for a lot of reasons. The classic example is in those old school JavaScript (and even CSS) rollovers, where we preload the rollover image so that there is no delay when they are needed.
 
 ### Enter Lazy Load Plugin for jQuery
 
@@ -50,7 +50,7 @@ We can even go one step further and add a little bit of padding to when the imag
 
 This says that we load images that are 200 pixels from the page load. With this setting the images are still loaded before the user gets to them.
 
-Check out the [Lazy Load][3] plugin, it&#8217;s great work. Check out the [Demo][4] also.
+Check out the [Lazy Load][3] plugin, it's great work. Check out the [Demo][4] also.
 
  [1]: http://developer.yahoo.com/yui/imageloader/
  [2]: http://brandonaaron.net/docs/dimensions/

@@ -10,19 +10,19 @@ categories:
   - General
 
 ---
-<!--adsense-->Now I&#8217;ll be the first to admit that I&#8217;m 
+<!--adsense-->Now I'll be the first to admit that I'm
 
-[not a huge Flash advocate][1]. I don&#8217;t like it for a lot of reasons:
+[not a huge Flash advocate][1]. I don't like it for a lot of reasons:
 
-  1. It&#8217;s heavy
-  2. It&#8217;s not standard
-  3. A lot of older browsers don&#8217;t support it.
+  1. It's heavy
+  2. It's not standard
+  3. A lot of older browsers don't support it.
 
 But guys, I think I fell in love:
 
-[SWFUpload][2] is one of the nicer Flash applications out there and it&#8217;s good because it has a few features that ordinary HTML uploads can&#8217;t give you. A progress bar. That is one of the main features lacking with HTML uploads. You can also upload multiple files simultaneously. And I must say, it&#8217;s pretty.
+[SWFUpload][2] is one of the nicer Flash applications out there and it's good because it has a few features that ordinary HTML uploads can't give you. A progress bar. That is one of the main features lacking with HTML uploads. You can also upload multiple files simultaneously. And I must say, it's pretty.
 
-So much for the user end. You&#8217;d think this thing takes a lot of back-end code. Nope.
+So much for the user end. You'd think this thing takes a lot of back-end code. Nope.
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;script type="text/javascript"&gt;
 
@@ -33,7 +33,7 @@ So much for the user end. You&#8217;d think this thing takes a lot of back-end c
 
 &lt;/script&gt;</pre>
 
-Yep, that&#8217;s it. Have fun
+Yep, that's it. Have fun
 
 [<img src="/wp-content/uploads/swfUpload.png" alt="swfUpload.png" title="swfUpload.png" width="458" height="206" border="0" />][3]
 

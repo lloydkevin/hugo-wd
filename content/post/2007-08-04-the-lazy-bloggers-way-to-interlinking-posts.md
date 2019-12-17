@@ -10,8 +10,8 @@ categories:
   - Blog
 
 ---
-Here&#8217;s a quick tip for today:
-  
+Here's a quick tip for today:
+
 [Interlink Your Posts: aLinks Plugin][1]
 
  [1]: http://www.lifeofbaz.com/

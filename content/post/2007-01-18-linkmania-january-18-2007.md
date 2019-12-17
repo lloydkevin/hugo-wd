@@ -10,11 +10,11 @@ categories:
   - General
 
 ---
-First off, let me apologize for the many weeks of no posts. I&#8217;ll give you some more information later, but basically I got a new job (yaaaaay) and I had to move about 150 miles to search for apartments and all the stuff that goes with it. That, coupled with no internet connection and being dead broke didn&#8217;t leave much time to get on the internet.
+First off, let me apologize for the many weeks of no posts. I'll give you some more information later, but basically I got a new job (yaaaaay) and I had to move about 150 miles to search for apartments and all the stuff that goes with it. That, coupled with no internet connection and being dead broke didn't leave much time to get on the internet.
 
-  * It&#8217;s no secret that Firebug is a great tool, but did you know that you can do [AJAX Debugging with Firebug][1]?
-  * Fact or fiction: [Safari for Windows][2] by Apple? It would be fun if it were true though. I guess we&#8217;ll have to wait and see.
-  * Tired of Int32.Parse and need some performance increase for your [string to integer conversion][3]? This try this [neat lil&#8217; function][3].
+  * It's no secret that Firebug is a great tool, but did you know that you can do [AJAX Debugging with Firebug][1]?
+  * Fact or fiction: [Safari for Windows][2] by Apple? It would be fun if it were true though. I guess we'll have to wait and see.
+  * Tired of Int32.Parse and need some performance increase for your [string to integer conversion][3]? This try this [neat lil' function][3].
   * Every [magician needs a web site][4].
 
  [1]: http://www.ddj.com/dept/debug/196802787

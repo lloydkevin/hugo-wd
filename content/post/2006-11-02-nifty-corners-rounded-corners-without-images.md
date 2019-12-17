@@ -15,8 +15,8 @@ categories:
 [Alessandro Fulciniti][1] writes:
 
 > This is the original article. The technique has been improved with better browser support and a lot of new features. The new article has been published on the 6th of April 2005. You can read it [here][2]. The final version is [Niftycube][3].
-> 
-> Rounded Corners with CSS are a hot topic in web design: I think that there are hundreds of articles on them. This page is intended to present the solution I came up, that doesn&#8217;t requires images, extra markup nor CSS. Let&#8217;s start.
+>
+> Rounded Corners with CSS are a hot topic in web design: I think that there are hundreds of articles on them. This page is intended to present the solution I came up, that doesn't requires images, extra markup nor CSS. Let's start.
 
 Give them a look see:
 

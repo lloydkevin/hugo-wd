@@ -12,9 +12,9 @@ categories:
   - General
 
 ---
-<!--adsense-->Ok, It&#8217;s been a long time in the making, I&#8217;ll be the first to admit. This is a blog by a colleague of mine who shall remain nameless. There are some interesting tips on 
+<!--adsense-->Ok, It's been a long time in the making, I'll be the first to admit. This is a blog by a colleague of mine who shall remain nameless. There are some interesting tips on
 
-[saving money][1] and some cute lil&#8217; rants.
+[saving money][1] and some cute lil' rants.
 
 Check it out:
 

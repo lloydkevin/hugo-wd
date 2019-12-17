@@ -20,7 +20,7 @@ Courtesies of [TechJunction][1] I bring to you:
 
 #### Ruby on Rails
 
-has been getting real rave reviews lately. Honestly, I haven&#8217;t delved into it that deeply yet, but from my initial experience I don&#8217;t see what all the fuss is about, but I promise to investigate more. What I have seen is that a lot of web hosts out there either don&#8217;t support it or do so at a hefty price to the end consumer. As such, PHP still reins in the world of cheap web developement in my opinion.
+has been getting real rave reviews lately. Honestly, I haven't delved into it that deeply yet, but from my initial experience I don't see what all the fuss is about, but I promise to investigate more. What I have seen is that a lot of web hosts out there either don't support it or do so at a hefty price to the end consumer. As such, PHP still reins in the world of cheap web developement in my opinion.
 
 #### NAND Drives
 

@@ -12,12 +12,12 @@ tags:
   - internet explorer
 
 ---
-So here&#8217;s another common [Internet Explorer CSS hack][1] that&#8217;s pretty popular and not too ugly.
+So here's another common [Internet Explorer CSS hack][1] that's pretty popular and not too ugly.
 
-### Here&#8217;s The Problem
+### Here's The Problem
 
 ie-css-min-height-hack
-  
+
 This is how normal people horizontally center block elements using CSS: **You slap on a width** (I mean, that should be obvious enough right?). Then you **set the left and right _margins_ to auto**, and VoilÃ , centered!
 
 <pre class="brush: css; title: ; notranslate" title="">body #box {
@@ -30,7 +30,7 @@ Well except in Internet Explorer and some older browsers.
 
 ### Fixing The Problem
 
-This one is a bit nicer than the [CSS min-height hack][2]. You need to use the _text-align_ property to center for the element above, because **Internet Explorer sucks and doesn&#8217;t understand the auto margin**. Now too fix this, you need to reset the text-align to left.
+This one is a bit nicer than the [CSS min-height hack][2]. You need to use the _text-align_ property to center for the element above, because **Internet Explorer sucks and doesn't understand the auto margin**. Now too fix this, you need to reset the text-align to left.
 
 <pre class="brush: css; title: ; notranslate" title="">body {
 	text-align: center;
@@ -44,7 +44,7 @@ body #box {
 }
 </pre>
 
-That&#8217;s it folks!
+That's it folks!
 
  [1]: https://webdevelopment2.com/ie-css-min-height-hack "CSS Hack"
  [2]: https://webdevelopment2.com/ie-css-min-height-hack

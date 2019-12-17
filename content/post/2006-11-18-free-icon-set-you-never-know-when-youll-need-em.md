@@ -10,7 +10,7 @@ categories:
   - General
 
 ---
-<!--adsense-->You never really know when you&#8217;ll need an icon do you? Here is a set of
+<!--adsense-->You never really know when you'll need an icon do you? Here is a set of
 
 **free** icons for use. They are licensed under Creative Commons license so you can use them for whatever.
 

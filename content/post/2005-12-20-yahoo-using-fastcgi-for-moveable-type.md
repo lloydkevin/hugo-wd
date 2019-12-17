@@ -10,7 +10,7 @@ categories:
   - Fast CGI
 
 ---
-Yahoo recently introduced a new service to their Yahoo! Web Hosting. It&#8217;s the popular blogging package, Movable Type. One of the features listed for Movable Types is:
+Yahoo recently introduced a new service to their Yahoo! Web Hosting. It's the popular blogging package, Movable Type. One of the features listed for Movable Types is:
 
 > Speed &#8212; Use of **FastCGI** makes the Movable Type experience on Yahoo! Web hosting services the fastest on the web
 

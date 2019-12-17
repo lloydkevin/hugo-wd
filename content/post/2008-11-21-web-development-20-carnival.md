@@ -27,7 +27,7 @@ Welcome to the November 21, 2008 edition of Web Development 2.
 
 <!-- Carnival Submission -->
 
-Although I&#8217;m more or less devoted to CakePHP as my PHP Frameowrk, it&#8217;s also good to diversify sometimes. **Greg Allard** presents [Quick Thumbnails in Django][5] posted at [Code Spatter][6].
+Although I'm more or less devoted to CakePHP as my PHP Frameowrk, it's also good to diversify sometimes. **Greg Allard** presents [Quick Thumbnails in Django][5] posted at [Code Spatter][6].
 
 <!-- Carnival Submission -->
 

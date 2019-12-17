@@ -10,13 +10,13 @@ categories:
   - General
 
 ---
-Google has upgraded their beautiful and free Google Analytics for tracking traffic on your website. It&#8217;s all flash and beautiful.
+Google has upgraded their beautiful and free Google Analytics for tracking traffic on your website. It's all flash and beautiful.
 
-There are a lot of new features that I haven&#8217;t yet investigated, but what I do know, is that it&#8217;s pretty, lol.
+There are a lot of new features that I haven't yet investigated, but what I do know, is that it's pretty, lol.
 
 <a href="/wp-content/uploads/google_analytic.jpg" rel="lightbox"><img src="/wp-content/uploads/.thumbs/.google_analytic.jpg" alt="google_analytic.jpg" title="google_analytic.jpg" border="0" height="360" width="400" /></a>
 
-Just one thing to note however, I can&#8217;t seem to find the place where they have _average_ visits. You know, the average number of visits per day? In all the adding of new stuff tehy must have overlooked it guess.
+Just one thing to note however, I can't seem to find the place where they have _average_ visits. You know, the average number of visits per day? In all the adding of new stuff tehy must have overlooked it guess.
 
 Read More:
 

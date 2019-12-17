@@ -11,8 +11,8 @@ categories:
   - Blog
 
 ---
-It&#8217;s been a long time but I finally decided to breathe some life back into [Day In The Life of Baz][1]. It&#8217;s been a while since I touched anything on that blog. With the whole graduation thing and the job hut and the starting a [new job][2] and [moving][3], I&#8217;ve just been a bit overwhelmed lately. Some say welcome back to: [Day In The Life of Baz][1].[
-  
+It's been a long time but I finally decided to breathe some life back into [Day In The Life of Baz][1]. It's been a while since I touched anything on that blog. With the whole graduation thing and the job hut and the starting a [new job][2] and [moving][3], I've just been a bit overwhelmed lately. Some say welcome back to: [Day In The Life of Baz][1].[
+
 ][1]
 
  [1]: http://www.lifeofbaz.com/ "Day In The Life of Baz"

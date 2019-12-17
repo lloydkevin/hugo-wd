@@ -10,7 +10,7 @@ categories:
   - Ajax
 
 ---
-[<img align="left" title="InstaCalc" id="image113" alt="InstaCalc" src="/wp-content/uploads/2006/11/instacalc.PNG" />][1]Brand new. [InstaCalc][1]. Just like the name says, it&#8217;s an instant making use of AJAX. No need to hit &#8220;enter&#8221;. Your results are written as you type, just like any other AJAX application. You can set a number of rows and even set variables and use them similar to Excel. One neat feature is that it understands words like &#8220;thousand&#8221;, &#8220;million&#8221;, etc.
+[<img align="left" title="InstaCalc" id="image113" alt="InstaCalc" src="/wp-content/uploads/2006/11/instacalc.PNG" />][1]Brand new. [InstaCalc][1]. Just like the name says, it's an instant making use of AJAX. No need to hit &#8220;enter&#8221;. Your results are written as you type, just like any other AJAX application. You can set a number of rows and even set variables and use them similar to Excel. One neat feature is that it understands words like &#8220;thousand&#8221;, &#8220;million&#8221;, etc.
 
 <!--adsense-->You can even define a calculator and then embed it into an HTML page. Give it a try.
 

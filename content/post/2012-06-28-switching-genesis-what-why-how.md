@@ -15,7 +15,7 @@ tags:
 ---
 ## What
 
-I&#8217;ve never been
+I've never been
 
 Used starter themes before, never child themes.
 

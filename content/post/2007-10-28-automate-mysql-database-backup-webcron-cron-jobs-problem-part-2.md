@@ -20,10 +20,10 @@ tags:
 ---
 ### Got The Cron
 
-[Web Cron][1] is a great method of automating tasks on your server if you&#8217;re not blessed with cron jobs. However, after writing this I stumbled onto something that may fit your needs a bit better; [Remote Cron][2] is that service. It&#8217;s everything [Web Cron][3] is and more:
+[Web Cron][1] is a great method of automating tasks on your server if you're not blessed with cron jobs. However, after writing this I stumbled onto something that may fit your needs a bit better; [Remote Cron][2] is that service. It's everything [Web Cron][3] is and more:
 
-  * It&#8217;s Totally Free
-  * It&#8217;s in English
+  * It's Totally Free
+  * It's in English
 
 What more can you ask for? Yeah, I know, my standards are really low.
 
@@ -39,13 +39,13 @@ And it is this system of passing parameters that makes this tool extremely flexi
 
 backupDB.php?StartBackup=complete&SelectedTables[dbname]=tablename&SelectedTables[otherdb]=othertable&nohtml=1</pre>
 
-If you so desired you could even sustibute _StartBackup=standard_ for _StartBackup=complete_ so that you don&#8217;t have complete insert statements (they don&#8217;t include all the column/field definitions). Depending on the size of your database, this may dramatically reduce the size of the backup file.
+If you so desired you could even sustibute _StartBackup=standard_ for _StartBackup=complete_ so that you don't have complete insert statements (they don't include all the column/field definitions). Depending on the size of your database, this may dramatically reduce the size of the backup file.
 
 ### What I Use Now
 
-I&#8217;m not sure why I strayed away from backupDB, honestly I think I may have just forgotten about it, however lately I&#8217;ve been using [Automatic MySql Backup Script][6]. Dull name, I know, but it gets the job done. I Googled it and there it was.
+I'm not sure why I strayed away from backupDB, honestly I think I may have just forgotten about it, however lately I've been using [Automatic MySql Backup Script][6]. Dull name, I know, but it gets the job done. I Googled it and there it was.
 
-One good this about this is that it seems to still be under maintenance, which is more than I can say for backupDB. It also includes some nice functionality where it reduces the scripts CPU priority while running, so that it doesn&#8217;t put too much load on the server while running. A perfect option for shared hosts.
+One good this about this is that it seems to still be under maintenance, which is more than I can say for backupDB. It also includes some nice functionality where it reduces the scripts CPU priority while running, so that it doesn't put too much load on the server while running. A perfect option for shared hosts.
 
 Although there is no option to only backup a specific database, you can also specify a comma delimited list of databases that you would like the script to ignore. There is also an option to store all backed up database on the server in a specified directory.
 

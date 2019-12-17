@@ -12,7 +12,7 @@ categories:
 ---
 Ok,
 
-This weekend has been kind of rough in terms of information. I&#8217;ve been playing with a lot of new toys ([CakePHP][1], [AutoHotKey][2], [ScriptALicious][3]) so my brain is kind of fried right now. I promise, I&#8217;ll report when I sort things out.
+This weekend has been kind of rough in terms of information. I've been playing with a lot of new toys ([CakePHP][1], [AutoHotKey][2], [ScriptALicious][3]) so my brain is kind of fried right now. I promise, I'll report when I sort things out.
 
  [1]: http://www.cakephp.org
  [2]: http://www.AutoHotKey.com/

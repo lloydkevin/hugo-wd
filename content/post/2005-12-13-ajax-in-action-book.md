@@ -11,7 +11,7 @@ categories:
   - Ajax
 
 ---
-[![Ajax in Action][1]][2]There has been a lot of buzz about this book, [Ajax in Action][2]. I do plan to buy it, or rather get my boss to purchase it for the office :), so I haven&#8217;t read it yet. Considering all the reviews it&#8217;s been getting, I&#8217;ve decided to alert you guys about it. Maybe one of you could purchase it and send me a review.
+[![Ajax in Action][1]][2]There has been a lot of buzz about this book, [Ajax in Action][2]. I do plan to buy it, or rather get my boss to purchase it for the office :), so I haven't read it yet. Considering all the reviews it's been getting, I've decided to alert you guys about it. Maybe one of you could purchase it and send me a review.
 
 Happy Reading.
 

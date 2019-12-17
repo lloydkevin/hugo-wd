@@ -10,13 +10,13 @@ categories:
 ---
 ### Introduction
 
-These guys make it a point of duty to try their hardest to follow Google&#8217;s Webmaster Guidelines to drive traffic. Who benefits from this service? Based on the name of this service, you can see that it&#8217;s not for your average blogger. This service will benefit folks with eCommerce sites or some other type of static content.
+These guys make it a point of duty to try their hardest to follow Google's Webmaster Guidelines to drive traffic. Who benefits from this service? Based on the name of this service, you can see that it's not for your average blogger. This service will benefit folks with eCommerce sites or some other type of static content.
 
 They specialize in <span></span><a href="http://staticpagebuilder.com/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">SEO</a> for <span></span><a href="http://staticpagebuilder.com/" onclick="return top.js.OpenExtLink(window,event,this)" target="_blank">static pages</a>. They use targeted key words, to help you build key word rich content for your website to drive the most traffic to it.
 
 ### Design
 
-As I do with every site I review, I have to give my commentary on their web design. At first, it struck me as relatively cool, even a lil&#8217; Web 2.0 (ish). There are some nice Web 2.0 buttons, a basic logo with some [reflections][1]. But then I looked at the source and was gravely disappointed by the number of tables there were.
+As I do with every site I review, I have to give my commentary on their web design. At first, it struck me as relatively cool, even a lil' Web 2.0 (ish). There are some nice Web 2.0 buttons, a basic logo with some [reflections][1]. But then I looked at the source and was gravely disappointed by the number of tables there were.
 
 ### Conclusion
 

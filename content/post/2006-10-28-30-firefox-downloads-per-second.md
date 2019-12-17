@@ -14,7 +14,7 @@ categories:
 
 > Apparently, people loves them some Firefox. Within 24 hours of the official launch on Tuesday, there were over 2 million people using Firefox 2, and we were seeing a peak rate of more than 30 downloads per second from our website.
 
-With Firefox being my favorite browser, I can see what all the buzz is about. If this pace keeps up they&#8217;ll beat the stats of [IE7 with about 3 million in 48 hours][2]. I guess they have it right, make a good browser and people will download. Just for histories sack let me remind you guys of how the stats have been in the past.
+With Firefox being my favorite browser, I can see what all the buzz is about. If this pace keeps up they'll beat the stats of [IE7 with about 3 million in 48 hours][2]. I guess they have it right, make a good browser and people will download. Just for histories sack let me remind you guys of how the stats have been in the past.
 
   * Firefox 1.0 &#8211; 1 million downloads in 24 hours.
   * Firefox 1.5 &#8211; 1.5 million downloads in 24 hours.

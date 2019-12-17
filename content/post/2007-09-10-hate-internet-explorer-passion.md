@@ -11,10 +11,10 @@ categories:
   - Work
 
 ---
-I jsut realized that my brand new WordPress theme sucks in Internet Explorer 7. My footer doesn&#8217;t show up, and my sidebar is all the way to the bottom.
+I jsut realized that my brand new WordPress theme sucks in Internet Explorer 7. My footer doesn't show up, and my sidebar is all the way to the bottom.
 
 I remember when I first started with this them, I went through the whole cross browser thing and everything looked fine. I tweaked everything to my liking and was satisfied. Now I have to go backwards, one element at a time and try to isolate which tweak, new content, post, or plugin that has caused this to happen.
 
-Or I may just find a new theme. But in the mean while, I&#8217;ll continue hating IE. Why doesn&#8217;t stuff just work as it&#8217;s supposed to?
+Or I may just find a new theme. But in the mean while, I'll continue hating IE. Why doesn't stuff just work as it's supposed to?
 
-Ã‚ I realized this problem at the worst possible time, Monday morning at 1:41AM, so who knows when I&#8217;ll get to it.
+Ã‚ I realized this problem at the worst possible time, Monday morning at 1:41AM, so who knows when I'll get to it.

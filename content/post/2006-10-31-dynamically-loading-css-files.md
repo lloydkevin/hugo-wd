@@ -10,9 +10,9 @@ categories:
   - CSS
 
 ---
-Nothing new, just a different spin on it. View the source at [byteMyCode][1]. You simply call function CSS (url, media) and that&#8217;s it. It fetches the URL of the CSS style sheet; checks to see whether the file has already been loaded. If not it dynamically sticks it into the &#8220;link&#8221; section in your document head.
+Nothing new, just a different spin on it. View the source at [byteMyCode][1]. You simply call function CSS (url, media) and that's it. It fetches the URL of the CSS style sheet; checks to see whether the file has already been loaded. If not it dynamically sticks it into the &#8220;link&#8221; section in your document head.
 
-I&#8217;ve seen dynamic CSS elements before, but not an entire CSS file. Are you thinking what I&#8217;m thinking? Printer friendly versions. The code may have to be tweaked to be able to switch between style sheets though.
+I've seen dynamic CSS elements before, but not an entire CSS file. Are you thinking what I'm thinking? Printer friendly versions. The code may have to be tweaked to be able to switch between style sheets though.
 
 All in all, it seems like an excellent idea with a lot of potential.
 

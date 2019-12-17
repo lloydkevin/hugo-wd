@@ -16,4 +16,4 @@ categories:
 
 Funny as hell.
 
-I must admit, that part about Internet Explorer is so true, but what are you going to do? It&#8217;s all part of the job description.
+I must admit, that part about Internet Explorer is so true, but what are you going to do? It's all part of the job description.

@@ -13,7 +13,7 @@ categories:
 ---
 <a href="http://www.uncluttr.com/" target="_blank"><img src="/wp-content/uploads/2007/07/uncluttr.gif" alt="uncluttr.gif" title="uncluttr.gif" border="0" height="76" width="268" /></a>
 
-OK, now this is really cool. If you ask me it&#8217;s a beautiful use of AJAX.
+OK, now this is really cool. If you ask me it's a beautiful use of AJAX.
 
   1. Pick a category
   2. Search
@@ -22,9 +22,9 @@ OK, now this is really cool. If you ask me it&#8217;s a beautiful use of AJAX.
 
 <a href="/wp-content/uploads/2007/07/uncluttr.png" rel="lightbox"><img src="/wp-content/uploads/2007/07/.thumbs/.uncluttr.png" alt="uncluttr.png" title="uncluttr.png" border="0" height="156" width="400" /></a>
 
-Yep, that&#8217;s it. The name fits great. There is absolutely none of the clutter that you get from <a href="http://www.amazon.com/" target="_blank">Amazon&#8217;s</a> main website.
+Yep, that's it. The name fits great. There is absolutely none of the clutter that you get from <a href="http://www.amazon.com/" target="_blank">Amazon's</a> main website.
 
-This site deserves a lot more than what it&#8217;s getting right now.
+This site deserves a lot more than what it's getting right now.
 
 Source: [Search Amazon In Style][1] [uncluttr]
 

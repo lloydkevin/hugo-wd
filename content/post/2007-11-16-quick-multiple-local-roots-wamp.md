@@ -14,23 +14,23 @@ tags:
 ---
 ### The Problem
 
-I&#8217;ve had this problem for a while, but it&#8217;s become more of a problem since I started working heavily with CakePHP.
+I've had this problem for a while, but it's become more of a problem since I started working heavily with CakePHP.
 
 Here is my WAMP folder structure: D:\wamp\www\cake\[various app]
 
-Under this folder, I would have baked all the different applications that I&#8217;m working on at the time (app1, app2, app3, etc). So I could have my DocumentRoot set to my cake folder and access the different apps in my browser by:
+Under this folder, I would have baked all the different applications that I'm working on at the time (app1, app2, app3, etc). So I could have my DocumentRoot set to my cake folder and access the different apps in my browser by:
 
   * http://localhost/app1/
   * http://localhost/app2/
   * http://localhost/app3/
 
-That&#8217;s a perfectly fine idea, except that 95% of the time, when I deploy an application for a client it&#8217;s going to be installed on their root directory of that domain name. Even on my server, all my applications (CakePHP and otherwise) have their own domain or sub domain.
+That's a perfectly fine idea, except that 95% of the time, when I deploy an application for a client it's going to be installed on their root directory of that domain name. Even on my server, all my applications (CakePHP and otherwise) have their own domain or sub domain.
 
-If we keep everything to relative paths and stress using CakePHP&#8217;s $html->url() function, then everything _should_ be fine. But sometimes I&#8217;m lazy and I want to do a quick href=/ and not have to try to figure out how many levels I&#8217;ve gone. Also, I want to confidence to upload my entire folder to the clients server and **only** have to change database configurations.
+If we keep everything to relative paths and stress using CakePHP's $html->url() function, then everything _should_ be fine. But sometimes I'm lazy and I want to do a quick href=/ and not have to try to figure out how many levels I've gone. Also, I want to confidence to upload my entire folder to the clients server and **only** have to change database configurations.
 
-### The Answer &#8211; Apache&#8217;s Virtual Hosts
+### The Answer &#8211; Apache's Virtual Hosts
 
-It&#8217;s so easy a caveman could do it. I wonder why it took me months, hmmph.
+It's so easy a caveman could do it. I wonder why it took me months, hmmph.
 
   1. Edit the file: C:\WINDOWS\system32\drivers\etc\hosts
 

@@ -16,12 +16,12 @@ Here we go: You choose from various sizes of ads and you give it a list of keywo
 
 Daren over at [Problogger.net][2] says:
 
-> IÃ¢â‚¬â„¢ve been getting quite a few excited emails from readers who have signed up for the Chitika eMiniMalls that I reviewed last week. There has been a lot of positive feedback so far from those who IÃ¢â‚¬â„¢ve referred over to the program with some people earning some significant money from it so far (including Ã¢â‚¬ËœRachelÃ¢â‚¬Ëœ). There have also been a few (less) emails from bloggers who have failed to see them as effective. 
+> IÃ¢â‚¬â„¢ve been getting quite a few excited emails from readers who have signed up for the Chitika eMiniMalls that I reviewed last week. There has been a lot of positive feedback so far from those who IÃ¢â‚¬â„¢ve referred over to the program with some people earning some significant money from it so far (including Ã¢â‚¬ËœRachelÃ¢â‚¬Ëœ). There have also been a few (less) emails from bloggers who have failed to see them as effective.
 
-If you have a website/blog, don&#8217;t miss out on this. Check out [Chitika ads][1].
-  
+If you have a website/blog, don't miss out on this. Check out [Chitika ads][1].
 
-  
+
+
 <a href="https://chitika.com/mm_overview.php?refid=bazil749" style="text-decoration: none;"><br /> <img src="http://scripts.chitika.net/eminimalls/logos/110x32.png" border="0" height="32" width="110" alt="Get Chitika eMiniMalls" title="Get Chitika eMiniMalls" /><br /> </a>
 
  [1]: https://chitika.com/mm_overview.php?refid=bazil749

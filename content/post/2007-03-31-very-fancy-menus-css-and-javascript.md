@@ -15,9 +15,9 @@ Saw this and I was amazed:
 
 [<img src="/wp-content/uploads/fancy_menu.gif" alt="fancy_menu.gif" title="fancy_menu.gif" border="0" height="59" width="451" />][1]
 
-All done with CSS And JavaScript. The implementation is also brilliantly simple. And it all fits in 1.5KB. What&#8217;s to lose?
+All done with CSS And JavaScript. The implementation is also brilliantly simple. And it all fits in 1.5KB. What's to lose?
 
-By the way, you can&#8217;t tell by the image, but the image under that ![][2]<span style="font-weight: bold">travel</span> menu; it moves with the mouse hover. Check it out: [Facny Menu][1].
+By the way, you can't tell by the image, but the image under that ![][2]<span style="font-weight: bold">travel</span> menu; it moves with the mouse hover. Check it out: [Facny Menu][1].
 
  [1]: http://devthought.com/cssjavascript-true-power-fancy-menu/
  [2]: file:///C:/DOCUME%7E1/Baz/LOCALS%7E1/Temp/moz-screenshot-1.jpg

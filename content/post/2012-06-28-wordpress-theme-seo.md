@@ -24,7 +24,7 @@ categories:
 </div>
 
 <div>
-  Don&#8217;t forget about header tags&#8230;etc
+  Don't forget about header tags&#8230;etc
 </div>
 
   1. <span style="line-height: 13px;"><br /> </span>

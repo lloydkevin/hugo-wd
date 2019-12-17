@@ -17,7 +17,7 @@ I must say, JavaScript and I have had our love-hate relationship. Sometimes the 
   * Variable Declarations are not necessary
   * It does not compile
 
-But officially, does JavaScript suck? 
+But officially, does JavaScript suck?
 
 #### Why JavaScript Sucks
 
@@ -25,22 +25,22 @@ But officially, does JavaScript suck?
 
 > Why would GWT be so well acclaimed if JavaScript was a good language. When you talk about GWT to someone (a developer preferably), the first reaction is often
 
-#### Why JavaScript Doesn&#8217;t Suck
+#### Why JavaScript Doesn't Suck
 
-Now the guys over at [Think Out Loud][3] has a different idea about JavaScript. They claim that it doesn&#8217;t suck:
+Now the guys over at [Think Out Loud][3] has a different idea about JavaScript. They claim that it doesn't suck:
 
->   1. Just because some vendors are building tools to generate javascript code doesn&#8217;t mean the language sucks. If the language really sucked these tools wouldn&#8217;t even exist. &#8230;
+>   1. Just because some vendors are building tools to generate javascript code doesn't mean the language sucks. If the language really sucked these tools wouldn't even exist. &#8230;
 >   2. If JavaScript was so horrible then you wouldnÃ¢â‚¬â„¢t find libraries like the Yahoo UI kit, Mochi, Dojo, Scriptaculous, Prototype, and the many others out there. &#8230;
 
 #### Final Thoughts
 
-When it comes to programming/scripting languages I&#8217;m an opportunist and sometimes a lemming :). The way I usually get involved with a new language is if the band wagon is already running through it. If everybody uses it there must be something that&#8217;s good about it right? The reverse of this is also true. That explains why I&#8217;m not off writing COBOL code with a fury right now. Secondly, I use whatever works in the given situation. JavaScript exists because it has its uses, simple as that. So does [PHP][4]. The problem lies in the coders not the language. Some people try to use JavaScript for things it was never intended to do and they start crying that it&#8217;s too slow and too buggy and filled with too many holes. Me, I use whatever works. If I need to write a simple script to run in a browser to do very simple things, why open up Eclipse and start coding an Applet?
+When it comes to programming/scripting languages I'm an opportunist and sometimes a lemming :). The way I usually get involved with a new language is if the band wagon is already running through it. If everybody uses it there must be something that's good about it right? The reverse of this is also true. That explains why I'm not off writing COBOL code with a fury right now. Secondly, I use whatever works in the given situation. JavaScript exists because it has its uses, simple as that. So does [PHP][4]. The problem lies in the coders not the language. Some people try to use JavaScript for things it was never intended to do and they start crying that it's too slow and too buggy and filled with too many holes. Me, I use whatever works. If I need to write a simple script to run in a browser to do very simple things, why open up Eclipse and start coding an Applet?
 
 Bottom line, use the tool for what it was designed for.
 
 #### P.S.
 
-I believe this is the last post of 2006. It&#8217;s been a fun year. I had many changes in my life and few for this blog. Some changes good, some changes bad. Oh well, life goes on. Enjoy 2007 people, I&#8217;m about to.
+I believe this is the last post of 2006. It's been a fun year. I had many changes in my life and few for this blog. Some changes good, some changes bad. Oh well, life goes on. Enjoy 2007 people, I'm about to.
 
 Jah Guidance.
 

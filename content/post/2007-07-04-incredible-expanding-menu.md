@@ -11,7 +11,7 @@ categories:
   - JavaScript
 
 ---
-Now there&#8217;s a lot of code involved and the menu created doesn&#8217;t really fit normal usability standards, but the [end result][1] is cool.
+Now there's a lot of code involved and the menu created doesn't really fit normal usability standards, but the [end result][1] is cool.
 
 Happy July 4th to all you guys.
 

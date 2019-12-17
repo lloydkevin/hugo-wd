@@ -22,20 +22,20 @@ When my development process matured a bit more, I needed to maintain sites and m
 
 ### Git Deployment
 
-Since Git had worked so well for me in the past, it was a matter of time before I got started with the [Git Workflow][4]. I&#8217;ll have to admit, for the site I got set up on this, it worked great. The reason this worked fine is that all the sites I managed and my Git repository were on the same server. I won&#8217;t got through the issues on installing [Git on a shared host][5]. When adding a new site to my workflow, I would have to do the following:
+Since Git had worked so well for me in the past, it was a matter of time before I got started with the [Git Workflow][4]. I'll have to admit, for the site I got set up on this, it worked great. The reason this worked fine is that all the sites I managed and my Git repository were on the same server. I won't got through the issues on installing [Git on a shared host][5]. When adding a new site to my workflow, I would have to do the following:
 
   * <span style="line-height: 13px;">Add the new Git repository to the server</span>
   * Modify the post-receive script
 
-Again, this worked great. Everything was integrated and I could deploy on the command line. I was really proud of myself. Then came one client that had their own server. Installing Git was simply not an option. Even if I did, I would have to jump through the hoops of SSH keys from their server to mine. It just didn&#8217;t work. I was back to the stone age of good old FTP.
+Again, this worked great. Everything was integrated and I could deploy on the command line. I was really proud of myself. Then came one client that had their own server. Installing Git was simply not an option. Even if I did, I would have to jump through the hoops of SSH keys from their server to mine. It just didn't work. I was back to the stone age of good old FTP.
 
 ### Enter Fabric
 
-I&#8217;ve had conversations with a friend of mine who is doing some [Django][6] development. He started out using [Fabric][7] for deployment. He showed me one of his deploy scripts and then I was absolutely sold.
+I've had conversations with a friend of mine who is doing some [Django][6] development. He started out using [Fabric][7] for deployment. He showed me one of his deploy scripts and then I was absolutely sold.
 
-Fabric essentially gives you an easy way to run commands on a remote host. I like it because it doesn&#8217;t require much on server the side. I am using their [rsync _plugin_][8] and that&#8217;s practically everywhere. Rsync handles my issues of only pushing things that have changed; something I got to like with Git.
+Fabric essentially gives you an easy way to run commands on a remote host. I like it because it doesn't require much on server the side. I am using their [rsync _plugin_][8] and that's practically everywhere. Rsync handles my issues of only pushing things that have changed; something I got to like with Git.
 
-So enough talk, here&#8217;s my fabfile.py script:
+So enough talk, here's my fabfile.py script:
 
 <pre class="brush: python; title: ; notranslate" title="">from __future__ import with_statement
 from fabric.api import *
@@ -55,16 +55,16 @@ def deploy():
 	rsync_project(remote_dir = dir, local_dir = local_dir, exclude = exclude_sync, delete = False)
 </pre>
 
-I run this by typing `fab deploy` on the command line. That&#8217;s it. A quick summary of my script:
+I run this by typing `fab deploy` on the command line. That's it. A quick summary of my script:
 
   * <span style="line-height: 13px;">You set up some configurations</span>
   * Set up your _command_
 
-As you can assume the _local_ command runs scripts locally. Here, I&#8217;m compiling my [SASS][9] scripts for deployment. Other minifying stuff could go here also and other clean up.
+As you can assume the _local_ command runs scripts locally. Here, I'm compiling my [SASS][9] scripts for deployment. Other minifying stuff could go here also and other clean up.
 
-The _rsync_project_ command is a wrapper for the rsync command that runs on the server. If you don&#8217;t need rsync, you can call the _run_ command to run stuff on the server.
+The _rsync_project_ command is a wrapper for the rsync command that runs on the server. If you don't need rsync, you can call the _run_ command to run stuff on the server.
 
-Fabric is very flexible that way. If you don&#8217;t like or need the rsync command, you can use Git if you like. You would use _local_ to run _git commit_, _git push_; then use _run_ to do a _git pull_ on the server. That way it&#8217;s very similar to the git workflow. The reason I prefer this is that everything is self contained in the fabfile. I&#8217;m not having to juggle multiple post-receive scripts everywhere.
+Fabric is very flexible that way. If you don't like or need the rsync command, you can use Git if you like. You would use _local_ to run _git commit_, _git push_; then use _run_ to do a _git pull_ on the server. That way it's very similar to the git workflow. The reason I prefer this is that everything is self contained in the fabfile. I'm not having to juggle multiple post-receive scripts everywhere.
 
 Hope the simplicity will help you guys.
 

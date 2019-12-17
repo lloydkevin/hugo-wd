@@ -16,15 +16,15 @@ The power of CakePHP has a lot to do with conventions. The framework (like many 
 
 ### Straying From Convention
 
-But sometimes, conventions suck. Sometimes you want greater control over things, but still don&#8217;t wanna do them from scratch. The strictness of the MVC structure dictates how your URLs will look. Consider this: CakePHP has a basic pages controller, which you can use when you don&#8217;t need a model or controller. You just enter the view and voilÃƒ , a page. But your pages have a URL of:
+But sometimes, conventions suck. Sometimes you want greater control over things, but still don't wanna do them from scratch. The strictness of the MVC structure dictates how your URLs will look. Consider this: CakePHP has a basic pages controller, which you can use when you don't need a model or controller. You just enter the view and voilÃƒ , a page. But your pages have a URL of:
 
 > _www.site.com/pages/page_
 
-Wouldn&#8217;t you rather:
+Wouldn't you rather:
 
 > _www.site.com/page.htm_
 
-The [Routes Configuration][1] examples in the CakePHP manual are a bit simple. Here&#8217;s how to use a bit more advanced routing:
+The [Routes Configuration][1] examples in the CakePHP manual are a bit simple. Here's how to use a bit more advanced routing:
 
 <pre class="brush: php; title: ; notranslate" title="">Router::connect('/(.*).htm', array('controller' =&gt; 'pages', 'action' =&gt; 'display'));</pre>
 
@@ -33,8 +33,8 @@ This says, consider everything that comes in with an HTM extension and send the 
 The idea was _stolen_ from [Lumad CMS][2]. They use the following in Rewrite in ._htaccess_ for their pages:
 
 `RewriteRule    ^~(.*) content_pages/displayurl/$1 [L]`
-  
-They use a prefix of &#8216;~&#8217; instead of a suffix of &#8216;.htm&#8217;, but you get the picture. I&#8217;m sorry to disappoint you, I&#8217;m not as creative as you thought.<!--more-->
+
+They use a prefix of &#8216;~' instead of a suffix of &#8216;.htm', but you get the picture. I'm sorry to disappoint you, I'm not as creative as you thought.<!--more-->
 
 ### How I Use Advanced Routing
 
@@ -42,7 +42,7 @@ I maintain a makeshift CMS using CakePHP. In this project I have a basic model (
 
 <pre class="brush: php; title: ; notranslate" title="">Router::connect('/(.*).htm', array('controller' =&gt; 'contents', 'action' =&gt; 'view'));</pre>
 
-Conventions are great as long as they don&#8217;t get in the way. The great thing about CakePHP is that they frequently provide ways to get what you need done easily.
+Conventions are great as long as they don't get in the way. The great thing about CakePHP is that they frequently provide ways to get what you need done easily.
 
 Make your _static_ content look like static pages with Advanced routing.
 
