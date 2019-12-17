@@ -29,8 +29,8 @@ But officially, does JavaScript suck?
 
 Now the guys over at [Think Out Loud][3] has a different idea about JavaScript. They claim that it doesn't suck:
 
->   1. Just because some vendors are building tools to generate javascript code doesn't mean the language sucks. If the language really sucked these tools wouldn't even exist. &#8230;
->   2. If JavaScript was so horrible then you wouldnÃ¢â‚¬â„¢t find libraries like the Yahoo UI kit, Mochi, Dojo, Scriptaculous, Prototype, and the many others out there. &#8230;
+>   1. Just because some vendors are building tools to generate javascript code doesn't mean the language sucks. If the language really sucked these tools wouldn't even exist. ...
+>   2. If JavaScript was so horrible then you wouldnÃ¢â‚¬â„¢t find libraries like the Yahoo UI kit, Mochi, Dojo, Scriptaculous, Prototype, and the many others out there. ...
 
 #### Final Thoughts
 

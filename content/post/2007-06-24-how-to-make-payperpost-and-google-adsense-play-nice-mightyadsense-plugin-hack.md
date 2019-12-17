@@ -45,7 +45,7 @@ Now, as you can tell, I'm a big fan of the whole automatic thing, but it does ta
     My posts are always in the category: Sponsored Posts.
   2. **Find the Category ID**
 
-    Go to the Manage menu in your WordPress administrator menu, click Categories, then find the ID in the, um&#8230;well, ID column.
+    Go to the Manage menu in your WordPress administrator menu, click Categories, then find the ID in the, um...well, ID column.
   3. **Administer the MightyAdsense** **Hack**
 
     Open up the MightyAdsense plugin in a text editor. We're looking in the area of line 373 (ver. 4.1. Yours might vary) for the following function:</p> <pre class="brush: php; title: ; notranslate" title="">function mightyadsense_generateads($content)</pre>

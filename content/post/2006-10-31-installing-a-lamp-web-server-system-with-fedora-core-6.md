@@ -21,7 +21,7 @@ They start out with downloading Fedora:
 > To install such a system you will need the following:
 >
 >   * Download the Fedora Core 6 DVD iso image or the 5 CD iso images from a mirror near you (the list of mirrors can be found here: <a target="_blank" href="http://fedora.redhat.com/download/mirrors.html">http://fedora.redhat.com/download/mirrors.html</a>), e.g. <a target="_blank" href="ftp://ftp.tu-chemnitz.de/pub/linux/fedora-core/6/i386/iso/FC-6-i386-DVD.iso">ftp://ftp.tu-chemnitz.de/pub/linux/fedora-core/6/i386/iso/FC-6-i386-DVD.iso</a>
->   * an internet connection&#8230;
+>   * an internet connection...
 
 Then the installation process complete with a LOT of screen shots and detailed instructions of even how to set up IP addresses, firewalls, hosts, etc.
 

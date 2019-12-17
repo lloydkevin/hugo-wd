@@ -19,7 +19,7 @@ I've never been
 
 Used starter themes before, never child themes.
 
-Genesis much like starter theme&#8230;html already laid out, CSS also (if wanted).
+Genesis much like starter theme...html already laid out, CSS also (if wanted).
 
 Uses hooks in actions and filters
 

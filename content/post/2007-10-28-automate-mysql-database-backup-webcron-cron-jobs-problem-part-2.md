@@ -49,7 +49,7 @@ One good this about this is that it seems to still be under maintenance, which i
 
 Although there is no option to only backup a specific database, you can also specify a comma delimited list of databases that you would like the script to ignore. There is also an option to store all backed up database on the server in a specified directory.
 
-### So&#8230;
+### So...
 
 Both of these are excellent tools for automating the database backup process. Do I really need to mention that both have email capabilities? They will send the compressed database to your email account if you so desire. These, coupled with the cron tools make backing up a MySQL database on a shared hosts a breeze. Try them both out and see what suits your taste better.
 

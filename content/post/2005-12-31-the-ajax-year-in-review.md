@@ -14,7 +14,7 @@ We've seen and heard a lot about Ajax in 2005. Here is the Ajax year of 2005 in 
 
 > [The AJAX Year In Review][1]
 
-> Ã¢â‚¬â€ The term (and world-wide attention) behind AJAX is not even a year old, but you can find a wide range of powerful tools either with newly added support for it or created just to support the AJAX way of life. In addition, many of the constaints and problems with AJAX have been resolved or greatly reduced. But keeping track of all these developments is very difficult, so Dion Hinchcliffe has compiled a summary here of the major advances in AJAX so far this year&#8230;.
+> Ã¢â‚¬â€ The term (and world-wide attention) behind AJAX is not even a year old, but you can find a wide range of powerful tools either with newly added support for it or created just to support the AJAX way of life. In addition, many of the constaints and problems with AJAX have been resolved or greatly reduced. But keeping track of all these developments is very difficult, so Dion Hinchcliffe has compiled a summary here of the major advances in AJAX so far this year....
 
 One of the things that stood out for me in this article was the section on:
 

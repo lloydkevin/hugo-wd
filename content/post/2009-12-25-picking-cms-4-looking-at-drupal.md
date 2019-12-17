@@ -100,7 +100,7 @@ I know that WordPress allows you to do the same thing, however the theme is stil
 
 I'm sure they had their reasons, but that just didn't go well with my workflow process.
 
-## And The Winner Is (Winners Are)&#8230;
+## And The Winner Is (Winners Are)...
 
 **WordPress and Drupal.**
 

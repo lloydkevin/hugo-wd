@@ -16,9 +16,9 @@ We all know that phpBB is prone to a number of security risks. People used to us
 
 Right now, Google has out right blocked the entire search. Take a [look][2]:
 
-> We're sorry&#8230;
+> We're sorry...
 >
-> &#8230; but we can't process your request right now. A computer virus or spyware application is sending us automated requests, and it appears that your computer or network has been infected.
+> ... but we can't process your request right now. A computer virus or spyware application is sending us automated requests, and it appears that your computer or network has been infected.
 >
 > We'll restore your access as quickly as possible, so try again soon. In the meantime, you might want to run a virus checker or spyware remover to make sure that your computer is free of viruses and other spurious software.
 >

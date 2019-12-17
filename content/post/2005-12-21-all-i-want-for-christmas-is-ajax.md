@@ -28,6 +28,6 @@ Now I've seen everything, holiday Ajax jingles:
 
 > Give me a torrent of flashy de.licio.us gifts that flickr brightly under MySQL clouds.
 
-> &#8230;.][1]
+> ....][1]
 
  [1]: http://tallskinnykiwi.typepad.com/tallskinnykiwi/2005/12/all_i_want_for_.html

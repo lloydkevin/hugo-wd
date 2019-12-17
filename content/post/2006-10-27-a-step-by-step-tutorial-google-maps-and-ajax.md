@@ -14,6 +14,6 @@ How long have you been waiting for this? A step by step tutorial on integrating 
 
 [John Ferguson Smarta][1] Writes:
 
-> &#8230;we will discuss how you can easily implement dynamic interactive maps on your Java web application, using the Google Maps API for the web interface, and Ajax to provide real-time interaction with the server. This article is designed to give you a rapid introduction to both Google Maps and Ajax, and to let you get your own interactive maps up and running quickly and easily.
+> ...we will discuss how you can easily implement dynamic interactive maps on your Java web application, using the Google Maps API for the web interface, and Ajax to provide real-time interaction with the server. This article is designed to give you a rapid introduction to both Google Maps and Ajax, and to let you get your own interactive maps up and running quickly and easily.
 
  [1]: http://today.java.net/pub/a/today/2006/10/25/integrating-google-maps-into-web-application.html

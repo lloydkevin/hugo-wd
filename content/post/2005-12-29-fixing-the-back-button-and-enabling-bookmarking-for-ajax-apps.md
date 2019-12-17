@@ -12,7 +12,7 @@ categories:
 ---
 It's been a long time in the making, but I've finally decided to release a link about this. I have been hunting around a couple places and looking at different solutions around, this is the only thing that seems to work for me. Check out this article: [Content with Style: Fixing the Back Button and Enabling Bookmarking for AJAX Apps][1]
 
-> Everyone's favourite [tag]AJAX[/tag] technology app is Google Maps. Google have done a stunning job&#8230; But when I came to try to bookmark a page and I had to hunt around for &#8216;link to this page' over on the right hand side. Why have they broken such a basic function of the web? I use bookmarks A LOT and the extra effort bothered me. I got over it though, and life went on.
+> Everyone's favourite [tag]AJAX[/tag] technology app is Google Maps. Google have done a stunning job... But when I came to try to bookmark a page and I had to hunt around for &#8216;link to this page' over on the right hand side. Why have they broken such a basic function of the web? I use bookmarks A LOT and the extra effort bothered me. I got over it though, and life went on.
 
 This solutions stems from solutions that Flash developers have been using for some time now. It simply allows the loading of session variables and other needed information in the address bar so that it can be bookmarked. I'm using the solution of placing information after the hash character (#) in the URL under the heading "**It's all too easy**" because my development environment is strictly going to be Firefox. This solution does not work in IE however. There is a solution that works for IE under the "**Now you're just being difficult**" heading but I haven't really looked at it.
 
