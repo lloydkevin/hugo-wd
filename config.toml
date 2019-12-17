@@ -4,10 +4,13 @@ title = "Web Development 2.0: Web Design, ASP.NET MVC, CakePHP, Javascript"
 theme = "mainroad"
 description = "Quick and Dirty Web Development for Web 2.0: ASP.NET MVC, CakePHP, JQuery, and lots more."
 
+[permalinks]
+  post = "/:title/"
+
 [markup.goldmark.renderer]
 unsafe= true
 
-# disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+disqusShortname = "webdevelopment2" # Enable Disqus comments by entering your Disqus shortname
 # googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 # [Author] # Used in authorbox
