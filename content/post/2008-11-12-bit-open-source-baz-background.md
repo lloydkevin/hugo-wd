@@ -26,7 +26,7 @@ Now this was my first step towards the open source community. I must admit, that
 
 After that, I got into web development. For this, there was a plethora of free tools available, for use. So I did that for a while. When I got back to college, I got into C++ (using Visual Studio, but still essentially free). That was a step in the right direction. However, as the semesters went on, we got more into using the .NET library. However, for my web development I never got into ASP.
 
-### The First Real Plunge into Open Source &#8211; Enter PHP
+### The First Real Plunge into Open Source - Enter PHP
 
 Bit by bit, web development gave way to web programming. This is where PHP came in. I got more familiar with PHP when I started working on different projects for clients. I chose PHP for a few main reasons:
 

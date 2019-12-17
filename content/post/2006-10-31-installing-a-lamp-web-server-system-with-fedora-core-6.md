@@ -12,7 +12,7 @@ categories:
   - PHP
 
 ---
-LAMP &#8211; Linux, Apache, MySQL, and PHP. These are the elements you will need to start a very robust and reliable web server from the ground up. [HowToForge][1] has a brilliant tutorial on how to start everything. Now take note, this is a VERY detailed [tutorial][1]. You can't really go wrong with this tutorial. We got step by step instructions, we go screen shots, we got it all.
+LAMP - Linux, Apache, MySQL, and PHP. These are the elements you will need to start a very robust and reliable web server from the ground up. [HowToForge][1] has a brilliant tutorial on how to start everything. Now take note, this is a VERY detailed [tutorial][1]. You can't really go wrong with this tutorial. We got step by step instructions, we go screen shots, we got it all.
 
 The Linux platform used is Fedora Core 6. Some may claim that other distributions are better, they are more user friendly, etc. etc. And they would be right, however, In my opinion, as a production environment, you can't beat Fedora Core 6. It is very stable and reliable and perfect for a stand alone web server. There are even instructions at the end to install a free web hosting control panel if you decide to resell hosting services.
 
@@ -29,7 +29,7 @@ Then we install the components, MySQL 5.0, Postfix With SMTP-AUTH And TLS, Maild
 
 Whoa. You still with me? OK. In between all these installations there are details on the best configuration most of these components if they are not configured properly out of the box.
 
-I ran through it (minus the Fedora Installation &#8211; which takes a while, trust me) and it took about an hour and a half.
+I ran through it (minus the Fedora Installation - which takes a while, trust me) and it took about an hour and a half.
 
 This tutorial is incredible. I've never seen anyone go into such detail, except of course when we look up these instructions as seperate entities. The tutorial is detailed and easy to follow.
 

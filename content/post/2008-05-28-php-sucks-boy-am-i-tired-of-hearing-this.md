@@ -19,7 +19,7 @@ You'll hear the same claims every single time: &#8220;Google [PHP Sucks][1] you'
 
   * &#8220;**There are too many functions**&#8220;
   * PHP Isn't OOP
-  * **Everything is strung together** &#8211; This claim usually talks about the interaction between PHP and/or SQL
+  * **Everything is strung together** - This claim usually talks about the interaction between PHP and/or SQL
 
 ### In Defense of PHP
 
@@ -32,13 +32,13 @@ The number one claim is that everything in PHP feels like it's _clunky_ and may 
 
 I, myself, have never really understood the &#8220;too many functions&#8221; argument. Maybe it does make the documentation a bit muggy to get through, but how many functions that are in there have very little to do with me. I don't care, I just use a handful of them.
 
-#### PHP is OPP &#8211; That's All There Is To It
+#### PHP is OPP - That's All There Is To It
 
 We need to make a distinction here: **PHP 5 _is_ Object Oriented**. The problem is a **lot** of PHP code that you can find out there **isn't**. PHP has this classic gift and a curse: it makes it **damn easy to get something _functional_ out the door in a hurry**.
 
 I mean, I'd love to see a bit more OOP, but that's an implementation issue. And the piles of arrays for data storage are a lil' bit of a pain, but again, that's an implementation issue.
 
-#### PHP Is Not A Framework &#8211; Get Over It
+#### PHP Is Not A Framework - Get Over It
 
 Now, I know what you're thinking: &#8220;Baz, you're a lazy bastard, that's isn't so hard to write&#8221;. And you're be totally right. But after the 25th time writing this or some simple variation of this, you can't help but feel that you're wasting your time. Now here's the kicker: This isn't a problem isolated to PHP. Most other programming languages (listen to me well: **Programming Languages**) suffer the same fate. You're going to see SQL strung out throughout code in any language, I don't see why people keep blaming PHP for this.
 

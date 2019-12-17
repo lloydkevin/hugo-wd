@@ -17,7 +17,7 @@ First of let me state that this post is very bias towards CakePHP. Truth be told
 
 These arguments are not based on hard facts, since I haven't done much research on the matter. A lot of them come from a post at [Clickable Bliss][1] discussing the [PHP vs. Ruby On Rails Issue][2].
 
-  1. ### Steep Learning Curve &#8211; Laziness
+  1. ### Steep Learning Curve - Laziness
 
     One thing I really hate is learning stuff. It is especially bothersome when you're trying to crank out a project or web application in a limited amount of time.
 
@@ -33,7 +33,7 @@ These arguments are not based on hard facts, since I haven't done much research 
 
     That may be true in general, but there was no way I was going to learn an entirely new language on the eve of project development. I've been meddling with PHP on and off for years now, so I feel more comfortable in the environment.</li>
 
-      * ### Setup and Deployment &#8211; More Laziness
+      * ### Setup and Deployment - More Laziness
 
         With CakePHP, I know I could boot up my PC download and install WAMP and be done with it. If I wasn't home and only had my USB Disk, XAMPP Lite would serve just as well. I dump the CakePHP code into a folder, tweak my config file and I'm good to go.
 
@@ -41,7 +41,7 @@ These arguments are not based on hard facts, since I haven't done much research 
 
         Deploying to customers is usually a breeze. Change the config file to point to a different database, maybe change some .htaccess files, then copy and paste. It doesn't get much simpler. With RoR, who knows what's involved?</li>
 
-          * ### Shared Host Support &#8211; I'm Just Cheap Like That
+          * ### Shared Host Support - I'm Just Cheap Like That
 
             This, by far, was my major turn off to Ruby On Rails. When it first hit the scene, **none of the hosts that I used supported RoR**. Back in the day, you would need a dedicated server to use RoR effectively.
 

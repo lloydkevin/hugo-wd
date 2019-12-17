@@ -17,16 +17,16 @@ phpBB Group announces the release of phpBB 2.0.19, the &#8220;we wish you all a 
 As with all new releases we urge you to update as soon as possible. You can of course find this download available on our [downloads page][1]. As per usual four packages are available to simplify your update.
 
   * **Full Package**
-  
+
     Contains entire phpBB2 source and English language package
   * **Changed Files Only**
-  
+
     Contains only those files changed from previous versions of phpBB. Please note this archive contains changed files for each previous release
   * **Patch Files**
-  
+
     Contains patch compatible patches from the previous versions of phpBB.
   * **Code Changes**
-  
+
     Contains step-by-step instructions in MOD format for updating heavily MODified installs
 
 <!--more-->
@@ -35,7 +35,7 @@ Select whichever package is most suitable for you.
 
 Please ensure you read the INSTALL and README documents in docs/ before proceeding with installation or updates!.
 
-It is important that you carry out both parts of the update &#8211; updating the files and running the database update script &#8211; for updates to be complete.
+It is important that you carry out both parts of the update - updating the files and running the database update script - for updates to be complete.
 
 What has changed in this release?
 
@@ -46,9 +46,9 @@ The changelog (contained within this release) is as follows:
   * [Fix] delete session keys entries when deleting user
   * [Fix] changes to support MySQL 5.0
   * [Fix] changes to some of the admin files to improve efficiency and remove a potential error condition when building the menu
-  * [Fix] change truncation of username length in usercp_register.php &#8211; BFUK
+  * [Fix] change truncation of username length in usercp_register.php - BFUK
   * [Fix] incorrect path to avatars in admin_users.php (Bug #667)
-  * [Fix] fixed get_userdata to support correct sql escaping (non-mysql dbs) &#8211; jarnaez
+  * [Fix] fixed get_userdata to support correct sql escaping (non-mysql dbs) - jarnaez
   * [Fix] fixed captcha for those not having the zlib extension enabled
   * [Change] Placed version information above who is online in admin panel for better visual presence
   * [Sec] fixed XSS issue (only valid for Internet Explorer) within the url bbcode

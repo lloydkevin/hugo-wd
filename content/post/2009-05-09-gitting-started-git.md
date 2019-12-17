@@ -31,7 +31,7 @@ I'm only (intimately) familiar with SVN. So you can read more on the differences
 
 Personally, Git is a great choice for my type of work. Sometimes, I just want to have Version Control in one directory for one project. I don't want to get messy with all the central repositories and servers and everything like that. Also, if you travel, you just slap that entire folder on a USB drive and take it to any other computer and continue working. If that computer has Git installed, you can perform your commits or you can wait to commit when you reach home.
 
-## Let's Get Started &#8211; Installation and Setup
+## Let's Get Started - Installation and Setup
 
 First off, let me apologize to the Linux users. I found one simple [git tutorial for Ubuntu][3]. Everything else pointed to building from source. I guess that's not that hard.
 

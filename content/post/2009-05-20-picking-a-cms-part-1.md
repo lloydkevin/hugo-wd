@@ -39,7 +39,7 @@ That question is usually preempted by a question to the client:
 
 I can count (on one hand) the number of times that I've heard a _yes_ to this question. To be quite honest, I don't even know why I ask it anymore. **Hardly any of my clients  ever had HTML experience** and even if they did, I doubt they'd want to go through the hassle. So this poses the very interesting question How do you pick a [CMS][5] (content management system) for a web project?
 
-## What Not To Do &#8211; Pure HTML is wrong for many reasons
+## What Not To Do - Pure HTML is wrong for many reasons
 
 <img class="size-full wp-image-267 alignnone" title="XHTML" src="/wp-content/uploads/xhtml.jpg" alt="XHTML" width="450" height="191" srcset="/wp-content/uploads/xhtml.jpg 450w, /wp-content/uploads/xhtml-300x127.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />Over the years, I've had much experience in this area (what not to do). Gone are the days when people simply wanted a _web presence_. Those days, things were simple. You fire up your copy of Frontpage (oh how we've learned from then) and designed a website for a client and stick it onto an FTP server, and viola; you're done. **Worst case scenario**, they call you up seven (7) months later and say they've **changed their phone number and need you to make an update**.
 
@@ -49,11 +49,11 @@ With that said, providing a **purely HTML solution is not user friendly and it c
 
 In the past I've guarded against this by using the PHP include strategy. The website would be primarily PHP with a folder called &#8220;content&#8221; sitting there with various HTML files. From there, I would pull any _dynamic content_ that would be needed for the site: Page titles, tag lines, content blocks, etc, using standard PHP includes. This way my **layout would stay (relatively) intact** and the user would have access to change what they were allowed to change. The problem with this method is that they **required some sort of HTML knowledge** to modify the content files. They also **required knowledge of FTP software** and servers. Not to mention, that adding a pages or sections still needed heavy interaction from myself. Needless to say, I've grown from then.
 
-## Joomla! &#8211; It looked like a good idea at first
+## Joomla! - It looked like a good idea at first
 
 <img class="size-medium wp-image-519 alignright" title="joomla" src="/wp-content/uploads/joomla-300x190.png" alt="joomla" width="300" height="190" srcset="/wp-content/uploads/joomla-300x190.png 300w, /wp-content/uploads/joomla.png 671w" sizes="(max-width: 300px) 100vw, 300px" />Early in my college days, I stumbled across [Mambo][7] and subsequently [Joomla!][8], it's current fork. It did so much for you, it had to be good, right? After installing Joomla for a client, I realized what the problem was. **It just did too much**. There were too many configurations, and simple things were just too hard. Also, last I remember, one of the main navigational structures was generated using and ugly and rigid table structure. Yes, I know it's been changed by now, but that was part of my initial frustration.
 
-It just felt too heavy for a normal website. No matter how much I restricted the user (by groups &#8211; editors as opposed to admins I think) I still **got complaints about how complicated the backend interface it was**. Added to that fact, the templates (and I stress) at that time were very cookie-cutter. It got to the point where I could eyeball a website built in Joomla.
+It just felt too heavy for a normal website. No matter how much I restricted the user (by groups - editors as opposed to admins I think) I still **got complaints about how complicated the backend interface it was**. Added to that fact, the templates (and I stress) at that time were very cookie-cutter. It got to the point where I could eyeball a website built in Joomla.
 
 Since then (over 3 years ago) I haven't given Joomla a second look. It's just one of those things that rubs you the wrong way once, and you never look back. Judging by the version numbers, I'm forced to assume that not much has changed. But that's just an ignorant assumption with no basis, so please don't hold it against me.
 

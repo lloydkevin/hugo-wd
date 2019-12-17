@@ -34,4 +34,4 @@ Simply modify the view to give:
 
 <pre class="brush: php; title: ; notranslate" title="">echo form-&gt;input(state_id, array('empty' =&gt; '--'));</pre>
 
-This will give you an entry up at the top that the user can select, which signifies _empty_ with the text &#8220;&#8211;&#8220;. Change the text to anything you like and you'll have the desired effect.
+This will give you an entry up at the top that the user can select, which signifies _empty_ with the text &#8220;-&#8220;. Change the text to anything you like and you'll have the desired effect.

@@ -26,11 +26,11 @@ Note that I'm running off of the CaekPHP 1.2 beta.
 Now you can modify this however you like, but I'm starting out with the basics. You're going to need the following:
 
   * A user database with fields _username_, _password_. Of course they don't _need_ to be named that way, but defaults are fun.
-  * A User Model with Controller and Views &#8211; This can be baked from CakePHP
+  * A User Model with Controller and Views - This can be baked from CakePHP
   * A login view for the user.
   * And a base app_controller.php. That's it.
 
-### The Setup &#8211; app\_controller and users\_controller
+### The Setup - app\_controller and users\_controller
 
 So here's the minimum in app_controller:
 
@@ -67,7 +67,7 @@ Honestly, it's magic; automagic to be precise. If you want to know how it works,
 
 #### $this->Auth->authorize = &#8216;controller'
 
-There are different types of authorization action (ugh &#8211; ACL stuff), CRUD (basically locks up all the editing stuff), and controller (gives you some need control). Hey, sorry I don't know too much of what it does, just what I need.
+There are different types of authorization action (ugh - ACL stuff), CRUD (basically locks up all the editing stuff), and controller (gives you some need control). Hey, sorry I don't know too much of what it does, just what I need.
 
 #### $this->Auth->loginAction = array(&#8216;controller' => &#8216;users', &#8216;action' => &#8216;login')
 

@@ -15,7 +15,7 @@ An interesting article from [John Carroll | ZDNet.com][1] explores the differenc
 
 Ajax is rapidly growing into something a lot of developers did not expect. Web designers can now design flashier web pages (minus the Flash). Other web designers are bridging the gap between desktop applications and web applications. Users have begun to take strong notice to this and are, in some cases, requesting such advances in web development.
 
-> From a user perspective, though, AJAX applications &#8211; such as Google Maps or Microsoft's Web Exchange client &#8211; are simply web applications that more closely approximate features normally associated with traditional, standalone desktop applications.
+> From a user perspective, though, AJAX applications - such as Google Maps or Microsoft's Web Exchange client - are simply web applications that more closely approximate features normally associated with traditional, standalone desktop applications.
 
 All this is all well and good. Ajax is a wonderful new technology, which we should all try to explore and exploit to its full capacity. BUT, that JavaScript portion of Ajax is causing some problems, as John notes:
 

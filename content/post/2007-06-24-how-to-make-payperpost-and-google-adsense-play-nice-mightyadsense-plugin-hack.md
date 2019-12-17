@@ -14,7 +14,7 @@ categories:
   - PHP
 
 ---
-#### MightyAdsense &#8211; Automatically Inject Ads
+#### MightyAdsense - Automatically Inject Ads
 
 The [MightyAdsense Plugin][1] has many useful options. You can store up to 10 different sets of ads for various locations on your blog. You can insert them into your template by calling one simple function instead of having to paste entire code snippets for the ads. Since all your code for the ads are stored in WordPress, it makes changing the format of an ad a breeze.
 
@@ -36,7 +36,7 @@ PayPerPost has recently modified their [Terms of Service][2]:
 
 Now this has seriously thrown a kink into my normal blogging activity. I guess I could change the tight of ad or change the placement of the ad. But over time I've come to realize that this in post block ad is the highest paying ad on my site. It makes sense, since the ad is directly related to the post it is in. MightyAdsense currently has no option to manually exclude certain posts from having ads. So it's all or nothing, Google Adsense or PayPerPost. Why can't we have the best of both worlds? Well now you can!
 
-#### Solution: MightyAdsense Hack &#8211; Automatically Exclude Certain Categories
+#### Solution: MightyAdsense Hack - Automatically Exclude Certain Categories
 
 Now, as you can tell, I'm a big fan of the whole automatic thing, but it does take a little bit homework.
 

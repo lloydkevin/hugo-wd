@@ -30,7 +30,7 @@ Welcome to the September 24, 2007 edition of web development 2.0.
 
 <!-- Carnival Submission -->
 
-**Danogo** presents [Forget Webcams and YouTube. How I Created My Own Music Video For Free Online in 1 Day.][9] posted at [Danogo.com &#8211; Discover. Inspiring . Media][10], saying, &#8220;Creating an original music video with social media mixing and user-generated content&#8221;
+**Danogo** presents [Forget Webcams and YouTube. How I Created My Own Music Video For Free Online in 1 Day.][9] posted at [Danogo.com - Discover. Inspiring . Media][10], saying, &#8220;Creating an original music video with social media mixing and user-generated content&#8221;
 
 <!-- Carnival Submission -->
 

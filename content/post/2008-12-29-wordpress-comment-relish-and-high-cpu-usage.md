@@ -26,7 +26,7 @@ So I did what all normal people do at first: I ignored it. Actually, I had a ver
 
 So after it happened the next day (a few times) I decided to do some investigation.
 
-### The Culprit &#8211; Comment Relish
+### The Culprit - Comment Relish
 
 HostMonster does a good job of providing some helpful information that you can use to figure out these issues. I went to the directory: _cpu\_exceeded\_logs_ and sure enough there was a file with today's (and yesterday's) date in there. I opened it up and so a ton of referrences to comments on a WordPress Blog:
 
@@ -47,7 +47,7 @@ A little bit of Googling showed me that in some circles, it's [not a very well l
 
 So there you have it, disable Comment Relish and all is well with the world again.
 
-### Best of Both Worlds &#8211; Proper Fix Instead of Disabling
+### Best of Both Worlds - Proper Fix Instead of Disabling
 
 Now partly because this was **a blog I was hosting for someone else** and partly because **I'm the type of person who's never satisfied unless they have the answer to everything**, I found a middle ground: Good server performance while still maintaining the functionality of the plugin.
 

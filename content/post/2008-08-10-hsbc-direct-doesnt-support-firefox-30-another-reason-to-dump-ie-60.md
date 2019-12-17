@@ -38,7 +38,7 @@ I was only trying to transfer money from one account to another, I didn't get it
 >
 > Windows:
 
-> Internet Explorer &#8211; versions 6.0 and 7.0
+> Internet Explorer - versions 6.0 and 7.0
 
 > Mozilla/FireFox ? version 1.5 and 2.0
 >

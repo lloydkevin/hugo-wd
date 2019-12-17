@@ -12,7 +12,7 @@ Courtesies of [TechJunction][1] I bring to you:
 
 [The Top Five Technologies You Need to Know About in Ã¢â‚¬Ëœ07][2]
 
->   1. Ruby on Rails &#8211; Faster, easier Web development
+>   1. Ruby on Rails - Faster, easier Web development
 >   2. NAND drives -Bye-bye, HDD?
 >   3. Ultra-Wideband -200x personal-area networking
 >   4. Hosted hardware -Supercomputing for the masses

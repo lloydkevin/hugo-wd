@@ -18,7 +18,7 @@ One of the nice things about CakePHP is that it includes ready to use CSS compre
 
 I've always wondered why no one has included something like this for Javascript, since that's usually the bigger culprit when we're talking about document size. I've tried using [Minify][1] in the past. However, it took a lot to get it working right. And I really hate hacking stuff just to work with CakePHP. That, coupled with the fact that I'm a lazy bastard, meant that I gave up the Minify train rather quickly.
 
-### Mark Story To The Rescue &#8211; JSMIN Javascript Helper
+### Mark Story To The Rescue - JSMIN Javascript Helper
 
 At the time, I hadn't heard about the [JSMIN library][2], which does pretty much the same thing the Minify does, but without the CSS. Luckily, Mr. Story had some vision after his Christmas festivities and cake up with a [JSMin Helper for CakePHP][3]. This helper works by Minifying the chosen Javascript. This involves stripping unnecessary characters (line breaks, comments, spaces, etc) from the .JS file.
 

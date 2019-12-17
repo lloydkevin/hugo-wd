@@ -15,7 +15,7 @@ In the last five (5) years another key phrase hit the Web Design scene and hit i
 
 Now SEO is an entire business by itself, sometimes completely separate from the design process, so it should not be taken lightly. But, a little is always better than none. So here are some basic tips that you can use to help your pages rank better for your desired keywords.
 
-### 1. Structure Is Everything &#8211; Titles, Headings, etc
+### 1. Structure Is Everything - Titles, Headings, etc
 
 As I said before, ye ole' _meta_ tags are less effective. As a matter of fact, some search engines completely ignore them. There are, however, tags that search engines do consider:
 
@@ -25,13 +25,13 @@ As I said before, ye ole' _meta_ tags are less effective. As a matter of fact, s
 
 And yes, they do go in the order (more or less). Words in the _title_ tag are given more weighting than those _heading_ tags, and so on. However, **all of these** have a greater weighting that plain text, so try to structure you content in a way that makes use of these tags effectively and sprinkle your keywords among these.
 
-### 2. After Tags Come Attributes &#8211; _Title_ for links and _Alt_ for images.
+### 2. After Tags Come Attributes - _Title_ for links and _Alt_ for images.
 
 This is an old, tried and true tip, but it works. There's no better way to slide in some keywords other than **_title_ in your links and _alt_ tags for your images**. Come on, give your links and images and proper description. Your readers _and_ the search engines will thank you.
 
 ### 3. Rearrange your Title Tag
 
-Many websites go with the basic formula of **_SITE NAME &#8211; PAGE TITLE_**. It highlights the name of your company or website, which is a good thing for some. If you're trying to emphasize and brand your company, this may be a wise idea. But if you're after traffic, then **I would suggest flipping this around**.
+Many websites go with the basic formula of **_SITE NAME - PAGE TITLE_**. It highlights the name of your company or website, which is a good thing for some. If you're trying to emphasize and brand your company, this may be a wise idea. But if you're after traffic, then **I would suggest flipping this around**.
 
 This has the benefit of putting your keywords to the front of the title. Since the title is the first thing the users see when they search in a search engine, they'll be more likely to click on it. The sad truth is, **no one cares what the name of your website or company is**, they only want to know whether you got what they want. Heck, they can always figure out your company name from your logo on your page **after** they've clicked on it.
 

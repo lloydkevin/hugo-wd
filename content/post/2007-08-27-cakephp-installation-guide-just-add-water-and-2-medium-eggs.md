@@ -20,7 +20,7 @@ As you guys know, I've recently discovered the marvels of rapid web development 
 
 After a [short analysis][2], I've picked [CakePHP][3] as my framework of choice. I've been struggling through it for a few months now, but it's by far better than the alternative of coding by hand (Yeah, I know I'm lazy). I've struggled through it so that you don't have to.
 
-### Downloading &#8211; Stable or Alpha Version
+### Downloading - Stable or Alpha Version
 
 Step one is [downloading CakePHP][4]. The first problem that you'll run into is that there are two (2) versions to pick from: **Stable 1.1 and Alpha 1.2**. When I first started out, I needed to use CakePHP for a project instantly, so I decided to with the stable version because the word _alpha_ scared me a little bit. I mean, it's not even beta yet.
 

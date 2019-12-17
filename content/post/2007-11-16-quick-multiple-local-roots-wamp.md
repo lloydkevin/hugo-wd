@@ -28,7 +28,7 @@ That's a perfectly fine idea, except that 95% of the time, when I deploy an appl
 
 If we keep everything to relative paths and stress using CakePHP's $html->url() function, then everything _should_ be fine. But sometimes I'm lazy and I want to do a quick href=/ and not have to try to figure out how many levels I've gone. Also, I want to confidence to upload my entire folder to the clients server and **only** have to change database configurations.
 
-### The Answer &#8211; Apache's Virtual Hosts
+### The Answer - Apache's Virtual Hosts
 
 It's so easy a caveman could do it. I wonder why it took me months, hmmph.
 

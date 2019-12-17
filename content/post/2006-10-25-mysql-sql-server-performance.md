@@ -23,7 +23,7 @@ Karl Write:
 >
 > 1. This is only for inserting 500 rows into a 3 column table
 
-> 2. InnoDB really seems screwed on Windows platforms running 5.x &#8211; Certainly don't have anything conclusive, but I'd watch out
+> 2. InnoDB really seems screwed on Windows platforms running 5.x - Certainly don't have anything conclusive, but I'd watch out
 
 > 3. For my very simple test, MySQL on Linux blew SQL Server 2005 on windows out of the water.
 

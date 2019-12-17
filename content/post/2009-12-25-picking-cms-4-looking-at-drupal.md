@@ -32,13 +32,13 @@ Now, I've been hearing a lot about [Drupal][5]. For years now. I tried it once a
 
 I must admit, it had a lot to do with president Obama winning the election. The [redesign][6] of [Whitehouse.gov][7] was an eye opener. So I thought, if it's good enough for the president, maybe I should give this thing a second look.
 
-## Drupal Pros &#8211; Reminds Me Of WordPress
+## Drupal Pros - Reminds Me Of WordPress
 
-  * **Popularity** &#8211; Again, like WordPress, a popular CMS is going to have an advantage over most newcomers because of support and community contributions.
-  * **Modules** &#8211; There are a lot of modules out there that will do most of what your mind can imagine out of the box.
-  * **Themes** &#8211; There's a pretty extensive library of [themes for Drupal][8] out there. What I haven't seen though, are third party companies that specialize in these (WordPress has [WooThemes][9], after all). Personally, I'm less interested in readymade themes and more interested in ease of theme development.
-  * **Theme Caching** &#8211; I've said it before, I like the way this works. The consolidation and compression of all the theme CSS and JS files is awesome. It's great that this works out of the box.
-  * **Multisites** &#8211; As the name says, this enables you to have tons of sites on the same server running off of the same code base. They can even share modules among themselves.
+  * **Popularity** - Again, like WordPress, a popular CMS is going to have an advantage over most newcomers because of support and community contributions.
+  * **Modules** - There are a lot of modules out there that will do most of what your mind can imagine out of the box.
+  * **Themes** - There's a pretty extensive library of [themes for Drupal][8] out there. What I haven't seen though, are third party companies that specialize in these (WordPress has [WooThemes][9], after all). Personally, I'm less interested in readymade themes and more interested in ease of theme development.
+  * **Theme Caching** - I've said it before, I like the way this works. The consolidation and compression of all the theme CSS and JS files is awesome. It's great that this works out of the box.
+  * **Multisites** - As the name says, this enables you to have tons of sites on the same server running off of the same code base. They can even share modules among themselves.
 
 ## Highly Customizable
 
@@ -66,7 +66,7 @@ The easiest starting point I've found is with two Theming Frameworks: [Basic][14
 
 The first concept that you need to understand with Drupal theming is that **everything's a node or a block**. There are just different types of nodes/blocks, based on content type (pages, post, etc), content name, and even module (CCK, Views, etc).
 
-Much the same way, WordPress templates overrides index.php -> page.php -> page-1.php, etc; Drupal has the same concept, except much better, lol. Say you need your _events_ styled differently from your _posts_; you would simply located your template file for the post (most likely node.tpl.php) copy it to the appropriate name (We'll assume events have been implemented using the Views module, so the name would be something like views-view&#8211;events.tpl.php). You then open up that file and go wild with whatever design you need in there.
+Much the same way, WordPress templates overrides index.php -> page.php -> page-1.php, etc; Drupal has the same concept, except much better, lol. Say you need your _events_ styled differently from your _posts_; you would simply located your template file for the post (most likely node.tpl.php) copy it to the appropriate name (We'll assume events have been implemented using the Views module, so the name would be something like views-view-events.tpl.php). You then open up that file and go wild with whatever design you need in there.
 
 Don't threat, there is a [Devel module][16] that helps you determine which names to use for your overrides simply by hovering over the element. If the file you're looking for doesn't exist in your theme, you simply go grab it out of the Drupal core files. **I really love the modularity of the theming process**. It feels cleaner that a lot of what I've seen in the past.
 

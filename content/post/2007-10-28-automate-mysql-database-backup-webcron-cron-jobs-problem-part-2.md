@@ -53,7 +53,7 @@ Although there is no option to only backup a specific database, you can also spe
 
 Both of these are excellent tools for automating the database backup process. Do I really need to mention that both have email capabilities? They will send the compressed database to your email account if you so desire. These, coupled with the cron tools make backing up a MySQL database on a shared hosts a breeze. Try them both out and see what suits your taste better.
 
-View Part 1 of this post: [Automate MySQL Database Backup With WebCron &#8211; No Cron Jobs? No Problem &#8211; Part 1][1]
+View Part 1 of this post: [Automate MySQL Database Backup With WebCron - No Cron Jobs? No Problem - Part 1][1]
 
  [1]: https://webdevelopment2.com/automate-database-backup-webcron-cron-jobs-problem/
  [2]: http://www.remote-cron.com/

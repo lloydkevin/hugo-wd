@@ -25,7 +25,7 @@ So I figured that my CSS and possibly JS files are still cached on my browser an
 
 So the obvious answer was that something was wrong with the automatic upgrade plugin. I spent the next 20 minutes installing manually (twice) just to get back to scare one. Maybe it was the host? Maybe it was my machine? Maybe my internet connection?
 
-### What Actually Happened &#8211; My Server Setup, That's What
+### What Actually Happened - My Server Setup, That's What
 
 Now I need to brief you a lil' bit on the _stuff_ I have set up on my server.
 

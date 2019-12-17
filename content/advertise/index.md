@@ -7,7 +7,7 @@ views:
   - 16
 
 ---
-### Statistics &#8211; Traffic, RSS, etc
+### Statistics - Traffic, RSS, etc
 
 Now it wouldn't be fair to charge you without having a look at what you're paying for now would it?
 
@@ -17,10 +17,10 @@ I get upwards of 9,000 visitors a month, with about 250 RSS visitors.[<img src="
 
 We provide ads on a monthly basis on this blog. We offer three ad solutions here at Web Development 2.0:
 
-  * [125 x 125 button links][2] &#8211; These are by far the best performers. Your ad will be one of the four (4) ads in the right sidebar.
-  * [Static Text Link][3] &#8211; You'll get a text link under the 125px button links.
-  * [Inline Link][3] &#8211; These are links placed inside of a post. These links will be of already existing text in the post.
-  * Feed Footer Link &#8211; Your ad will one of ten (10) rotating ads at the bottom of the posts in the RSS feeds.
+  * [125 x 125 button links][2] - These are by far the best performers. Your ad will be one of the four (4) ads in the right sidebar.
+  * [Static Text Link][3] - You'll get a text link under the 125px button links.
+  * [Inline Link][3] - These are links placed inside of a post. These links will be of already existing text in the post.
+  * Feed Footer Link - Your ad will one of ten (10) rotating ads at the bottom of the posts in the RSS feeds.
 
 ### Custom Solution
 

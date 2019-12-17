@@ -12,7 +12,7 @@ categories:
 ---
 For those of you just wiping the remnants of 2006 out of your eyes welcome to 2007. If it's January 1st and it's before daylight I hope you're just reading this before you go to bed or something, because if you aren't out with friends partying, I truly feel your pain. lol.
 
-To the rest of you stumbling upon this post at a reasonable hour I have a great way to start out 2007 with some AJAX. [The Register &#8211; RegDeveloper.co.uk][1] has a nice step by step tutorial on [Developing Web Applications with AJAX &#8211; Part 1][2]. The topics include:
+To the rest of you stumbling upon this post at a reasonable hour I have a great way to start out 2007 with some AJAX. [The Register - RegDeveloper.co.uk][1] has a nice step by step tutorial on [Developing Web Applications with AJAX - Part 1][2]. The topics include:
 
   1. Overview of XMLHttpRequest
   2. Installing Software

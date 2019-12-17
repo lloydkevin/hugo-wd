@@ -14,13 +14,13 @@ Tabs can not be repositioned by dragging and dropping, with no need for an exter
 
 There are tons of reviews on it and more detail about the changes. I've included a short list below.
 
-[PC World's Techlog &#8211; Arriving on Tuesday: Firefox's 1.5 Browser][1]
+[PC World's Techlog - Arriving on Tuesday: Firefox's 1.5 Browser][1]
 
 [MacNN | Mozilla posts final Firefox 1.5 release][2]
 
 [TECTONIC: Firefox 1.5 out now][3]
 
-[Process-eating Bug in Firefox 1.5 for Mac OS X &#8211; The Unofficial Apple Weblog (TUAW)][4]
+[Process-eating Bug in Firefox 1.5 for Mac OS X - The Unofficial Apple Weblog (TUAW)][4]
 
  [1]: http://blogs.pcworld.com/techlog/archives/001109.html
  [2]: http://www.macnn.com/articles/05/11/30/firefox.1.5.released/

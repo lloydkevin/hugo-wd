@@ -30,7 +30,7 @@ You're also on your own when it comes to controls and binding them to the databa
 
 The good thing though, is that the database is the same no matter what the language.
 
-### The Easy Button &#8211; Like Staples
+### The Easy Button - Like Staples
 
 Enter CakePHP.
 

@@ -27,7 +27,7 @@ With a Remember Me cookie, you hit the lil' checkbox and it stores a lil' cookie
 
 So, the simplest way to proceed is to list changes by file, so strap in your seat belts, here goes.
 
-### The Obvious, The Login Form &#8211; login.ctp
+### The Obvious, The Login Form - login.ctp
 
 Now of course you need to add the checkbox and a label for said checkbox. Simple enough:
 
@@ -40,7 +40,7 @@ echo $form-&gt;input('remember_me', array('label' =&gt; 'Remember Me', 'type' =&
 
 The top is my preference since it places the checkbox before the label. Just a personal choice.
 
-### Implementing the &#8220;Remember Me&#8221; Cookie &#8211; users_controller.php
+### Implementing the &#8220;Remember Me&#8221; Cookie - users_controller.php
 
 Here's where all the fun takes place. First off don't forget to **include the Cookie component in the $components array**. Now, remember that blank function login(), well this is where we dump all the magic:
 
@@ -87,7 +87,7 @@ One thing you should be aware of: With this implementation the **$cookie array n
 
 So that's writing the cookie. We use this cookie in the next if block.
 
-#### &#8220;Me Want Cookie&#8221; &#8211; Login The User from The Cookie
+#### &#8220;Me Want Cookie&#8221; - Login The User from The Cookie
 
 As I said before, Auth runs this login() function every time we try to access an authenticated page. If the user is NOT logged in ($this->Auth->user() is false), then we attempt to read the cookie from the user's browser. If the cookie was read successfully, we **force a login of that user using $this->Auth->login($cookie)**.
 
@@ -109,11 +109,11 @@ Now with the **second method**, all we login with is a user id. Whether or not t
 
 Of course, the point can be argued that even with the password hash, the user could (in theory) hack the cookie and replace all that hashed stuff with a plain text user ID and Auth will force a login anyway. We could do a bit of checking before we pass the $cookie variable to the login() function. We could ensure that it has a username and password portion, but all of this cookie hacking stuff is out of the scope of this tutorial and generally leads to the answer of no remember me cookies period. But regardless, CakePHP's cookie routine uses basic hash encryption, which is hashed with the application's SALT value, so cookie hacking in CakePHP is going to be a task, but nothing's impossible right?
 
-### No More Cookie &#8211; Don't Forget To Cleanup
+### No More Cookie - Don't Forget To Cleanup
 
 We need to ensure that cookies are cleaned up when the user logs out, so just add the line **$this->Cookie->del(&#8216;Auth.User'); to your logout()** function.
 
-### Last but Not Least &#8211; beforeFilter()
+### Last but Not Least - beforeFilter()
 
 Maybe this shouldn't have been left for last, but there is a method to my madness. So, we've just set up this awesome set of routines and we send cookies left and right and do auto logins and we feel great, but then it doesn't work and we wonder why.
 

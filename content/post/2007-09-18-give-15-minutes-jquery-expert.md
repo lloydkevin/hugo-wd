@@ -27,16 +27,16 @@ I've found jQuery great for the following reasons:
   * The helper function [ $() ] is a pleasure to use
   * Most importantly: it handles cross browser compatibility.
 
-### Here We Go &#8211; Tutorials Galore
+### Here We Go - Tutorials Galore
 
 Your first step will be to <span><a href="http://code.google.com/p/jqueryjs/downloads/detail?name=jquery-1.2.1.pack.js">Download</a> jQuery 1.2.1 and include it in the head of your web page. After this you need to start reading some tutorials. Don't worry, it's going to take 15 minutes tops for you to start writing usable code:</span>
 
-  * [Visual jQuery][2] &#8211; This is by far, my number one resource. It consolidates the API in a visual form, making easy to navigate.
-  * [15 Minutes of jQuery][3] &#8211; Great for beginners
-  * [jQuery for JavaScript programmers][4] &#8211; Interesting tips on how to debug.
-  * [Tutorials:How jQuery Works][5] &#8211; Another beginner tutorial
-  * [Tutorials:Getting Started with jQuery][6] &#8211; Getting Started (for beginners)
-  * [Tutorials:Live Examples of jQuery][7] &#8211; This is what worked for me. Sometimes you just have to see it in action.
+  * [Visual jQuery][2] - This is by far, my number one resource. It consolidates the API in a visual form, making easy to navigate.
+  * [15 Minutes of jQuery][3] - Great for beginners
+  * [jQuery for JavaScript programmers][4] - Interesting tips on how to debug.
+  * [Tutorials:How jQuery Works][5] - Another beginner tutorial
+  * [Tutorials:Getting Started with jQuery][6] - Getting Started (for beginners)
+  * [Tutorials:Live Examples of jQuery][7] - This is what worked for me. Sometimes you just have to see it in action.
 
 ### Why I Use jQuery
 

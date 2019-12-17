@@ -16,11 +16,11 @@ The irony is that PayPerPost uses (used) the Google Page Rank as a way to qualit
 
 > <span class="contenttext"><a href="http://tinyurl.com/2dmr9p">PayPerPost</a>Ã¢â‚¬â„¢s CEO, Ted Murphy, quickly came up with a solution Ã¢â‚¬â€ since PR is obsolete and no longer represents accurate data for both publishers and advertisers, they are going to develop their own trademark rank, called Ã¢â‚¬Å“RealRankÃ¢â‚¬Â, based on:</span>
 >
-> >   * 70% &#8211; visitors per day
+> >   * 70% - visitors per day
 > >
-> >   * 20% &#8211; amount of ACTIVE inbound links per day (outgoing clicks)
+> >   * 20% - amount of ACTIVE inbound links per day (outgoing clicks)
 > >
-> >   * 10% &#8211; pageviews per day
+> >   * 10% - pageviews per day
 >
 > Ã¢â‚¬Â¦and, PPPÃ¢â‚¬â„¢s team are about to give birth to this totally new ranking system at <a href="http://developer.payperpost.com/2007/11/midnight---10-m.html" target="_blank">midnight</a>.
 

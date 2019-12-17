@@ -92,7 +92,7 @@ A Halloween special edition of phpBB has been released today. The changelog incl
 >
 > [Sec] fixed potential to select images outside the specified path as avatars or smilies
 >
-> [Sec] fix globals de-registration code for PHP5 &#8211; (Stefan Esser/Matt Kavanagh)
+> [Sec] fix globals de-registration code for PHP5 - (Stefan Esser/Matt Kavanagh)
 >
 > [Sec] changed avatar gallery code sections to prevent possible injection points (AnthraX101)
 >

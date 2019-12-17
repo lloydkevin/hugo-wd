@@ -13,28 +13,28 @@ categories:
 Joomla! 1.0.4 [ _Sundial_ ] is out today. It covers a number of security issues:
 
 > Critical Level Threats
-> 
+>
 >   * Potentional XSS injection through GET and other variables
-  
->     &#8211; Affects all previous versions of Joomla! and Mambo 4.5.2.3
+
+>     - Affects all previous versions of Joomla! and Mambo 4.5.2.3
 >   * Hardened SEF against XSS injection
-  
->     &#8211; Affects all previous versions of Joomla! and Mambo 4.5.2.3
-> 
+
+>     - Affects all previous versions of Joomla! and Mambo 4.5.2.3
+>
 > Low Level Threats
-> 
+>
 >   * Potential SQL injection in Polls modules through the Itemid variable
-  
->     &#8211; Affects all previous versions of Joomla! and Mambo 4.5.2.x series
+
+>     - Affects all previous versions of Joomla! and Mambo 4.5.2.x series
 >   * Potential SQL injection in several methods in mosDBTable class
-  
->     &#8211; Affects all previous versions of Joomla! and Mambo 4.5.2.x series
+
+>     - Affects all previous versions of Joomla! and Mambo 4.5.2.x series
 >   * Potential misuse of Media component file management functions
-  
->     &#8211; Affects all previous versions of Joomla! and Mambo 4.5.2.x series
+
+>     - Affects all previous versions of Joomla! and Mambo 4.5.2.x series
 >   * Add search limit param (default of 50) to \`Search\` Mambots to prevent search flooding
-  
->     &#8211; Affects all previous versions of Joomla! and Mambo 4.5.2.x series
+
+>     - Affects all previous versions of Joomla! and Mambo 4.5.2.x series
 
 Since this is a security release, it is advised that you [upgrade][1] as soon as possible.
 

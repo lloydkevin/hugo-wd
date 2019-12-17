@@ -16,9 +16,9 @@ categories:
 
 With Firefox being my favorite browser, I can see what all the buzz is about. If this pace keeps up they'll beat the stats of [IE7 with about 3 million in 48 hours][2]. I guess they have it right, make a good browser and people will download. Just for histories sack let me remind you guys of how the stats have been in the past.
 
-  * Firefox 1.0 &#8211; 1 million downloads in 24 hours.
-  * Firefox 1.5 &#8211; 1.5 million downloads in 24 hours.
-  * Firefox 2.0 &#8211; 2 million downloads in 24 hours.
+  * Firefox 1.0 - 1 million downloads in 24 hours.
+  * Firefox 1.5 - 1.5 million downloads in 24 hours.
+  * Firefox 2.0 - 2 million downloads in 24 hours.
 
 Do I sense a trend here? Regardless Firefox has gotten out to a strong start.
 

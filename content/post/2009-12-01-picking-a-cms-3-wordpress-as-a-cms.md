@@ -25,10 +25,10 @@ _[**WordPress**][6] ****[**As A**][7] ****[**CMS**][7]_ has pretty much become a
 
 ## Why I Love WordPress
 
-  * **Popularity** &#8211; It's arguably the most popular blogging platform out there. Popularity means a huge community, active development and lots of community contribution (plugins and themes anyone?)
-  * **Posts and Pages** &#8211; WordPress does this extremely well. That's what it's made for.
-  * **Plugins** &#8211; There are thousands of plugins that extend this tool and makes life a breeze for a lot of us.
-  * **Themes** &#8211; Again, another benefit of popularity is that there are tons of themes out there to pick from and build upon. Every project doesn't have to start from a blank slate.
+  * **Popularity** - It's arguably the most popular blogging platform out there. Popularity means a huge community, active development and lots of community contribution (plugins and themes anyone?)
+  * **Posts and Pages** - WordPress does this extremely well. That's what it's made for.
+  * **Plugins** - There are thousands of plugins that extend this tool and makes life a breeze for a lot of us.
+  * **Themes** - Again, another benefit of popularity is that there are tons of themes out there to pick from and build upon. Every project doesn't have to start from a blank slate.
 
 WordPress is **excellent at what it does**. It's also good at some of the things it wasn't designed to do. You have a lot of things to work with in WordPress: Posts, pages, categories, tags, widgets, and even the [dreaded custom fields][8].
 

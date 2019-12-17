@@ -30,7 +30,7 @@ On the quest for the perfect CMS ([Picking a CMS Part 1][1]), I've decided to sw
 
 As you guys can see, I've had way too much on my hands to do a thorough job on the quest for the perfect [Content Management System][1]. But then something came to mind. Aren't we all busy? No matter how wondering or beautiful a CMS is; it's not use if all that beauty is buried so deep that people can't find it. If you have to dig more than three (3) pages down on a Google Search page, then it's not good enough.
 
-### Popularity &#8211; Just Like In High School
+### Popularity - Just Like In High School
 
 I know, I know, it isn't fair, but that's how life is. The **popular guys got the girls, they made the football team, and they drive better cars**. That's just how life is. If a CMS is popular enough, it's going to have certain things going for it.
 
@@ -46,7 +46,7 @@ I don't care what you say, no matter how cool a CMS is, it will never everything
 
 Also, plugins are an excellent way for other people to contribute to the community without having to hack the core or something.
 
-## New Playbook &#8211; 20 Minute Dry Run
+## New Playbook - 20 Minute Dry Run
 
 With all of this said, I have a new plan of attack. I'm going to right some of these CMSs off the list right off the bat. Again, I'm sorry to the new comers. It isn't fair, but that's just the way it is. New platforms run the risk of being underdeveloped and not very well documented or supported. That's not a risk I'm willing to take on a client's site.
 
@@ -70,9 +70,9 @@ These words are what keep me away from Joomla. I left Joomla at version 1.5 over
 
 I did bite the bullet and installed [Drupal][9]. I mean, if it's good enough for the [President of the United States][10], I should at least give it a try, don't you think? There are some things that I like so far:
 
-  * Admin Templates/Themes  &#8211; The backend is extremely flexible. You can change the look, and even the menus that are listed.  With a few modules, you can fine tune the permissions and give clients access to only what you want them to have. So, the argument of &#8220;too complicated for clients&#8221; can be countered.
-  * Template Caching &#8211; I'm not sure how it works, but I love it. Certain things in the template are cached. One of which being the CSS and JS files. You can even combine and minify these. I just love that.
-  * Multisites &#8211; You can set up a nice little web farm that all runs on the same Drupal core code. They can even share custom modules. I'm guessing it's something like [WordPress MU][11], but I've never tried this myself.
+  * Admin Templates/Themes  - The backend is extremely flexible. You can change the look, and even the menus that are listed.  With a few modules, you can fine tune the permissions and give clients access to only what you want them to have. So, the argument of &#8220;too complicated for clients&#8221; can be countered.
+  * Template Caching - I'm not sure how it works, but I love it. Certain things in the template are cached. One of which being the CSS and JS files. You can even combine and minify these. I just love that.
+  * Multisites - You can set up a nice little web farm that all runs on the same Drupal core code. They can even share custom modules. I'm guessing it's something like [WordPress MU][11], but I've never tried this myself.
 
 ### Onward and Upward
 

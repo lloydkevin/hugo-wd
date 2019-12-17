@@ -14,10 +14,10 @@ There is going to be an [Ajax Seminar][1] in New York in March 2006. Registratio
 
 Prices are as follows:
 
-  * Super Early Bird Holiday Special (Before December 31, 2005) &#8211; $695
-  * Early Bird (Before January 31, 2006) &#8211; $995
-  * Discounted Price (Before February 28, 2006) &#8211; $1,195
-  * Seminar Price (After February 28, 2006 and if any seat available) &#8211; $1,295
+  * Super Early Bird Holiday Special (Before December 31, 2005) - $695
+  * Early Bird (Before January 31, 2006) - $995
+  * Discounted Price (Before February 28, 2006) - $1,195
+  * Seminar Price (After February 28, 2006 and if any seat available) - $1,295
 
 Secure your seats now. Don't miss out on this opportunity.
 

@@ -14,13 +14,13 @@ But also, if you're like me, you're lazy and haven't gotten around to coding thi
 
 First of all, you can display anything in these blocks: HTML, JavaScript, even PHP. The ad blocks are controlled by certain contexts. It's a lil' bit like coding if you think about it. You still a bunch of _if statements_ together to determine whether or not your content is displayed. These include:
 
-  * Regular visitors &#8211; Which you can define by those who've viewed your content a certain number of times within a certain period (eg. twice in 10 days).
-  * Coming from search engine &#8211; Self explanatory I hope.
+  * Regular visitors - Which you can define by those who've viewed your content a certain number of times within a certain period (eg. twice in 10 days).
+  * Coming from search engine - Self explanatory I hope.
   * Posts older than a defined number of days
   * Logged in visitors
   * Between a particular date period
-  * If the ad was viewed a certain number of times &#8211; You could set and expiration duration
-  * And even custom PHP conditions &#8211; Here you can stick in WordPress functions such as _in_category()_;
+  * If the ad was viewed a certain number of times - You could set and expiration duration
+  * And even custom PHP conditions - Here you can stick in WordPress functions such as _in_category()_;
 
 [<img src="/wp-content/uploads/who-sees-ads.png" title="Who Sees Ads" alt="Who Sees Ads" class="imageframe imgalignleft" align="left" height="172" width="556" />][1]You can insert these contexts into your template with PHP calls or into your posts, with comments.
 
