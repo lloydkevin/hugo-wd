@@ -24,7 +24,7 @@ Now I don't have to tell you guys about all the [goodies that WordPress 2.5 brin
 
 There's just ONE thing that rubs me the wrong way.
 
-They've gone an given the admin theme a fixed width layout, designed for a 1024px monitor. Why, WordPress, why? This is really a pain, after I decided to get (not one, but) two 19&#8243; Wide Screen LCD monitors. Luckily, there's a [plugin][2] that puts things back into perspective.
+They've gone an given the admin theme a fixed width layout, designed for a 1024px monitor. Why, WordPress, why? This is really a pain, after I decided to get (not one, but) two 19" Wide Screen LCD monitors. Luckily, there's a [plugin][2] that puts things back into perspective.
 
  [1]: http://wordpress.org/development/2008/03/wordpress-25-brecker/
  [2]: http://wordpress.org/extend/plugins/remove-max-width/#post-4779
