@@ -29,7 +29,9 @@ As a general rule, it might be a good idea to disable any plugins that modify co
 
 I did have some issues importing the comments from WordPress it Disqus. The automatic import claimed to work, but I couldn't see the comments. I also tried manually importing comments; again, I didn't see anything.
 
-Buried deep in a _video_ on Disqus, they mentioned that imports might take up to 24 hours to complete. So I'll have to revisit this in a day or two.
+After much deliberation, I learned two things:
+1. You won't see the comments while debugging local. (It could be an aspect of my theme)
+2. Even when the site is deployed, the imported comments only show up in the domain name matches. I was deploying to the netlify.com doamin and they weren't showing up.
 
 ## Domain Changes
 This is somewhat unrelated, but I wanted to go ahead and get it done on WordPress before moving over to Hugo.
@@ -66,12 +68,24 @@ I noticed that some images on my posts weren't displaying correctly. When I look
 [markup.goldmark.renderer]
   unsafe= true
 ```
+## Summary and Future Steps
+So the end result is what you're seeing right now. It's blazing fast, of course, but then again a lot of _fluff_ has been ripped out. The dozens of WordPress plugins, etc.
+Now I have nothing bad to say about WordPress, but based on the stagnant nature of this blog, this was the time to test out this path.
 
-Now I had a slight issue with my permalinks. After doing the export, the posts were exported with a hardcoded URL or `slug` in WordPress terms. All the existing pages rendered well. However, when I created a new post, the generated URL was `site.com/posts/[filename-of-post]` instead of `site.com\[title]`. I had to tweak my permalinks a little bit. Now this is where it gets a bit fishy, due to my skipping a lot of Hugo docs, but this is what I ended up doing. I had to move all my posts from the `posts` to `post` folder. Also, I had to configure permalinks in my config file:
+I haven't even cracked the surface of functionlity in Hugo yet:
+- Custom template types
+- Data folder
+- Page resouces (resizing images and such)
+- Site assets (apparently I can generate CSS from SASS, minify, add finger prints to the JS and CSS assets)
 
-```toml
-[permalinks]
-  post = "/:title/"
-```
+My next step will be switching over my personal website.
 
-I'm sure someone can point me to what I did wrong, but that's what I ended up having to do.
+This workflow seems nice and simple enough for the tech savy website owners.
+I'd never dream of doing this for a customer site, unless it was 100% fully managed by me and the theme/template was simple and clean.
+
+I did try to convert another WordPress site over, but tring to keep the existing theme. That was a total nightmare. But more for WordPress reasons than Hugo reasons.
+The theme used a custom builder similar to [Divi](https://www.elegantthemes.com/gallery/divi/) or [Gutenberg](https://wordpress.org/gutenberg/).
+There were a lot of different plugins, home page sliders, etc. I got the basic theme in place, but the content of each page was so heavy with mark-up, it was almost impossile to make things work.
+If I was forced to, I would have had to create Hugo shortcodes to replicate what the builder generated. Needless to say I abandoned that.
+
+Well, here's to Hugo. So far so good.
