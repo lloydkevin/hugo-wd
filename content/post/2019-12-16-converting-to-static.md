@@ -5,6 +5,8 @@ date: "2019-12-16T14:37:02-06:00"
 thumbnail: ""
 categories:
   - "Blog"
+aliases:
+  - "converting-to-static"
 ---
 
 As you can see from the last post, this blog hasn't been updated in a while. For all intents and purposes, it's a static site.
