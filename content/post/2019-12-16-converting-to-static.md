@@ -5,6 +5,8 @@ date: "2019-12-16T14:37:02-06:00"
 thumbnail: ""
 categories:
   - "Blog"
+tags:
+  - "Static Site Generators"
 aliases:
   - "converting-to-static"
 ---
