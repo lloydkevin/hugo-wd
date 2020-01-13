@@ -4,7 +4,7 @@ author: Kevin Lloyd
 type: post
 date: 2013-05-02T03:46:16+00:00
 url: /deploy-wordpress-fabric/
-featured_image: /wp-content/uploads/sewing-machine.jpg
+thumbnail: /wp-content/uploads/sewing-machine.jpg
 categories:
   - General
 tags:
@@ -12,8 +12,6 @@ tags:
   - wordpress
 
 ---
-[<img class="size-medium wp-image-721 " src="/wp-content/uploads/sewing-machine-300x169.jpg" alt="by RevAllyson" width="300" height="169" srcset="/wp-content/uploads/sewing-machine-300x169.jpg 300w, /wp-content/uploads/sewing-machine-1024x577.jpg 1024w, /wp-content/uploads/sewing-machine.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />][1]
-
 After reading [this article][2], I started thinking more about my WordPress deployment process.
 
 Like everyone, I started out with FTP. I got the job done without a whole lot of fuss. When I finished developing a site, I simply uploaded the entire folder and I was done.

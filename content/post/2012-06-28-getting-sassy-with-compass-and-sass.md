@@ -4,18 +4,12 @@ author: Kevin Lloyd
 type: post
 date: 2012-06-28T12:05:28+00:00
 url: /getting-sassy-with-compass-and-sass/
-featured_image: /wp-content/uploads/css-letters.jpg
+thumbnail: /wp-content/uploads/css-letters.jpg
 categories:
   - CSS
 
 ---
-<div>
-  <div>
-    <div>
-      Well last night I finally took the plunge and now I don't know what it is I was waiting for all these years.
-    </div>
-  </div>
-</div>
+Well last night I finally took the plunge and now I don't know what it is I was waiting for all these years.
 
 [Sass][1] enables you to create CSS with much less effort than before. It brings CSS closer to the programming language that we all wish it was.
 

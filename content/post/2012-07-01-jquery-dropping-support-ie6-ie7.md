@@ -4,7 +4,7 @@ author: Kevin Lloyd
 type: post
 date: 2012-07-01T15:17:10+00:00
 url: /jquery-dropping-support-ie6-ie7/
-featured_image: /wp-content/uploads/web-browser1.jpg
+thumbnail: /wp-content/uploads/web-browser1.jpg
 categories:
   - JavaScript
 tags:
