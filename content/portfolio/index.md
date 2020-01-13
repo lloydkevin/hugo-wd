@@ -12,4 +12,4 @@ syntaxhighlighter_encoded:
 ---
 With all what I post on this blog, some of the stuff just has to rub off, right? Take a look at my [portfolio of recent work][1] and let me know what you think.
 
- [1]: http://kevinlloyd.net/portfolio/
+ [1]: https://www.kevinlloyd.net/#recent

@@ -18,7 +18,7 @@ I do like the fact that the templates are highly CSS based and the Google Sitema
 
 All in all, after about 30 minutes of playing around with it, I doesn't seem too bad. I'll continue playing with it though and try to keep this blog up.
 
-BTW, this will soon be moved to either http://www.klloyd.net or http://www.kevinlloyd.net/
+BTW, this will soon be moved to either http://www.klloyd.net or https://www.kevinlloyd.net/
 
 _Edit:_
 
