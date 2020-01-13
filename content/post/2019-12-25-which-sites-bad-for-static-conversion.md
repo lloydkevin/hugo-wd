@@ -37,7 +37,7 @@ So that made converting a blog relatively easy. I decided to try converting some
 ## Converting a WordPress Theme
 I found the theme building process much simpler with Hugo that I remember with WordPress.
 There were so many plugins that enqueued there own JS and CSS that it became difficult to follow what was going on.
-I ended up giving up on that and just focusing on the HTML output while viweing the page. This got me mainly what I wanted. I was able to extract Hugo partials for a header, footer, and body relatively easily. This process reminded me of how messy WordPress HTML output is, due to the amount of flexibility it gives you. So far, so good.
+I ended up giving up on that and just focusing on the HTML output while viewing the page. This got me mainly what I wanted. I was able to extract Hugo partials for a header, footer, and body relatively easily. This process reminded me of how messy WordPress HTML output is, due to the amount of flexibility it gives you. So far, so good.
 
 Things quickly fell apart when it came to content pages. The websites I tried to convert would fall under the category of _small business website_. The pages on these sites just didn't fall nicely into the Front Matter and Content schema as easily as something like _blog posts_ would.
 

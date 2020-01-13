@@ -20,7 +20,7 @@ A _dead_ blog is a perfect place for this.
 So here goes.
 
 ## Blog Changes
-Before I got started I needed to prep my WordPress blog. I had to disable the [Jetpack](https://jetpack.com/) plugin I was using. This is because I was using the image optimization there. What this did was pull local content from Jetpack's CDN, which was a great feature for Wordpress. The problem is, when I did the WordPress export, it still had those URLs linked to Jetpack instead of locally.
+Before I got started I needed to prep my WordPress blog. I had to disable the [Jetpack](https://jetpack.com/) plugin I was using. This is because I was using the image optimization there. What this did was pull local content from Jetpack's CDN, which was a great feature for WordPress. The problem is, when I did the WordPress export, it still had those URLs linked to Jetpack instead of locally.
 
 As a general rule, it might be a good idea to disable any plugins that modify content:
 - Caching
