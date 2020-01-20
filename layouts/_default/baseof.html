@@ -44,8 +44,8 @@
 		</div>
 		{{ partial "footer" . }}
 	</div>
-{{ $jsMenu := resources.Get "js/menu.js" | resources.Minify }}
-<script async defer src="{{ $jsMenu.Permalink }}"></script>
+{{ $jsMenu := resources.Get "js/menu.js" | minify }}
+<script async defer src="{{ $jsMenu.RelPermalink }}"></script>
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>
 {{- end }}
