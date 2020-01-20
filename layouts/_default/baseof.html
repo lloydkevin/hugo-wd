@@ -15,7 +15,7 @@
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{ end -}}
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
-	{{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
+	{{ $style := resources.Get "css/style.css" | resources.Minify | resources.ExecuteAsTemplate "css/style.css" . -}}
 	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 	{{ range .Site.Params.customCSS -}}
 	<link rel="stylesheet" href="{{ . | relURL }}">
@@ -43,7 +43,8 @@
 		</div>
 		{{ partial "footer" . }}
 	</div>
-<script async defer src="{{ "js/menu.js" | relURL }}"></script>
+{{ $jsMenu := resources.Get "js/menu.js" | resources.Minify }}
+<script async defer src="{{ $jsMenu.Permalink }}"></script>
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>
 {{- end }}
