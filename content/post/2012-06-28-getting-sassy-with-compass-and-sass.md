@@ -5,6 +5,7 @@ type: post
 date: 2012-06-28T12:05:28+00:00
 url: /getting-sassy-with-compass-and-sass/
 thumbnail: /wp-content/uploads/css-letters.jpg
+images: [/wp-content/uploads/css-letters.jpg]
 categories:
   - CSS
 

@@ -2,7 +2,9 @@
 title: "Migrating from WordPress To Hugo"
 description: ""
 date: "2019-12-16T14:37:02-06:00"
-thumbnail: ""
+thumbnail: "/posts/wp-hugo.png"
+images:
+ - /posts/wp-hugo.png
 categories:
   - "Blog"
 tags:
