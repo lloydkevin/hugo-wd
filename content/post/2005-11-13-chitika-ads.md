@@ -16,7 +16,7 @@ Here we go: You choose from various sizes of ads and you give it a list of keywo
 
 Daren over at [Problogger.net][2] says:
 
-> IÃ¢â‚¬â„¢ve been getting quite a few excited emails from readers who have signed up for the Chitika eMiniMalls that I reviewed last week. There has been a lot of positive feedback so far from those who IÃ¢â‚¬â„¢ve referred over to the program with some people earning some significant money from it so far (including Ã¢â‚¬ËœRachelÃ¢â‚¬Ëœ). There have also been a few (less) emails from bloggers who have failed to see them as effective.
+> I've been getting quite a few excited emails from readers who have signed up for the Chitika eMiniMalls that I reviewed last week. There has been a lot of positive feedback so far from those who I've referred over to the program with some people earning some significant money from it so far (including Rachel). There have also been a few (less) emails from bloggers who have failed to see them as effective.
 
 If you have a website/blog, don't miss out on this. Check out [Chitika ads][1].
 

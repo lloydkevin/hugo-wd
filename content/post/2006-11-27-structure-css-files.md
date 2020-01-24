@@ -15,9 +15,9 @@ categories:
 CSS code should be laid out and structure just like any other code we write. [Emil at Friendly Bit][1] has a detail article on how to [structure large CSS files][1]. He mentions five (5) main methodologies:
 
   1. Order your selectors like the HTML
-  2. Always use the Ã¢â‚¬Å“full pathÃ¢â‚¬Â to elements
+  2. Always use the “full path to elements
   3. Indent your code cleverly
   4. Each declaration on its own line
-  5. Ã¢â‚¬Â¦ in alphabetic order
+  5.  in alphabetic order
 
  [1]: http://friendlybit.com/css/how-to-structure-large-css-files/

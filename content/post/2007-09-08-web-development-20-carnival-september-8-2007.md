@@ -24,9 +24,9 @@ I am proud to present the first edition of **Carnival of Web Development 2.0**. 
   2. **sylv3rblade** presents [Stages of Software Development][3] posted at [Atma Xplorer][4], saying, "My take on the process of software development"
   3. **prakash** presents [A2Z Informative-Technology, Software, Internet, Tips, Ideas][5] posted at [A2Z Informative][6], saying, "Identifying the color code of an image on the screen is not an easy task. Usually it involves a multi step process and is time consuming. But this tool is able to find out HTML, RGB or HEX color of any pixel on the screen with just a single mouse click. This little tool is very useful for webmasters."
   4. **Thorsten Ott** presents [Sourcebench - freelancer sites reviews][7] posted at [Sourcebench - building a better web][8].
-  5. **Scott H** presents [15 Web Sites College Students CanÃ¢â‚¬â„¢t Live Without][9] posted at [College and Finance][10], saying, "Not specifically about design, but has a great list of web sites students love, including StumbleUpon which, in terms of developing a web site, can be quite useful."
+  5. **Scott H** presents [15 Web Sites College Students Can't Live Without][9] posted at [College and Finance][10], saying, "Not specifically about design, but has a great list of web sites students love, including StumbleUpon which, in terms of developing a web site, can be quite useful."
   6. **Raj Sheelvant** presents [Attention HR: Young workers demand Web 2.0][11] posted at [IT Strategy][12], saying, "Why Web 2.0 infrastructure in corporations important to attract young talent"
-  7. **aquariphile** presents [Choosing Between YUI CSS & Blueprint Ã‚Â» By Don Albrecht Ã‚Â» article Ã‚Â» Ajax Bestiary][13] posted at [Ajax Bestiary][14], saying, "With all the recent hype surrounding the Blueprint CSS framework, The powerful YUI framework has been lost in the noise. Both frameworks are powerful, but, which framework is right for your project?"
+  7. **aquariphile** presents [Choosing Between YUI CSS & Blueprint By Don Albrecht‚ article Ajax Bestiary][13] posted at [Ajax Bestiary][14], saying, "With all the recent hype surrounding the Blueprint CSS framework, The powerful YUI framework has been lost in the noise. Both frameworks are powerful, but, which framework is right for your project?"
   8. **edithyeung** presents [Want More Traffic? Find Out Here?][15] posted at [Edith Yeung.Com: Dream. Think. Act.][16].
   9. **Amanda Harris** presents [Creating A Website For Your Charity][17] posted at [iBakeSale Blog][18].
 
@@ -56,7 +56,7 @@ I am proud to present the first edition of **Carnival of Web Development 2.0**. 
 
 <!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of
 
-**Web Development 2.0** using our <a href="http://blogcarnival.com/bc/submit_2377.html" target="_blank" title="Submit an entry to Ã¢â‚¬Å“web development 2.0Ã¢â‚¬Â">carnival submission form</a>. Past posts and future hosts can be found on our  <a href="http://blogcarnival.com/bc/cprof_2377.html" target="_blank" title="Blog Carnival index for Ã¢â‚¬Å“web development 2.0Ã¢â‚¬Â">blog carnival index page</a>.
+**Web Development 2.0** using our <a href="http://blogcarnival.com/bc/submit_2377.html" target="_blank" title="Submit an entry to “web development 2.0">carnival submission form</a>. Past posts and future hosts can be found on our  <a href="http://blogcarnival.com/bc/cprof_2377.html" target="_blank" title="Blog Carnival index for “web development 2.0">blog carnival index page</a>.
 
 <small>Technorati tags: <!-- add your technorati tags here! -->
 

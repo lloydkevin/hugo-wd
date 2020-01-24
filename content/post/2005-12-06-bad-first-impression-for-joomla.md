@@ -14,7 +14,7 @@ A new Joomla user over at [Soho Cascade][1] seems to be having a bad first impre
 
 Basically, he's been having some problems with the templates:
 
-> I sent an email to this company wondering what the problem might be and asking for a refund of my $50 subscription if the template required a lot of configuration, which I canÃ¢â‚¬â„¢t do yet. In return I got a rude little email detailing the points of their terms and conditions.
+> I sent an email to this company wondering what the problem might be and asking for a refund of my $50 subscription if the template required a lot of configuration, which I can't do yet. In return I got a rude little email detailing the points of their terms and conditions.
 
 I hate to hear these sorts of horror stories. It really does pain me, because Joomla is an incredible CMS with a wealth of power at your finger tips. Just as long as you follow a few basic rules, you'll be fine. I'm not saying that Joomla does not have a significant learning curve; it does. But once you're over that hump, it's all down hill from there.
 

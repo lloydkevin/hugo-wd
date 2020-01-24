@@ -10,7 +10,7 @@ categories:
 ---
 Courtesies of [TechJunction][1] I bring to you:
 
-[The Top Five Technologies You Need to Know About in Ã¢â‚¬Ëœ07][2]
+[The Top Five Technologies You Need to Know About in][2]
 
 >   1. Ruby on Rails - Faster, easier Web development
 >   2. NAND drives -Bye-bye, HDD?

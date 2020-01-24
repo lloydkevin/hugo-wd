@@ -17,4 +17,4 @@ I remember when I first started with this them, I went through the whole cross b
 
 Or I may just find a new theme. But in the mean while, I'll continue hating IE. Why doesn't stuff just work as it's supposed to?
 
-Ã‚ I realized this problem at the worst possible time, Monday morning at 1:41AM, so who knows when I'll get to it.
+I realized this problem at the worst possible time, Monday morning at 1:41AM, so who knows when I'll get to it.

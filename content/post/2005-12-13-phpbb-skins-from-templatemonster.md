@@ -14,7 +14,7 @@ Guess who's doing phpBB templates now. Yep, our friends over at [TemplateMonster
 
 From [Web Hosting News][2]:
 
-> Ã¢â‚¬Å“We are always glad to support Open Source projects, especially those of them which are of great popularity thus adding additional value to them??? says Gary Nichols, head of marketing at template Monster. Ã¢â‚¬Å“We already have templates for the Open Source projects like PHP-Nuke and osCommerce. Now we enlarge our product database with skins for phpBB. We believe that not only our customers will benefit from this but the project itself.???
+> “We are always glad to support Open Source projects, especially those of them which are of great popularity thus adding additional value to them??? says Gary Nichols, head of marketing at template Monster. “We already have templates for the Open Source projects like PHP-Nuke and osCommerce. Now we enlarge our product database with skins for phpBB. We believe that not only our customers will benefit from this but the project itself.???
 
 They only have four templates right now, ranging from $45 to $49, but they are planning to expand.
 

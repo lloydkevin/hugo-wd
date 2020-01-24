@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - yes
 sharing_disabled:
   - 1
-
+draft: true
 ---
 Don't hesitate to drop me a line.
 

@@ -5,6 +5,7 @@ type: page
 date: 2007-06-05T00:51:30+00:00
 views:
   - 16
+draft: true
 
 ---
 ### Statistics - Traffic, RSS, etc
@@ -28,6 +29,6 @@ Contact me personally if you have some request that doesn't fit into this range.
 
 <!--contact form-->
 
- [1]: /wp-content/uploads/analytics.gif
- [2]: /wp-content/plugins/oiopub-direct/purchase.php?do=banner&zone=1
- [3]: /wp-content/plugins/oiopub-direct/purchase.php?do=link
+[1]: /wp-content/uploads/analytics.gif
+[2]: /wp-content/plugins/oiopub-direct/purchase.php?do=banner&zone=1
+[3]: /wp-content/plugins/oiopub-direct/purchase.php?do=link

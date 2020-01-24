@@ -16,7 +16,7 @@ The power of CakePHP has a lot to do with conventions. The framework (like many 
 
 ### Straying From Convention
 
-But sometimes, conventions suck. Sometimes you want greater control over things, but still don't wanna do them from scratch. The strictness of the MVC structure dictates how your URLs will look. Consider this: CakePHP has a basic pages controller, which you can use when you don't need a model or controller. You just enter the view and voilÃƒ , a page. But your pages have a URL of:
+But sometimes, conventions suck. Sometimes you want greater control over things, but still don't wanna do them from scratch. The strictness of the MVC structure dictates how your URLs will look. Consider this: CakePHP has a basic pages controller, which you can use when you don't need a model or controller. You just enter the view and voila , a page. But your pages have a URL of:
 
 > _www.site.com/pages/page_
 

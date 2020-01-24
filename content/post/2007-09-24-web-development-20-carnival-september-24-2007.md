@@ -38,7 +38,7 @@ Welcome to the September 24, 2007 edition of web development 2.0.
 
 <!-- EDIT THIS: the conclusion begins with this paragraph: -->That concludes this edition. Submit your blog article to the next edition of
 
-**web development 2.0** using our <a href="http://blogcarnival.com/bc/submit_2377.html" target="_blank" title="Submit an entry to Ã¢â‚¬Å“web development 2.0Ã¢â‚¬Â">carnival submission form</a>. Past posts and future hosts can be found on our  <a href="http://blogcarnival.com/bc/cprof_2377.html" target="_blank" title="Blog Carnival index for Ã¢â‚¬Å“web development 2.0Ã¢â‚¬Â">blog carnival index page</a>.
+**web development 2.0** using our <a href="http://blogcarnival.com/bc/submit_2377.html" target="_blank" title="Submit an entry to “web development 2.0">carnival submission form</a>. Past posts and future hosts can be found on our  <a href="http://blogcarnival.com/bc/cprof_2377.html" target="_blank" title="Blog Carnival index for “web development 2.0">blog carnival index page</a>.
 
 Technorati tags: <!-- add your technorati tags here! -->
 

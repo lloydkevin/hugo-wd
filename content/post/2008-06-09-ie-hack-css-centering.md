@@ -18,7 +18,7 @@ So here's another common [Internet Explorer CSS hack][1] that's pretty popular a
 
 ie-css-min-height-hack
 
-This is how normal people horizontally center block elements using CSS: **You slap on a width** (I mean, that should be obvious enough right?). Then you **set the left and right _margins_ to auto**, and VoilÃ , centered!
+This is how normal people horizontally center block elements using CSS: **You slap on a width** (I mean, that should be obvious enough right?). Then you **set the left and right _margins_ to auto**, and Voil , centered!
 
 <pre class="brush: css; title: ; notranslate" title="">body #box {
 	margin: 0 auto;

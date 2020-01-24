@@ -12,7 +12,7 @@ categories:
 ---
 > [What Is Ajax?][1]
 
-> Ã¢â‚¬â€ It's become very popular lately, even though it's not exactly new. It's been possible to use the concept behind AJAX since browsers introduced the XMLHttpRequest function in 1999. Enjoy Rob Gonda's highly popular ColdFusion Developer's Journal article on AJAX, the hottest software development of 2005, with plenty more heat promised for 2006.
+> It's become very popular lately, even though it's not exactly new. It's been possible to use the concept behind AJAX since browsers introduced the XMLHttpRequest function in 1999. Enjoy Rob Gonda's highly popular ColdFusion Developer's Journal article on AJAX, the hottest software development of 2005, with plenty more heat promised for 2006.
 
 I know there are many out there, but this one comes from the guys over at [Ajax.sys-con.com][2], which is the new Ajax Website that has just been unveiled.
 

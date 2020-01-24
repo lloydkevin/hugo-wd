@@ -16,8 +16,8 @@ Today is one of the happiest days of my life. I finally got my new computer. Her
   * [256M Radeon X1300PRO GDDR2 PCI Express x16 Video Card][1]
   *  								 								 										[KWORLD PCI Interface TV Tuner Card][1]
   * [1 GB DDR2 800 (PC2 6400) Dual Channel Memory][1]
-  * [LITE-ON 18X DVDÃ‚Â±R DVD Burner][1]
-  * [HannsÃ‚Â·G Black 19? 5ms Widescreen LCD Monitor][1]
+  * [LITE-ON 18X DVD/DVD Burner][1]
+  * [Hanns G Black 19? 5ms Widescreen LCD Monitor][1]
   * [250 GB SATA Hard Drive + Plus one of my old 120 GB IDE Hard Drives][1]
   * [Some cheap Creative Labs Speakers (In a noise free apartment complex)][1]
 

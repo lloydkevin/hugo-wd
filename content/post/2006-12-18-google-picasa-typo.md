@@ -16,7 +16,7 @@ I'm sorry to Google, but I just thought this was so hilarious. It's just a lil' 
 
 <img src="/wp-content/uploads/picasa_typo.png" alt="Google Picasa Typo" title="Google Picasa Typo" border="0" height="248" width="470" />
 
-Update:Ã‚ Of course this has been corrected by now folks.
+Update: Of course this has been corrected by now folks.
 
  [1]: http://www.picasa.com
  [2]: http://picasaweb.google.com/

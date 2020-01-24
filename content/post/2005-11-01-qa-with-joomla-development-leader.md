@@ -12,7 +12,7 @@ categories:
 ---
 > [LinuxWorld Q&A with Lead Developer of Joomla!, Andrew Eddie][1]
 
-> Ã¢â‚¬â€ In September, core developers of Mambo, the popular open source content management system, announced a fork of the project, called Joomla!, with virtually all active participants following the fork.
+> In September, core developers of Mambo, the popular open source content management system, announced a fork of the project, called Joomla!, with virtually all active participants following the fork.
 
 This is an interesting article. If any of you were wondering about the Mambo-Joomla split, here you go. One thing I forgot to mention is that Mambo is still in existence. I believe it is at the same version where it left off before the split. For me, it seems that Joomla is the way to go. Joomla is being developed by the same development team. And what makes the decision even easier is that most 3rd party developers have started making their Mambots, Modules and Components specific to Joomla.
 
