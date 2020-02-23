@@ -4,7 +4,7 @@ description: ""
 date: "2019-12-18T21:54:37-06:00"
 thumbnail: ""
 categories:
-  - ""
+  - "asp"
 tags:
   - "asp.net"
   - ".net core"
