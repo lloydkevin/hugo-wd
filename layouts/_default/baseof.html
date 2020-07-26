@@ -26,6 +26,9 @@
 		{{ template "_internal/google_analytics_async.html" . }}
 	{{- end }}
 	<script data-ad-client="ca-pub-7463766890758365" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	{{ if .IsHome }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  	{{ end }}
 </head>
 <body class="body">
 	<div class="container container--outer">
