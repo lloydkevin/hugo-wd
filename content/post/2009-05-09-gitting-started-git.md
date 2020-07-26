@@ -4,6 +4,8 @@ author: Kevin Lloyd
 type: post
 date: 2009-05-09T09:12:27+00:00
 url: /gitting-started-git/
+images:
+  - wp-content/uploads/git-trunk.jpg
 aktt_notify_twitter:
   - yes
 syntaxhighlighter_encoded:
@@ -19,8 +21,6 @@ tags:
   - tutorial
 
 ---
-<img src="/wp-content/uploads/git-trunk.jpg" alt="Git Trunk" title="git-trunk" width="400" height="332" class="size-full wp-image-481" srcset="/wp-content/uploads/git-trunk.jpg 400w, /wp-content/uploads/git-trunk-300x249.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
-
 I'm sure you guys have heard about [Git][1]. It's been making a lot of waves lately. It seems that I'm always the last to jump on the bandwagon when it comes to things like that, but I'm finally here.
 
 ## Introduction
