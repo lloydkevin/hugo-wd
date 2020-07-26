@@ -23,7 +23,7 @@ categories:
 
 I made some promises in [Part 1][1] that I was reminded about in [Part 2][2] (Thanks [Ian][5]). I didn't give WordPress enough attention. So, here I go.
 
-_[**WordPress**][6] ****[**As A**][7] ****[**CMS**][7]_ has pretty much become a household phrase these days. So, let's just right in.
+_[**WordPress**][6] [**As A**][7] [**CMS**][7]_ has pretty much become a household phrase these days. So, let's just right in.
 
 ## Why I Love WordPress
 
@@ -60,15 +60,15 @@ I've played with a couple permission and role plugins, but none seemed to do wha
 
 So all you WordPress Wizards, is there anything I missed?
 
- [1]: https://webdevelopment2.com/picking-a-cms-part-1/
- [2]: https://webdevelopment2.com/picking-a-cms-2-new-standards/
- [3]: https://webdevelopment2.com/picking-a-cms-3-wordpress-as-a-cms/
- [4]: /picking-cms-4-looking-at-drupal
- [5]: https://webdevelopment2.com/picking-a-cms-2-new-standards/#comment-28065
- [6]: http://www.noupe.com/wordpress/powerful-cms-using-wordpress.html
- [7]: http://www.idesignstudios.com/blog/web-design/wordpress-as-cms/
- [8]: http://codex.wordpress.org/Custom_Fields
- [9]: http://flutter.freshout.us/
- [10]: http://pods.uproot.us/
- [11]: http://magicfields.org/
- [12]: http://wefunction.com/2009/10/revisited-creating-custom-write-panels-in-wordpress/
+[1]: https://webdevelopment2.com/picking-a-cms-part-1/
+[2]: https://webdevelopment2.com/picking-a-cms-2-new-standards/
+[3]: https://webdevelopment2.com/picking-a-cms-3-wordpress-as-a-cms/
+[4]: /picking-cms-4-looking-at-drupal
+[5]: https://webdevelopment2.com/picking-a-cms-2-new-standards/#comment-28065
+[6]: http://www.noupe.com/wordpress/powerful-cms-using-wordpress.html
+[7]: http://www.idesignstudios.com/blog/web-design/wordpress-as-cms/
+[8]: http://codex.wordpress.org/Custom_Fields
+[9]: http://flutter.freshout.us/
+[10]: http://pods.uproot.us/
+[11]: http://magicfields.org/
+[12]: http://wefunction.com/2009/10/revisited-creating-custom-write-panels-in-wordpress/
