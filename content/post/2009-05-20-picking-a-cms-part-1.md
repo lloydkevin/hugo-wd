@@ -4,6 +4,8 @@ author: Kevin Lloyd
 type: post
 date: 2009-05-20T15:09:28+00:00
 url: /picking-a-cms-part-1/
+images: [images/posts/picking-a-cms.jpg]
+thumbnail: images/posts/picking-a-cms.jpg
 aktt_notify_twitter:
   - yes
 syntaxhighlighter_encoded:
