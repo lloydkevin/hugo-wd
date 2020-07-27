@@ -1,5 +1,5 @@
 ---
-title: "Which Sites Bad for Static Conversion"
+title: "Which Sites Are Bad for Static Conversion"
 description: "Not every site is suitable for static site generators (SSG)."
 date: "2019-12-25T23:31:50-06:00"
 # thumbnail: "/images/posts/code.jpg"
