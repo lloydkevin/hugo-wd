@@ -2,8 +2,8 @@
 title: "Zero Tests to TDD - What I've Learned"
 description: "A Journey from zero tests to on the way to Test Driven Development and what I've learned along the way."
 date: "2020-07-25T21:57:21-05:00"
-thumbnail: images/posts/zero-test-tdd.png
-images: [images/posts/zero-test-tdd.png]
+thumbnail: images/posts/zero-test-tdd.jpg
+images: [images/posts/zero-test-tdd.jpg]
 categories: [Blog]
 tags: [Testing, TDD, Entity Framework]
 ---
@@ -33,12 +33,12 @@ In the line of business application, there was seldom nice, isolated logic that 
 ```csharp
 public OrderViewDTO GetOrder(long id)
 {
-    var order = ... 
-    /*look up and order from the database or repository. 
+    var order = ...
+    /*look up and order from the database or repository.
     There would be some sort of query using SQL or an ORM if I'm lucky
     Possibly some access control.*/
-   
-   var otherstuff = .. 
+
+   var otherstuff = ..
    /* Pull supplementary information needed to be displayed.
    Some summary info, customer details, etc.*/
    return BuildOrderView(order, otherstuff);
@@ -54,16 +54,16 @@ public void InvoiceCustomer(InvoiceRequest request)
 {
     // fetch some data
     var customer = GetCustomer(request.customerId);
-    
+
     // perform some scattered validation
     if (HasOpenInvoice(request))
         throw new InvalidOperationException("Can only have one open invoice");
     if (!CustomerHasTheFunds(request)) // contacts a payment gateway just for fun.
         throw new InvalidOperationException("Insufficient funds");
-    
-    // large private untestable methods with business logic, data fetches with ORMs 
+
+    // large private untestable methods with business logic, data fetches with ORMs
     var invoice = CreateInvoice(request);
-    
+
    	// line item logic wasn't ported yet, so it's in a stored procedure
     CreateLineItems(invoice);
     SaveInvoice(invoice);
@@ -122,7 +122,7 @@ Plug into your IoC container also gives you a great way to inject the few mocks 
 
 ### Test Helpers
 
-Since I was doing all this data setup, it became apparent that the code wasn't very [DRY](https://dotnetcodr.com/2013/10/17/the-dont-repeat-yourself-dry-design-principle-in-net-part-1/). This added to the brittleness of the tests. When I needed to tweak something for Test A, I'd have to do it 5 more times. Enter *Test Helpers*. These aren't anything fancy. Just classes that help you create that data you need. They should help create data that are useful for your tests. Think `OrderHelper.CreateDefault()` that gets you a fully-fledged order for some default (known) customer, with default line items attached to it. They should include some mechanism (optional parameters, method overloads) to vary that default data when needed. This will keep them flexible. 
+Since I was doing all this data setup, it became apparent that the code wasn't very [DRY](https://dotnetcodr.com/2013/10/17/the-dont-repeat-yourself-dry-design-principle-in-net-part-1/). This added to the brittleness of the tests. When I needed to tweak something for Test A, I'd have to do it 5 more times. Enter *Test Helpers*. These aren't anything fancy. Just classes that help you create that data you need. They should help create data that are useful for your tests. Think `OrderHelper.CreateDefault()` that gets you a fully-fledged order for some default (known) customer, with default line items attached to it. They should include some mechanism (optional parameters, method overloads) to vary that default data when needed. This will keep them flexible.
 
 Depending on the size of your domain you can go the official route of the [Test Builder Pattern](https://blog.ploeh.dk/2017/08/15/test-data-builders-in-c/) or you these can be simple helper methods. Whatever works. And if they are going to *use the application to create data* they would need access to your IoC container.
 
