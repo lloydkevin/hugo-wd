@@ -1,7 +1,7 @@
 ---
 title: "Zero Tests to TDD - What I've Learned"
 description: "A Journey from zero tests to on the way to Test Driven Development and what I've learned along the way."
-date: "2020-07-25T21:57:21-05:00"
+date: "2020-07-26T16:00"
 thumbnail: images/posts/zero-test-tdd.jpg
 images: [images/posts/zero-test-tdd.jpg]
 categories: [Blog]
@@ -74,7 +74,7 @@ Now the business has told us that invoicing customers is critical functionality,
 
 It's very difficult to think about best practices in a codebase that looks like this. How do I get my perfect Test Pyramid? How do break out dependencies so that the business logic is in one place I can test?
 
-It took me a long while to get to this point, but I've realized something is better than nothing. Technically, it's the first step to  Michael Feathers' philosophy of [exploratory tests](https://en.wikipedia.org/wiki/Exploratory_testing). Get some tests, any tests, in place first, so that you can have greater confidence when you refactor. It was a post from [Jimmy Bogard](https://jimmybogard.com/) (creator of the [AutoMapper](https://automapper.org/) library) that gave me this epiphany. He's advocating from [testing straight to the database](https://jimmybogard.com/avoid-in-memory-databases-for-tests/) with integration tests.
+It took me a long while to get to this point, but I've realized something is better than nothing. Technically, it's the first step to  Michael Feathers' philosophy of [exploratory tests](https://en.wikipedia.org/wiki/Exploratory_testing). Get some tests, any tests, in place first, so that you can have greater confidence when you refactor. It was a post from [Jimmy Bogard](https://jimmybogard.com/) (creator of the [AutoMapper](https://automapper.org/) library) that gave me this epiphany. He's advocating for [testing straight to the database](https://jimmybogard.com/avoid-in-memory-databases-for-tests/) with integration tests.
 
 ## Lessons Learned
 
