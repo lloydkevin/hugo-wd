@@ -2,9 +2,8 @@
 title: "Zero Tests to TDD - What I've Learned"
 description: "A Journey from zero tests to on the way to Test Driven Development and what I've learned along the way."
 date: "2020-07-25T21:57:21-05:00"
-thumbnail: "/images/posts/zero-test-tdd.png"
-images:
- - "/images/posts/zero-test-tdd.png"
+thumbnail: images/posts/zero-test-tdd.png
+images: [images/posts/zero-test-tdd.png]
 categories: [Blog]
 tags: [Testing, TDD, Entity Framework]
 ---
@@ -96,7 +95,9 @@ I've spent years mocking `DbContext` and `IDbSet` or mocking out our repository 
 
 Now straying from best practices does come with some issues. Because we're going to the database, you now have to worry about data setup. All of the applications that I've worked on would be totally crippled if they didn't have some initial data in a database. It was just impractical to spin up an empty database for each run of a suite, much less each test. I've accomplished this in different ways, depending on the application.
 
-For a small enough data set, I was able to use an existing database, output a SQL script, and use that as a starting point for tests. The script was about 20 MB, which is actually a sizable amount of test data. I was able to also spin up a [local instance of the database](https://gist.github.com/lloydkevin/be00721731fefa97448d80237108277b) to run my tests. These tests ran lightning fast, however, I was not a slave to keeping this script up to date with schema changes. You can be the judge of whether it's worth it for your application. Where an on the fly database wasn't an option (typically data set was too large), I would use a database of some known state.
+For a small enough data set, I was able to use an existing database, output a SQL script, and use that as a starting point for tests. The script was about 20 MB, which is actually a sizable amount of test data. I was able to also spin up a [local instance of the database](https://gist.github.com/lloydkevin/be00721731fefa97448d80237108277b) to run my tests. These tests ran lightning fast, however, I was not a slave to keeping this script up to date with schema changes. You can be the judge of whether it's worth it for your application. In an application that uses Entity Framework Code First to maintain the database, this could be combined with some `Seed` method.
+
+Where an on the fly database wasn't an option (typically data set was too large), I would use a database of some known state. This comes with its own set of compromises. You're then making certain assumptions about the database. For example: "Customer 222 is set up to accept credit card payments". Such assumptions add more breaking points for your tests, but they can make tests easier to write. It is the same case I've run into when doing manual testing. If someone screws up Customer 222, then everything is now broken. You would have to assess your application to figure out what the best balance is.
 
 Because all of your tests now rely on a shared database, it's more critical to make sure that tests don't interact poorly with each other. I did have to find ways to isolate tests. I'm using NUnit for testing, so I have a `DatabaseFixture` that allows me to run every test in its own `TransactionScope`. That way, I'm able to rollback all database transactions when I'm done. This works great with tests that have legacy Stored Procedure work.
 
@@ -150,7 +151,11 @@ Is this the best way? Of course not? Integration tests are slow, the slower the 
 - Use Test attributes appropriately. Tests can be categorized by speed, business area, or criticality.
   - Developers can then run subsets of the entire suite where appropriate. Developers should at least run all the tests in a class they modify.
   - CI builds could be configured to run subsets based on criticality.
-  - Scheduled CI builds can run the full suite after hours. 
+  - Scheduled CI builds can run the full suite after hours.
+- Push more functionality to your domain objects.
+  - If possible, you can push methods down to your domain objects.
+  - Do this where it makes sense.
+  - These can then be tested with *unit testing*.
 
 Do I see a benefit here? Absolutely! You go from 0 tests to some tests! How can that not be awesome?
 
