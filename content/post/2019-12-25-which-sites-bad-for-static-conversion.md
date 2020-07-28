@@ -4,8 +4,7 @@ description: "Not every site is suitable for static site generators (SSG)."
 date: "2019-12-25T23:31:50-06:00"
 url: /which-sites-bad-for-static-conversion
 # thumbnail: "/images/posts/code.jpg"
-images:
- - /images/posts/code.jpg
+image: /images/posts/code.jpg
 categories:
   - "Blog"
 tags:
