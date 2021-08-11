@@ -7,7 +7,6 @@ sections:
 - type: document
   path: Config.yml
   label: Config
-  match: "**/*"
 - type: directory
   path: content/about
   label: About
