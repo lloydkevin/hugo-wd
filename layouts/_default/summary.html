@@ -1,23 +1,17 @@
 <article class="list__item post">
-    {{- $thumb := "" -}}
-    {{- if .Params.thumbnail }}
-    {{- $thumb = .Params.thumbnail -}}
-    {{- else if .Params.images -}}
-    {{- $thumb = index .Params.images 0 -}}
-    {{- end }}
-	{{- if $thumb }}
+	{{- if .Params.thumbnail }}
 	<figure class="list__thumbnail">
 		<a href="{{ .Permalink }}">
-			<img src="{{ $thumb | relURL }}" alt="{{ .Title }}" />
+			<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}" />
 		</a>
 	</figure>
 	{{- end }}
 	<header class="list__header">
-		<h3 class="list__title post__title ">
+		<h2 class="list__title post__title">
 			<a href="{{ .RelPermalink }}" rel="bookmark">
 			{{ .Title }}
 			</a>
-		</h3>
+		</h2>
 		{{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
 		{{- end }}
