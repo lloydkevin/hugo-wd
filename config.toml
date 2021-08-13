@@ -21,7 +21,6 @@ enableRobotsTXT = true
   unsafe= true
 
 [Params]
-  # subtitle = "Quick and Dirty Web Development" # Subtitle of your site. Used in site header
   description = "Quick and Dirty Web Development" # Site description. Used in meta description
   copyright = "Web Development 2.0" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
@@ -30,8 +29,7 @@ enableRobotsTXT = true
   readmore = true # Show "Read more" button in list if true
   authorbox = false # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
-  pager = true
-  post_navigation = true # Show post navigation at bottom of pages if true
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "Mon Jan 2, 2006" # Change the format of dates
@@ -62,7 +60,7 @@ enableRobotsTXT = true
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  categories_counter = false # Enable counter for each category in "Categories" widget
+  categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
