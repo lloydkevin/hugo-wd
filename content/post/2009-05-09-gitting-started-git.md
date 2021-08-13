@@ -6,6 +6,7 @@ date: 2009-05-09T09:12:27+00:00
 url: /gitting-started-git/
 images:
   - wp-content/uploads/git-trunk.jpg
+thumbnail: wp-content/uploads/git-trunk.jpg
 aktt_notify_twitter:
   - yes
 syntaxhighlighter_encoded:

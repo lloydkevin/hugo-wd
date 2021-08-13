@@ -1,5 +1,6 @@
 baseURL = "https://www.webdevelopment2.com/"
 languageCode = "en-us"
+paginate = "10" # Number of posts per page
 title = "Web Development 2.0: Web Design, ASP.NET Core, CakePHP, Javascript"
 theme = "mainroad"
 description = "Quick and Dirty Web Development"
@@ -20,24 +21,35 @@ enableRobotsTXT = true
   unsafe= true
 
 [Params]
-  subtitle = "Quick and Dirty Web Development" # Subtitle of your site. Used in site header
   description = "Quick and Dirty Web Development" # Site description. Used in meta description
   copyright = "Web Development 2.0" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
   authorbox = false # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
-  post_navigation = true # Show post navigation at bottom of pages if true
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "Mon Jan 2, 2006" # Change the format of dates
   mathjax = false # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  highlightColor = "#e22d30" # Override highlight color
 #   customCSS = ["css/custom.css"] # Include custom CSS files
 #   customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.style.vars]
+  highlightColor = "#e22d30" # Override highlight color
+  # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  #image = "img/placeholder.png" # Logo image. Path relative to "static"
+  # title = "Mainroad" # Logo title, otherwise will use site title
+  subtitle = "Quick and Dirty Web Development" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
@@ -48,16 +60,17 @@ enableRobotsTXT = true
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 
-# [Params.widgets.social]
+[Params.widgets.social]
 #   # Enable parts of social widget
 #   facebook = "username"
-#   twitter = "username"
+  twitter = "kevinlloyd749"
 #   instagram = "username"
 #   linkedin = "username"
 #   telegram = "username"
-#   github = "username"
+  github = "lloydkevin"
 #   gitlab = "username"
 #   bitbucket = "username"
 #   email = "example@example.com"
