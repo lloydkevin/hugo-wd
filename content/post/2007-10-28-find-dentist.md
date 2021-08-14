@@ -34,6 +34,4 @@ Go ahead try it out as a quick form of [temporary dental repair][1]. You got not
 
 <img class="noshadow" src="https://tinyurl.com/ytmdzm" />
 
-[<img border="0" id=disclosure\_bar\_"14974" src="http://tinyurl.com/2ygbbo" onmouseover="show\_disclosure\_ad(14974);ad\_closed=false;" onmouseout="hide\_disclosure\_ad();ad\_closed=true;" />][1]
-
  [1]: http://www.majesticdrug.com/dentemp_os.htm
