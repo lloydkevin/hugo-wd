@@ -58,6 +58,9 @@ enableRobotsTXT = true
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility 
+
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = true # Enable counter for each category in "Categories" widget
