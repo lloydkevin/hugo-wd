@@ -1,4 +1,4 @@
-summaryInclude=60;
+summaryInclude=260;
 var fuseOptions = {
   shouldSort: true,
   includeMatches: true,
@@ -16,7 +16,7 @@ var fuseOptions = {
   ]
 };
 
-var searchQuery = param("s");
+var searchQuery = param("q");
 if(searchQuery){
   $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
