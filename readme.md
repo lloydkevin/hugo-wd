@@ -10,6 +10,7 @@
 - 12/13/2021
   - Making it a bit more readable:
     - Bumped font size to 1rem; and container width (grabbed the breakpoint 1140px from a bootstrap example)
+  - Local search using Fuse - https://codingnconcepts.com/hugo/client-side-search-engine-hugo/
 
 
 

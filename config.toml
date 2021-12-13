@@ -87,3 +87,6 @@ enableRobotsTXT = true
 # [[Params.widgets.social.custom]]
 #   title = "My Home Page"
 #   url = "http://example.com"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
