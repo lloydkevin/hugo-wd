@@ -2,25 +2,38 @@
 draft: true
 title: "Mocking Entity Framework 6 - To Mock Or Not To Mock"
 description: ""
-date: "2020-12-12"
+date: "2020-12-16"
 thumbnail: images/posts/mocking-entity-framework.jpg
 categories: [Blog]
 tags: [Testing, TDD, Entity Framework]
 ---
 
-## To Mock or not To Mock
+## Introduction
+First off, let me make a few assumptions if you're reading this article and trying to mock with Entity Framework 6:
 
-### Disclaimer
+1. **You're on a legacy codebase**. If you weren't you'd be using Entity Framework Core and the In Memory Provider.
 
-Before we got any further, let me state I don't generally advocate this. A mocked database, by definition, is different than what is running in production. If you aren't very careful, these differences may cause false positives or false negatives that wouldn't be valid in production. We'll get into the details later.
+2. **You're not utilizing Database Migrations**. If you were, it may probably be easier to create a new database and run tests using `localDb`.
 
-### If You Must
+3. **Your schema is extremely large**. With a large database schema (often seen in legacy systems) data setup can become extremely difficult. You want to set up some *simple* data for a test, but you end up 6 tables deep with a web of foreign key requirements.
+
+4. **You're not using the Repository Pattern**. Although, I'm not always a fan, it's much easier to mock out an interface you define (usually).
+
+
+## Disclaimer
+Mocking has become controversial. It can be a testing code smell. If used incorrectly, it can lead to brittle tests, that don't add a lot of value. Ironically, it can sometimes make tests more difficult to write.
+
+A rule I like to follow is, try to only mock dependencies that are external to the system and that you don't control. Things like a message bus, API calls to different services (even some you control, sending emails, texts, etc.).
+
+A mocked database, by definition, is different than what is running in production. If you aren't very careful, these differences may cause false positives or false negatives that wouldn't be valid in production. We'll get into the details later. Be sure the pros of mocking in this scenario outweigh the cons.
+
+## If You Must
 <!-- 
 For years, the semantics of *unit testing* vs *integration testing* has been up for debate. Some claim that unit testing means you're testing one *method* of a class whereas integration testing tests the entire system. Others argue the difference is *in memory* vs *hitting the database*. In my experience, the semantics only matter as long as your team understands what the different classifications of tests are and when to use each. For the purposes of this conversation, let's assuming unit tests don't hit the database.  -->
-The typical benefit of mocking your database during tests is speed. Excluding the database has the advantage of getting your tests to run blazing fast. Microsoft has a [great post](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking#testing-non-query-scenarios) of how to do this.
+The typical benefit of mocking your database during tests is speed. Excluding the database has the advantage of getting your tests to run blazing fast. I won't go through too many of the details on how to do this. Microsoft has a [great post](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking#testing-non-query-scenarios) of how to do this.
 
 ## Making It Reusable
-I've used this extension method in the past with great success.
+To make mocking easier to reuse throughout my tests I've used this extension method in the past with great success.
 ```csharp
 public static DbSet<T> MockDbSet<T>(this IList<T> list)
     where T : class
@@ -172,11 +185,14 @@ public class InvoiceFactory
 ```
 At this point, your tests are running only on in memory items and they can complete in milliseconds. You can test dozens of different scenarios (empty orders, orders with invalid data/statuses, different variables of line items, etc.) in sub-second times. No mocking required.
 
-Another option would be to push this code down to your domain objects (aggregates). Favor pure functions, they are easy to test and fast!.
+Another option would be to push this code down to your domain objects (aggregates). Favor pure functions, they are easy to test and fast!
 
----
+### Be Pragmatic When Testing
+> I don't want to change the application just for testing.
 
-Notes:
+It's impossible to *effectively* test a legacy application without making code changes. So be honest about what your goals are. 
+> I have to follow *best practices*
 
-https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking
+If you have some mission critical business logic that's buried somewhere in your application, you may want to extract it. Into anything (even a static method) that helps you test.
 
+The *[Humble Object Pattern](http://xunitpatterns.com/Humble%20Object.html)* is a great tool for this. It's a fancy way of saying, extract logic to something without dependencies. Then voilà, no mocking needed.
