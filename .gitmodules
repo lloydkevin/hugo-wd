@@ -1,3 +1,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad
+[submodule "themes/liva-hugo"]
+	path = themes/liva-hugo
+	url = https://github.com/gethugothemes/liva-hugo.git
