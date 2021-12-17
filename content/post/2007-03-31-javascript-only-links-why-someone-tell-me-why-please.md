@@ -13,7 +13,7 @@ categories:
 ---
 #### Why We Might Need (Want) JavaScript Links
 
-Recently I stumbled upon a site that I haven't been to for a while: [CSOWeb.org][1]. The design is nice and clean: a header image, with some gradients and colors that work together. But wait, where are all the links? 95% of the links on the sites are _http://csoweb.org/#._ What the hell? Everything is done behind the scenes in JavaScript in OnClick() scripts.
+Recently I stumbled upon a site that I haven't been to for a while: [CSOWeb.org][1]. The design is nice and clean: a header image, with some gradients and colors that work together. But wait, where are all the links? 95% of the links on the sites are _http://www.csoweb.org/#._ What the hell? Everything is done behind the scenes in JavaScript in OnClick() scripts.
 
 Sometime later I read a post on the [Future of the Web][2] about [JavaScript only links][2]. The first comment on the page is usually everyone' argument for these links."But...but...what about GMail, and Google Web Toolkit?!?!?". Good argument, I guess. Everyone loves Google and everyone tries to emulate them. There's no problem in that as long as we understand what's going on. Magic word: [AJAX][3]. AJAX makes heavy use of JavaScript for obvious reasons. If we're populating a page from a database using AJAX, then JavaScript is the only option. This leads us into the discussion of appropriate uses of Ajax. Don't take me back there man.
 
