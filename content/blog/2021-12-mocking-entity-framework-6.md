@@ -1,8 +1,8 @@
 ---
-title: "Mocking Entity Framework 6 - How To Do It, When NOT To Do It"
-description: ""
+title: "Mocking Entity Framework 6 - How To Do It, When Not To Do It"
+description: "Entity Framework DbSets can be mocked to speed up unit testing. But use this with caution, here's why."
 date: "2020-12-16"
-thumbnail: images/posts/mocking-entity-framework.jpg
+image: images/posts/mocking-entity-framework.jpg
 categories: [Blog]
 tags: [Testing, TDD, Entity Framework]
 ---
@@ -32,7 +32,7 @@ For years, the semantics of *unit testing* vs *integration testing* has been up 
 The typical benefit of mocking your database during tests is speed. Excluding the database has the advantage of getting your tests to run blazing fast. I won't go through too many of the details on how to do this. Microsoft has a [great post](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/testing/mocking#testing-non-query-scenarios) of how to do this.
 
 ## Making It Reusable
-To make mocking easier to reuse throughout my tests I've used this extension method in the past with great success.
+To make mocking easier to reuse throughout my tests I've used this extension method in the past with great success. This uses the Moq framework.
 ```csharp
 public static DbSet<T> MockDbSet<T>(this IList<T> list)
     where T : class

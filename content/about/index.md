@@ -2,7 +2,7 @@
 title: About
 author: Kevin Lloyd
 type: page
-menu: main
+# menu: main
 date: 2005-11-21T13:17:50+00:00
 views:
   - 11

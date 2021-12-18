@@ -3,7 +3,7 @@ draft: true
 title: "Creating a Hugo Theme From Scratch - Part 1"
 description: ""
 date: "2021-08-13T23:26:06-05:00"
-thumbnail: ""
+image: ""
 # images:
 
 categories:

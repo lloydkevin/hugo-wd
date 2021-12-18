@@ -4,7 +4,7 @@ author: Kevin Lloyd
 type: post
 date: 2009-12-01T13:18:18+00:00
 url: /picking-a-cms-3-wordpress-as-a-cms/
-thumbnail: images/posts/picking-a-cms.jpg
+image: images/posts/picking-a-cms.jpg
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

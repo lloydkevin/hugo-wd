@@ -2,7 +2,7 @@
 title: "Zero Tests to TDD - What I've Learned"
 description: "A Journey from zero tests to on the way to Test Driven Development and what I've learned along the way."
 date: "2020-07-26T16:00:00-05:00"
-thumbnail: images/posts/zero-test-tdd.jpg
+image: images/posts/zero-test-tdd.jpg
 images: [images/posts/zero-test-tdd.jpg]
 categories: [Blog]
 tags: [Testing, TDD, Entity Framework]

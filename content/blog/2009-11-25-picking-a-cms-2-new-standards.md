@@ -5,7 +5,7 @@ type: post
 date: 2009-11-25T14:13:23+00:00
 url: /picking-a-cms-2-new-standards/
 images: [images/posts/picking-a-cms.jpg]
-thumbnail: images/posts/picking-a-cms.jpg
+image: images/posts/picking-a-cms.jpg
 aktt_notify_twitter:
   - yes
 aktt_tweeted:

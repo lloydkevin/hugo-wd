@@ -4,7 +4,7 @@ author: Kevin Lloyd
 type: post
 date: 2013-05-02T03:46:16+00:00
 url: /deploy-wordpress-fabric/
-thumbnail: /wp-content/uploads/sewing-machine.jpg
+image: /wp-content/uploads/sewing-machine.jpg
 images:
   - /wp-content/uploads/sewing-machine.jpg
 categories:
