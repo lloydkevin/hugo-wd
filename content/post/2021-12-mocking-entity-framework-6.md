@@ -1,7 +1,7 @@
 ---
 title: "Mocking Entity Framework 6 - How To Do It, When NOT To Do It"
 description: ""
-date: "2020-12-16"
+date: "2021-12-16"
 thumbnail: images/posts/mocking-entity-framework.jpg
 categories: [Blog]
 tags: [Testing, TDD, Entity Framework]
