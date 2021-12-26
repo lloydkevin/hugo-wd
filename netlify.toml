@@ -1,0 +1,23 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.90.1"
+
+[[redirects]]
+  from = "/migrating-from-wordpress-to-hugo"
+  to = "https://www.kevinlloyd.net/migrating-from-wordpress-to-hugo"
+
+[[redirects]]
+  from = "/which-sites-bad-for-static-conversion"
+  to = "https://www.kevinlloyd.net/which-sites-bad-for-static-conversion"
+
+[[redirects]]
+  from = "/zero-tests-to-tdd-what-ive-learned"
+  to = "https://www.kevinlloyd.net/zero-tests-to-tdd-what-ive-learned"
+
+[[redirects]]
+  from = "/mocking-entity-framework-6-how-to-do-it-when-not-to-do-it"
+  to = "https://www.kevinlloyd.net/mocking-entity-framework-6-how-to-do-it-when-not-to-do-it"
+
